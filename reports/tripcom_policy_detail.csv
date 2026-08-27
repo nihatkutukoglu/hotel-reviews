@@ -1,0 +1,96 @@
+hotel_id,hotel_name,area,pet_status,crib_status,extrabed_status,breakfast_status
+BOD002,Armonia Holiday Village & Spa,Akyarlar,NOT_ALLOWED,YES,NO,
+BOD003,ASPAT HOTEL BODRUM Beach Restaurant,Akyarlar,ON_REQUEST,YES,NO,
+BOD004,Bendis Beach Hotel,Akyarlar,NOT_ALLOWED,VARIES,VARIES,BUFFET
+BOD007,Kefaluka Resort,Akyarlar,NOT_ALLOWED,VARIES,VARIES,BUFFET
+BOD008,LA BREZZA SUITE &HOTEL,Akyarlar,ALLOWED,VARIES,NO,OTHER
+BOD010,Mare Garden Hotel,Akyarlar,ALLOWED,VARIES,NO,OTHER
+BOD011,"Radisson Collection Hotel, Bodrum",Akyarlar,ON_REQUEST,,,BUFFET
+BOD012,Selectum Collection Bodrum,Akyarlar,NOT_ALLOWED,VARIES,VARIES,BUFFET
+BOD013,"Sentido Bellazure - Akyarlar, Bodrum / Turkey",Akyarlar,NOT_ALLOWED,,,BUFFET
+BOD014,Suum Bodrum Hotel & Beach,Akyarlar,NOT_ALLOWED,NO,VARIES,A_LA_CARTE
+BOD016,Xanadu Island,Akyarlar,NOT_ALLOWED,VARIES,VARIES,
+BOD017,Ambrosia Otel Beach & Spa,Bitez,NOT_ALLOWED,VARIES,VARIES,BUFFET
+BOD020,Bitez Risa Hotel,Bitez,NOT_ALLOWED,NO,NO,BUFFET
+BOD021,"Caresse, a Luxury Collection Resort & Spa, Bodrum",Bitez,ON_REQUEST,YES,YES,BUFFET
+BOD025,Halikarya Hotel & Restaurant Beach,Bitez,,VARIES,VARIES,BUFFET
+BOD029,Mumu Bodrum Hotel,Bitez,,NO,NO,A_LA_CARTE
+BOD031,Okaliptus Otel,Bitez,NOT_ALLOWED,NO,NO,BUFFET
+BOD033,Ramada Resort by Wyndham Bodrum,Bitez,ON_REQUEST,VARIES,VARIES,BUFFET
+BOD036,Bodrium Hotel & SPA,Bodrum Merkez,NOT_ALLOWED,VARIES,VARIES,BUFFET
+BOD041,La Quinta by Wyndham Bodrum,Bodrum Merkez,NOT_ALLOWED,VARIES,VARIES,BUFFET
+BOD043,METT Hotel & Beach Resort Bodrum,Bodrum Merkez,ON_REQUEST,VARIES,VARIES,A_LA_CARTE
+BOD045,Salmakis Resort & Spa,Bodrum Merkez,NOT_ALLOWED,VARIES,VARIES,BUFFET
+BOD048,Babana Hotel,Göltürkbükü,NOT_ALLOWED,VARIES,NO,OTHER
+BOD051,Faros Bodrum Hotel Göltürkbükü,Göltürkbükü,ON_REQUEST,VARIES,VARIES,BUFFET
+BOD055,Lavinya Otel Göltürkbükü,Göltürkbükü,NOT_ALLOWED,VARIES,VARIES,OTHER
+BOD056,"Mandarin Oriental, Bodrum",Göltürkbükü,NOT_ALLOWED,VARIES,VARIES,BUFFET
+BOD058,Bodrum Beach Resort,Gümbet,NOT_ALLOWED,VARIES,VARIES,BUFFET
+BOD059,Bodrum Hotel Baba,Gümbet,NOT_ALLOWED,VARIES,VARIES,BUFFET
+BOD060,Club Shark Hotel,Gümbet,NOT_ALLOWED,VARIES,VARIES,
+BOD061,Gümbet Anıl Beach,Gümbet,NOT_ALLOWED,VARIES,VARIES,BUFFET
+BOD064,Jasmin Elite Residence & Spa,Gümbet,NOT_ALLOWED,YES,VARIES,BUFFET
+BOD065,Mirada Exclusive Bodrum,Gümbet,NOT_ALLOWED,YES,VARIES,BUFFET
+BOD066,Royal Asarlik Beach Hotel & Spa,Gümbet,NOT_ALLOWED,VARIES,VARIES,BUFFET
+BOD068,Selectum Colours Bodrum,Gümbet,NOT_ALLOWED,YES,NO,BUFFET
+BOD072,VERY CHIC BODRUM,Gümbet,NOT_ALLOWED,,,
+BOD073,Arriba Apartment & Restaurant & Bungalows,Gümüşlük,NOT_ALLOWED,NO,NO,A_LA_CARTE
+BOD074,Begonvil Gümüşlük,Gümüşlük,,VARIES,VARIES,
+BOD076,Gümüşlük No3,Gümüşlük,,NO,NO,
+BOD078,Liman Hotel Gümüslük (Adult only),Gümüşlük,NOT_ALLOWED,NO,VARIES,A_LA_CARTE
+BOD081,Oda Bodrum Gümüşlük,Gümüşlük,ALLOWED,NO,NO,
+BOD082,Otel Gümüşlük,Gümüşlük,ON_REQUEST,VARIES,VARIES,BUFFET
+BOD085,Paradise Gümüşlük,Gümüşlük,ALLOWED,NO,NO,
+BOD086,Vega Aparts,Gümüşlük,NOT_ALLOWED,YES,VARIES,
+BOD088,Baia Bodrum Hotel,Gündoğan,NOT_ALLOWED,VARIES,VARIES,BUFFET
+BOD089,Cape Bodrum Luxury Hotel & Beach,Gündoğan,NOT_ALLOWED,VARIES,VARIES,BUFFET
+BOD090,Costa Farilya Special Class Hotel Bodrum,Gündoğan,ON_REQUEST,VARIES,VARIES,BUFFET
+BOD091,Gündoğan Suites,Gündoğan,,NO,NO,
+BOD095,Mivara Luxury Bodrum,Gündoğan,NOT_ALLOWED,VARIES,YES,BUFFET
+BOD096,Olira Boutique Hotel&SPA,Gündoğan,NOT_ALLOWED,VARIES,VARIES,BUFFET
+BOD097,OLİVE TREE HOTEL,Gündoğan,NOT_ALLOWED,VARIES,NO,OTHER
+BOD100,Villa Rustica Hotel,Gündoğan,NOT_ALLOWED,VARIES,NO,BUFFET
+BOD106,La Blanche Island Bodrum,Güvercinlik,NOT_ALLOWED,VARIES,VARIES,BUFFET
+BOD107,Le Méridien Bodrum Beach Resort,Güvercinlik,NOT_ALLOWED,VARIES,VARIES,BUFFET
+BOD108,Lujo Hotel Bodrum,Güvercinlik,NOT_ALLOWED,VARIES,VARIES,A_LA_CARTE
+BOD110,Titanic Luxury Collection Bodrum,Güvercinlik,NOT_ALLOWED,VARIES,VARIES,OTHER
+BOD111,Zena Hotel Bodrum,Güvercinlik,NOT_ALLOWED,NO,NO,OTHER
+BOD112,Azure By Yelken Hotel,Kadıkalesi,NOT_ALLOWED,YES,YES,OTHER
+BOD115,Yasmin Bodrum Resort,Kadıkalesi,NOT_ALLOWED,VARIES,NO,BUFFET
+BOD118,Amfora Hotel,Ortakent-Yahşi,NOT_ALLOWED,VARIES,NO,
+BOD120,Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,NOT_ALLOWED,YES,YES,A_LA_CARTE
+BOD121,Eskiyalı Otel,Ortakent-Yahşi,,NO,NO,BUFFET
+BOD122,Florida Otel,Ortakent-Yahşi,NOT_ALLOWED,NO,VARIES,OTHER
+BOD124,Irmak Boutique Hotel,Ortakent-Yahşi,NOT_ALLOWED,NO,VARIES,BUFFET
+BOD126,Khai Hotel Bodrum,Ortakent-Yahşi,ALLOWED,VARIES,VARIES,A_LA_CARTE
+BOD128,Lugga Boutique Hotel & Beach,Ortakent-Yahşi,NOT_ALLOWED,VARIES,NO,BUFFET
+BOD130,Petunya Beach Resort,Ortakent-Yahşi,NOT_ALLOWED,NO,NO,BUFFET
+BOD131,Regia Mare Beach Hotel Bodrum,Ortakent-Yahşi,NOT_ALLOWED,YES,NO,OTHER
+BOD134,Yakamoz Otel,Ortakent-Yahşi,NOT_ALLOWED,NO,NO,BUFFET
+BOD136,Zest Exclusive Hotel and Spa,Ortakent-Yahşi,NOT_ALLOWED,VARIES,NO,A_LA_CARTE
+BOD140,DoubleTree by Hilton Bodrum Işıl Club All-Inclusive Resort,Torba,ON_REQUEST,VARIES,VARIES,BUFFET
+BOD141,DUJA BODRUM,Torba,NOT_ALLOWED,VARIES,VARIES,BUFFET
+BOD144,Mira Suites,Torba,NOT_ALLOWED,NO,YES,
+BOD147,Omar Hotel & Suites,Torba,NOT_ALLOWED,YES,NO,BUFFET
+BOD151,Sarpedor Boutique Hotel & SPA,Torba,NOT_ALLOWED,VARIES,VARIES,
+BOD152,"Susona Bodrum, LXR Hotels & Resorts",Torba,ALLOWED,VARIES,VARIES,OTHER
+BOD158,Arin Resort Bodrum,Turgutreis,NOT_ALLOWED,VARIES,VARIES,BUFFET
+BOD162,Rammos Managed by Dedeman,Turgutreis,ALLOWED,VARIES,VARIES,OTHER
+BOD165,Caja by Maxx Royal,Türkbükü,NOT_ALLOWED,VARIES,VARIES,A_LA_CARTE
+BOD167,Elista Hotel & Spa,Türkbükü,ON_REQUEST,VARIES,VARIES,OTHER
+BOD170,No:81 Hotel,Türkbükü,ON_REQUEST,VARIES,VARIES,OTHER
+BOD172,Ailla Yalıkavak,Yalıkavak,,VARIES,VARIES,OTHER
+BOD173,Allium Bodrum Resort & Spa,Yalıkavak,ON_REQUEST,VARIES,VARIES,
+BOD174,Arts Hotel Bodrum Yalıkavak,Yalıkavak,ON_REQUEST,VARIES,VARIES,A_LA_CARTE
+BOD175,Avantgarde Refined Hotel | Yalıkavak,Yalıkavak,ON_REQUEST,VARIES,VARIES,BUFFET
+BOD177,Delta Hotels By Marriott Bodrum,Yalıkavak,NOT_ALLOWED,VARIES,VARIES,BUFFET
+BOD180,MGallery The Bodrum Hotel Yalıkavak,Yalıkavak,ON_REQUEST,VARIES,VARIES,BUFFET
+BOD181,Palmalife Bodrum Resort & Spa,Yalıkavak,ALLOWED,VARIES,VARIES,
+BOD183,Ruins Luxury Resort,Yalıkavak,NOT_ALLOWED,NO,VARIES,OTHER
+BOD184,Sea Palm Otel -YALIKAVAK,Yalıkavak,ON_REQUEST,VARIES,NO,BUFFET
+BOD186,Sirene Luxury Hotel Bodrum,Yalıkavak,NOT_ALLOWED,VARIES,VARIES,BUFFET
+BOD187,Spektr Boutique Hotel Yalikavak,Yalıkavak,ON_REQUEST,YES,NO,A_LA_CARTE
+BOD189,The Bodrum EDITION,Yalıkavak,ON_REQUEST,VARIES,VARIES,BUFFET
+BOD190,The Sign Highlight Hotel,Yalıkavak,ON_REQUEST,VARIES,VARIES,OTHER
+BOD191,Yalıkavak Marina Hotel by METT Collection,Yalıkavak,NOT_ALLOWED,VARIES,VARIES,A_LA_CARTE
+BOD192,Yalıpark Beach Hotel,Yalıkavak,NOT_ALLOWED,VARIES,VARIES,
