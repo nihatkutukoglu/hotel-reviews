@@ -1,0 +1,43 @@
+GOOGLE TRAVEL CUSTOMER VOICE - FINAL SUMMARY
+==================================================
+
+DATA COVERAGE
+  master_hotel_count: 192
+  hotels_with_google_travel_reviews: 104
+  hotels_with_no_google_travel_reviews: 88
+  coverage_pct: 54.2
+  review_count: 2336
+  area_count: 14
+  rating_coverage_pct: 99.9
+  details_coverage_pct: 64.8
+
+RATING
+  mean_rating: 4.13
+  rating_group_distribution: {'HIGH': 1785, 'LOW': 407, 'MID': 141}
+
+CUSTOMER VOICE
+  top_overall_aspects: ['FOOD', 'STAFF', 'ROOM', 'CLEANLINESS', 'BEACH_SEA', 'LOCATION', 'BAR_DRINKS', 'SERVICE', 'PRICE_VALUE', 'NOISE']
+  top_positive_context_aspects: ['TRANSPORT_TRANSFER', 'ANIMATION_ENTERTAINMENT', 'STAFF', 'FOOD', 'LOCATION']
+  top_negative_context_aspects: ['REFUND_PAYMENT', 'WIFI', 'AIR_CONDITIONING', 'RESERVATION', 'COMMUNICATION']
+
+STRENGTHS
+  101 hotels with an identified strength-signal aspect
+
+CONCERNS
+  75 hotels with an identified concern-signal aspect
+
+HOTEL PROFILES
+  104 / 104 hotels are sample-adequate (n>=5)
+
+AREA PROFILES
+  top area by review coverage: Gümbet
+
+SOURCE SENSITIVITY
+  {'all_sources_mean_rating': 4.128, 'google_only_mean_rating': 4.105, 'all_sources_n': 2336.0, 'google_only_n': 2088.0, 'difference': 0.023}
+
+LIMITATIONS
+  See notebook 15 section E19 for the full list (aggregate source, sample imbalance,
+  rule-based aspects, no sentiment model, no causal claims, stable-end != historical 100%).
+
+NEXT STEP
+  Trip.com discovery/scraping and TripAdvisor were explicitly out of scope this round.

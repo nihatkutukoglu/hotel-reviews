@@ -1,0 +1,21 @@
+﻿hotel_id,hotel_name,area,verified_link,scraped,unique_review_count
+BOD002,Armonia Holiday Village & Spa,Akyarlar,True,True,11
+BOD004,Bendis Beach Hotel,Akyarlar,True,True,11
+BOD007,Kefaluka Resort,Akyarlar,True,True,11
+BOD010,Mare Garden Hotel,Akyarlar,True,True,2
+BOD011,"Radisson Collection Hotel, Bodrum",Akyarlar,True,True,11
+BOD012,Selectum Collection Bodrum,Akyarlar,True,True,11
+BOD013,"Sentido Bellazure - Akyarlar, Bodrum / Turkey",Akyarlar,True,True,8
+BOD014,Suum Bodrum Hotel & Beach,Akyarlar,True,True,11
+BOD016,Xanadu Island,Akyarlar,True,True,11
+BOD051,Faros Bodrum Hotel Göltürkbükü,Göltürkbükü,True,False,0
+BOD055,Lavinya Otel Göltürkbükü,Göltürkbükü,True,False,0
+BOD056,"Mandarin Oriental, Bodrum",Göltürkbükü,True,True,11
+BOD058,Bodrum Beach Resort,Gümbet,True,True,11
+BOD059,Bodrum Hotel Baba,Gümbet,True,False,0
+BOD071,Tropicana Beach Hotel,Gümbet,True,True,12
+BOD072,VERY CHIC BODRUM,Gümbet,True,False,0
+BOD073,Arriba Apartment & Restaurant & Bungalows,Gümüşlük,True,False,0
+BOD074,Begonvil Gümüşlük,Gümüşlük,True,True,3
+BOD076,Gümüşlük No3,Gümüşlük,True,True,5
+BOD078,Liman Hotel Gümüslük (Adult only),Gümüşlük,True,True,11

@@ -1,0 +1,4 @@
+﻿hotel_id,hotel_name,source_url,attempt,page_accessible,blocked,detected_name,status,error
+BOD012,Selectum Collection Bodrum,https://www.tripadvisor.com/Hotel_Review-g951437-d775593-Reviews-Selectum_Collection_Bodrum-Akyarlar_Turgutreis_Bodrum_District_Mugla_Province_Turkish_A.html,1,True,False,,ERROR,Otel adi bulunamadi; sayfa yuklenmemis olabilir.
+BOD056,"Mandarin Oriental, Bodrum",https://www.tripadvisor.com/Hotel_Review-g298660-d6665368-Reviews-Mandarin_Oriental_Bodrum-Golturkbuku_Bodrum_District_Mugla_Province_Turkish_Aegean_Coa.html,1,True,False,Mandarin Oriental Bodrum,VALID_ENTITY,
+BOD012,Selectum Collection Bodrum,https://www.tripadvisor.com/Hotel_Review-g951437-d775593-Reviews-Selectum_Collection_Bodrum-Akyarlar_Turgutreis_Bodrum_District_Mugla_Province_Turkish_A.html,2,True,False,Selectum Collection Bodrum,VALID_ENTITY,

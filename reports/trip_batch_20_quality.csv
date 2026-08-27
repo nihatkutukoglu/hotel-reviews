@@ -1,0 +1,21 @@
+﻿hotel_id,hotel_name,rows,unique_rows,empty_text,invalid_rating,duplicate_hash,date_coverage,stay_date_coverage,traveler_type_coverage,room_type_coverage
+BOD002,Armonia Holiday Village & Spa,11,11,0,0,0,100.0,100.0,54.5,0.0
+BOD004,Bendis Beach Hotel,11,11,0,0,0,100.0,90.9,81.8,0.0
+BOD007,Kefaluka Resort,11,11,0,0,0,100.0,90.9,100.0,90.9
+BOD010,Mare Garden Hotel,2,2,0,0,0,100.0,50.0,0.0,0.0
+BOD011,"Radisson Collection Hotel, Bodrum",11,11,0,0,0,100.0,90.9,100.0,90.9
+BOD012,Selectum Collection Bodrum,11,11,0,0,0,100.0,90.9,90.9,9.1
+BOD013,"Sentido Bellazure - Akyarlar, Bodrum / Turkey",8,8,0,0,0,100.0,62.5,87.5,0.0
+BOD014,Suum Bodrum Hotel & Beach,11,11,0,0,0,100.0,90.9,45.5,0.0
+BOD016,Xanadu Island,11,11,0,0,0,100.0,90.9,100.0,27.3
+BOD051,Faros Bodrum Hotel Göltürkbükü,0,0,0,0,0,0,0,0,0
+BOD055,Lavinya Otel Göltürkbükü,0,0,0,0,0,0,0,0,0
+BOD056,"Mandarin Oriental, Bodrum",11,11,0,0,0,100.0,90.9,90.9,81.8
+BOD058,Bodrum Beach Resort,11,11,0,0,0,100.0,90.9,100.0,90.9
+BOD059,Bodrum Hotel Baba,0,0,0,0,0,0,0,0,0
+BOD071,Tropicana Beach Hotel,12,12,0,0,0,0.0,100.0,41.7,0.0
+BOD072,VERY CHIC BODRUM,0,0,0,0,0,0,0,0,0
+BOD073,Arriba Apartment & Restaurant & Bungalows,0,0,0,0,0,0,0,0,0
+BOD074,Begonvil Gümüşlük,3,3,0,0,0,100.0,66.7,100.0,0.0
+BOD076,Gümüşlük No3,5,5,0,0,0,100.0,80.0,0.0,0.0
+BOD078,Liman Hotel Gümüslük (Adult only),11,11,0,0,0,100.0,90.9,100.0,27.3

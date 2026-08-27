@@ -1,0 +1,4 @@
+detail,spearman_vs_main_rating,n
+rooms_score,0.833,1514
+service_score,0.876,1514
+location_score,0.737,1514

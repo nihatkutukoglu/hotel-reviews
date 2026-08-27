@@ -1,0 +1,28 @@
+{
+  "updated_at": "2026-08-27T02:40:03Z",
+  "phases": {
+    "TASK_A_TRIP_DISCOVERY": {
+      "status": "COMPLETE",
+      "notes": "172/192 previously-unattempted hotels run through full discovery (+4 retried once, still ERROR - marked unresolved). Trip.com verified_direct: 20 -> 96."
+    },
+    "TASK_B_TRIP_FULL_SCRAPE_POLICIES_HOTEL360": {
+      "status": "COMPLETE",
+      "notes": "Entity validation 96/96 VALID_ENTITY (0 wrong/review-required after 10 new aliases) -> controlled batch (gate PASS) -> full stable-end (gate PASS, 3 MANUAL_ACTION_REQUIRED safely skipped) -> policies expansion (19->95 hotels) -> notebooks 16-20 refreshed and executed -> Hotel 360 refreshed (HIGH+MEDIUM confidence 16->58 hotels)."
+    },
+    "TASK_C_SIKAYETVAR_TARGETED_COMPLETION": {
+      "status": "COMPLETE",
+      "repo": "bodrum-otel"
+    },
+    "TASK_D_GOOGLE_SIKAYETVAR_CROSS_SOURCE": {
+      "status": "COMPLETE",
+      "repo": "bodrum-otel"
+    },
+    "TASK_E_PROJECT_WIDE_CONTROL": {
+      "status": "COMPLETE",
+      "notes": "Config coupling regression re-checked (0 violations); path portability checked (clean); README refreshed in both repos; full test suites green in both repos (hotel-reviews 149/149, bodrum-otel 125/125 + legacy 7/7)."
+    },
+    "TASK_F_GITHUB_FINALIZATION": {
+      "status": "IN_PROGRESS"
+    }
+  }
+}

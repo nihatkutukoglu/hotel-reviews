@@ -1,0 +1,6 @@
+TRIP.COM POLICIES SUMMARY
+==============================
+hotels_with_policy_data: 95
+policy_status_distribution: {'PARTIAL': 94, 'COMPLETE': 1}
+top_amenities: [('has_wifi', 88), ('has_parking', 81), ('has_restaurant', 78), ('has_bar', 72), ('has_private_beach', 59), ('has_gym', 50), ('has_sauna', 48), ('has_spa', 46), ('has_conference_room', 43), ('has_airport_pickup', 40)]
+NOTE: a missing policy field reflects the source page, not a scraper failure (checkout time in particular is not rendered by Trip.com for many hotels).

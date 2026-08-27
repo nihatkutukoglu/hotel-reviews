@@ -1,0 +1,21 @@
+﻿hotel_id,hotel_name,platform,url_valid,entity_valid,rows_scraped,unique_rows,empty_review_text,invalid_rating,duplicate_rows,status,error
+BOD012,Selectum Collection Bodrum,google_travel,True,False,0,0,0,0,0,WRONG_ENTITY,
+BOD012,Selectum Collection Bodrum,trip,True,True,10,10,0,0,0,COMPLETED,
+BOD012,Selectum Collection Bodrum,tripadvisor,True,False,0,0,0,0,0,ERROR,Otel adi bulunamadi; sayfa yuklenmemis olabilir.
+BOD012,Selectum Collection Bodrum,policies_trip,True,True,1,1,0,0,0,PARTIAL,"missing fields: cıkıs_saati, cocuk_politikası, bebek_ve_ek_yatak, kahvalti, yas_sarti"
+BOD056,"Mandarin Oriental, Bodrum",google_travel,True,False,0,0,0,0,0,WRONG_ENTITY,
+BOD056,"Mandarin Oriental, Bodrum",trip,True,True,10,10,0,0,0,COMPLETED,
+BOD056,"Mandarin Oriental, Bodrum",tripadvisor,True,False,0,0,0,0,0,ERROR,Otel adi bulunamadi; sayfa yuklenmemis olabilir.
+BOD056,"Mandarin Oriental, Bodrum",policies_trip,True,True,1,1,0,0,0,PARTIAL,"missing fields: cıkıs_saati, cocuk_politikası, bebek_ve_ek_yatak, kahvalti, yas_sarti"
+BOD058,Bodrum Beach Resort,google_travel,True,False,0,0,0,0,0,WRONG_ENTITY,
+BOD058,Bodrum Beach Resort,trip,True,True,10,10,0,0,0,COMPLETED,
+BOD058,Bodrum Beach Resort,tripadvisor,True,False,0,0,0,0,0,ERROR,Otel adi bulunamadi; sayfa yuklenmemis olabilir.
+BOD058,Bodrum Beach Resort,policies_trip,True,True,1,1,0,0,0,PARTIAL,"missing fields: cocuk_politikası, bebek_ve_ek_yatak, kahvalti, hizmet_hayvanları, yas_sarti"
+BOD007,Kefaluka Resort,google_travel,True,False,0,0,0,0,0,WRONG_ENTITY,
+BOD007,Kefaluka Resort,trip,True,True,10,10,0,0,0,COMPLETED,
+BOD007,Kefaluka Resort,tripadvisor,True,False,0,0,0,0,0,ERROR,Otel adi bulunamadi; sayfa yuklenmemis olabilir.
+BOD007,Kefaluka Resort,policies_trip,True,True,1,1,0,0,0,PARTIAL,"missing fields: cıkıs_saati, cocuk_politikası, bebek_ve_ek_yatak, kahvalti, yas_sarti"
+BOD013,"Sentido Bellazure - Akyarlar, Bodrum / Turkey",google_travel,True,False,0,0,0,0,0,WRONG_ENTITY,
+BOD013,"Sentido Bellazure - Akyarlar, Bodrum / Turkey",trip,True,False,0,0,0,0,0,WRONG_ENTITY,
+BOD013,"Sentido Bellazure - Akyarlar, Bodrum / Turkey",tripadvisor,True,False,0,0,0,0,0,ERROR,Otel adi bulunamadi; sayfa yuklenmemis olabilir.
+BOD013,"Sentido Bellazure - Akyarlar, Bodrum / Turkey",policies_trip,True,False,0,0,0,0,0,WRONG_ENTITY,

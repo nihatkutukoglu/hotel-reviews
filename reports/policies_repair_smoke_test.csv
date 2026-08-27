@@ -1,0 +1,6 @@
+﻿hotel_id,hotel_name,entity_status,checkin_found,checkout_found,children_found,extra_bed_found,breakfast_found,pets_found,age_found,license_found,facilities_found,status,error
+BOD012,Selectum Collection Bodrum,VALID_ENTITY,True,False,True,True,True,True,True,True,True,PARTIAL,missing fields: cıkıs_saati
+BOD056,"Mandarin Oriental, Bodrum",VALID_ENTITY,True,False,True,True,True,True,True,True,True,PARTIAL,missing fields: cıkıs_saati
+BOD058,Bodrum Beach Resort,VALID_ENTITY,True,False,True,True,True,True,True,True,True,PARTIAL,"missing fields: cıkıs_saati, hizmet_hayvanları"
+BOD007,Kefaluka Resort,VALID_ENTITY,True,False,True,True,True,True,True,True,True,PARTIAL,missing fields: cıkıs_saati
+BOD013,"Sentido Bellazure - Akyarlar, Bodrum / Turkey",VALID_ENTITY,True,False,True,False,True,True,True,True,True,PARTIAL,"missing fields: cıkıs_saati, bebek_ve_ek_yatak"

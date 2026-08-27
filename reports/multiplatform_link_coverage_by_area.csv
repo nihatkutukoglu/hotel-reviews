@@ -1,0 +1,43 @@
+﻿platform,area,total_hotels,verified_direct_count,coverage_pct
+google_travel,Akyarlar,16,4,25.0
+google_travel,Bitez,18,0,0.0
+google_travel,Bodrum Merkez,13,3,23.1
+google_travel,Göltürkbükü,10,3,30.0
+google_travel,Gümbet,15,5,33.3
+google_travel,Gümüşlük,15,0,0.0
+google_travel,Gündoğan,14,0,0.0
+google_travel,Güvercinlik,10,0,0.0
+google_travel,Kadıkalesi,4,1,25.0
+google_travel,Ortakent-Yahşi,21,0,0.0
+google_travel,Torba,21,0,0.0
+google_travel,Turgutreis,7,0,0.0
+google_travel,Türkbükü,6,0,0.0
+google_travel,Yalıkavak,22,0,0.0
+trip,Akyarlar,16,9,56.2
+trip,Bitez,18,0,0.0
+trip,Bodrum Merkez,13,0,0.0
+trip,Göltürkbükü,10,3,30.0
+trip,Gümbet,15,4,26.7
+trip,Gümüşlük,15,4,26.7
+trip,Gündoğan,14,0,0.0
+trip,Güvercinlik,10,0,0.0
+trip,Kadıkalesi,4,0,0.0
+trip,Ortakent-Yahşi,21,0,0.0
+trip,Torba,21,0,0.0
+trip,Turgutreis,7,0,0.0
+trip,Türkbükü,6,0,0.0
+trip,Yalıkavak,22,0,0.0
+tripadvisor,Akyarlar,16,10,62.5
+tripadvisor,Bitez,18,0,0.0
+tripadvisor,Bodrum Merkez,13,2,15.4
+tripadvisor,Göltürkbükü,10,6,60.0
+tripadvisor,Gümbet,15,3,20.0
+tripadvisor,Gümüşlük,15,5,33.3
+tripadvisor,Gündoğan,14,9,64.3
+tripadvisor,Güvercinlik,10,2,20.0
+tripadvisor,Kadıkalesi,4,0,0.0
+tripadvisor,Ortakent-Yahşi,21,0,0.0
+tripadvisor,Torba,21,0,0.0
+tripadvisor,Turgutreis,7,1,14.3
+tripadvisor,Türkbükü,6,0,0.0
+tripadvisor,Yalıkavak,22,0,0.0

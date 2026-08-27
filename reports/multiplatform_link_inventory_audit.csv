@@ -1,0 +1,577 @@
+﻿hotel_id,platform,hotel_name_master,hotel_name_link,area_master,area_link,in_master,in_link_file,name_match_status,area_mismatch_flag,direct_url,status,url_format_status,duplicate_url_flag
+BOD001,google_travel,Aksoy Taş Ev,Aksoy Taş Ev,Akyarlar,Akyarlar,True,True,EXACT,OK,null,null,NO_URL,False
+BOD001,trip,Aksoy Taş Ev,Aksoy Taş Ev,Akyarlar,Akyarlar,True,True,EXACT,OK,null,null,NO_URL,False
+BOD001,tripadvisor,Aksoy Taş Ev,Aksoy Taş Ev,Akyarlar,Akyarlar,True,True,EXACT,OK,null,null,NO_URL,False
+BOD002,google_travel,Armonia Holiday Village & Spa,Armonia Holiday Village & Spa,Akyarlar,Akyarlar,True,True,EXACT,OK,null,null,NO_URL,False
+BOD002,trip,Armonia Holiday Village & Spa,Armonia Holiday Village & Spa,Akyarlar,Akyarlar,True,True,EXACT,OK,https://www.trip.com/hotels/bodrum-hotel-detail-3448104/armonia-holiday-village-and-spa-all-inclusive/,verified_direct,OK,False
+BOD002,tripadvisor,Armonia Holiday Village & Spa,Armonia Holiday Village & Spa,Akyarlar,Akyarlar,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g951437-d1097054-Reviews-Armonia_Holiday_Village_Spa-Akyarlar_Turgutreis_Bodrum_District_Mugla_Province_Turkish.html,verified_direct,OK,False
+BOD003,google_travel,ASPAT HOTEL BODRUM Beach Restaurant,ASPAT HOTEL BODRUM Beach Restaurant,Akyarlar,Akyarlar,True,True,EXACT,OK,null,null,NO_URL,False
+BOD003,trip,ASPAT HOTEL BODRUM Beach Restaurant,ASPAT HOTEL BODRUM Beach Restaurant,Akyarlar,Akyarlar,True,True,EXACT,OK,null,null,NO_URL,False
+BOD003,tripadvisor,ASPAT HOTEL BODRUM Beach Restaurant,ASPAT HOTEL BODRUM Beach Restaurant,Akyarlar,Akyarlar,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g951437-d1228842-Reviews-Aspat_Hotel_Bodrum_Beach_Restaurant-Akyarlar_Turgutreis_Bodrum_District_Mugla_Province.html,verified_direct,OK,False
+BOD004,google_travel,Bendis Beach Hotel,Bendis Beach Hotel,Akyarlar,Akyarlar,True,True,EXACT,OK,null,null,NO_URL,False
+BOD004,trip,Bendis Beach Hotel,Bendis Beach Hotel,Akyarlar,Akyarlar,True,True,EXACT,OK,https://www.trip.com/hotels/akyarlar-mahallesi-hotel-detail-4416296/bendis-beach-hotel/,verified_direct,OK,False
+BOD004,tripadvisor,Bendis Beach Hotel,Bendis Beach Hotel,Akyarlar,Akyarlar,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g951437-d2219217-Reviews-Bendis_Beach_Hotel-Akyarlar_Turgutreis_Bodrum_District_Mugla_Province_Turkish_Aegean_C.html,verified_direct,OK,False
+BOD005,google_travel,ByAkkan,ByAkkan,Akyarlar,Akyarlar,True,True,EXACT,OK,null,null,NO_URL,False
+BOD005,trip,ByAkkan,ByAkkan,Akyarlar,Akyarlar,True,True,EXACT,OK,null,null,NO_URL,False
+BOD005,tripadvisor,ByAkkan,ByAkkan,Akyarlar,Akyarlar,True,True,EXACT,OK,null,null,NO_URL,False
+BOD006,google_travel,Club Marma Hotel,Club Marma Hotel,Akyarlar,Akyarlar,True,True,EXACT,OK,null,null,NO_URL,False
+BOD006,trip,Club Marma Hotel,Club Marma Hotel,Akyarlar,Akyarlar,True,True,EXACT,OK,null,null,NO_URL,False
+BOD006,tripadvisor,Club Marma Hotel,Club Marma Hotel,Akyarlar,Akyarlar,True,True,EXACT,OK,null,null,NO_URL,False
+BOD007,google_travel,Kefaluka Resort,Kefaluka Resort,Akyarlar,Akyarlar,True,True,EXACT,OK,https://www.google.com/travel/hotels/entity/CgsIqP3Kl9GCnvv4ARAB,verified_direct,OK,False
+BOD007,trip,Kefaluka Resort,Kefaluka Resort,Akyarlar,Akyarlar,True,True,EXACT,OK,https://www.trip.com/hotels/bodrum-hotel-detail-9894522/kefaluka-resort-ultra-all-inclusive/,verified_direct,OK,False
+BOD007,tripadvisor,Kefaluka Resort,Kefaluka Resort,Akyarlar,Akyarlar,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g951437-d1412957-Reviews-Kefaluka_Resort_Bodrum-Akyarlar_Turgutreis_Bodrum_District_Mugla_Province_Turkish_Aege.html,verified_direct,OK,False
+BOD008,google_travel,LA BREZZA SUITE &HOTEL,LA BREZZA SUITE &HOTEL,Akyarlar,Akyarlar,True,True,EXACT,OK,https://www.google.com/travel/hotels/entity/ChoIuoenmK7E3fPtARoNL2cvMTFwNWxtMV9jcBAB,verified_direct,OK,False
+BOD008,trip,LA BREZZA SUITE &HOTEL,LA BREZZA SUITE &HOTEL,Akyarlar,Akyarlar,True,True,EXACT,OK,null,null,NO_URL,False
+BOD008,tripadvisor,LA BREZZA SUITE &HOTEL,LA BREZZA SUITE &HOTEL,Akyarlar,Akyarlar,True,True,EXACT,OK,null,null,NO_URL,False
+BOD009,google_travel,LİV OTEL,LİV OTEL,Akyarlar,Akyarlar,True,True,EXACT,OK,null,null,NO_URL,False
+BOD009,trip,LİV OTEL,LİV OTEL,Akyarlar,Akyarlar,True,True,EXACT,OK,null,null,NO_URL,False
+BOD009,tripadvisor,LİV OTEL,LİV OTEL,Akyarlar,Akyarlar,True,True,EXACT,OK,null,null,NO_URL,False
+BOD010,google_travel,Mare Garden Hotel,Mare Garden Hotel,Akyarlar,Akyarlar,True,True,EXACT,OK,null,null,NO_URL,False
+BOD010,trip,Mare Garden Hotel,Mare Garden Hotel,Akyarlar,Akyarlar,True,True,EXACT,OK,https://us.trip.com/hotels/bodrum-hotel-detail-60107472/mare-garden-hotel/,verified_direct,OK,False
+BOD010,tripadvisor,Mare Garden Hotel,Mare Garden Hotel,Akyarlar,Akyarlar,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g951437-d646595-Reviews-Mare_Garden_Hotel-Akyarlar_Turgutreis_Bodrum_District_Mugla_Province_Turkish_Aegean_Coa.html,verified_direct,OK,False
+BOD011,google_travel,"Radisson Collection Hotel, Bodrum","Radisson Collection Hotel, Bodrum",Akyarlar,Akyarlar,True,True,EXACT,OK,null,null,NO_URL,False
+BOD011,trip,"Radisson Collection Hotel, Bodrum","Radisson Collection Hotel, Bodrum",Akyarlar,Akyarlar,True,True,EXACT,OK,https://uk.trip.com/hotels/bodrum-hotel-detail-75487192/radisson-collection-hotel-bodrum/,verified_direct,OK,False
+BOD011,tripadvisor,"Radisson Collection Hotel, Bodrum","Radisson Collection Hotel, Bodrum",Akyarlar,Akyarlar,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g298658-d23258571-Reviews-Radisson_Collection_Hotel_Bodrum-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_A.html,verified_direct,OK,False
+BOD012,google_travel,Selectum Collection Bodrum,Selectum Collection Bodrum,Akyarlar,Akyarlar,True,True,EXACT,OK,https://www.google.com/travel/hotels/entity/ChgI-abrn5G19OiAARoLL2cvMXRzcjVkZG4QAQ,verified_direct,OK,False
+BOD012,trip,Selectum Collection Bodrum,Selectum Collection Bodrum,Akyarlar,Akyarlar,True,True,EXACT,OK,https://www.trip.com/hotels/bodrum-hotel-detail-7877878/selectum-collection-bodrum/,verified_direct,OK,False
+BOD012,tripadvisor,Selectum Collection Bodrum,Selectum Collection Bodrum,Akyarlar,Akyarlar,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g951437-d775593-Reviews-Selectum_Collection_Bodrum-Akyarlar_Turgutreis_Bodrum_District_Mugla_Province_Turkish_A.html,verified_direct,OK,False
+BOD013,google_travel,"Sentido Bellazure - Akyarlar, Bodrum / Turkey","Sentido Bellazure - Akyarlar, Bodrum / Turkey",Akyarlar,Akyarlar,True,True,EXACT,OK,https://www.google.com/travel/hotels/entity/ChkI89S85_60gP2gARoML2cvMXE2anpicjRqEAE,verified_direct,OK,False
+BOD013,trip,"Sentido Bellazure - Akyarlar, Bodrum / Turkey","Sentido Bellazure - Akyarlar, Bodrum / Turkey",Akyarlar,Akyarlar,True,True,EXACT,OK,https://uk.trip.com/hotels/bodrum-hotel-detail-10720331/sentido-bellazure-all-inclusive/,verified_direct,OK,False
+BOD013,tripadvisor,"Sentido Bellazure - Akyarlar, Bodrum / Turkey","Sentido Bellazure - Akyarlar, Bodrum / Turkey",Akyarlar,Akyarlar,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g951437-d4923111-Reviews-Bellazure_Hotel-Akyarlar_Turgutreis_Bodrum_District_Mugla_Province_Turkish_Aegean_Coas.html,verified_direct,OK,False
+BOD014,google_travel,Suum Bodrum Hotel & Beach,Suum Bodrum Hotel & Beach,Akyarlar,Akyarlar,True,True,EXACT,OK,null,null,NO_URL,False
+BOD014,trip,Suum Bodrum Hotel & Beach,Suum Bodrum Hotel & Beach,Akyarlar,Akyarlar,True,True,EXACT,OK,https://us.trip.com/hotels/bodrum-hotel-detail-116725989/suum-bodrum-hotel-beach/,verified_direct,OK,False
+BOD014,tripadvisor,Suum Bodrum Hotel & Beach,Suum Bodrum Hotel & Beach,Akyarlar,Akyarlar,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g951437-d2171403-Reviews-Suum_Bodrum_Hotel_Beach_Adult_Only-Akyarlar_Turgutreis_Bodrum_District_Mugla_Province_.html,verified_direct,OK,False
+BOD015,google_travel,The Ni Villas Akyarlar,The Ni Villas Akyarlar,Akyarlar,Akyarlar,True,True,EXACT,OK,null,null,NO_URL,False
+BOD015,trip,The Ni Villas Akyarlar,The Ni Villas Akyarlar,Akyarlar,Akyarlar,True,True,EXACT,OK,null,null,NO_URL,False
+BOD015,tripadvisor,The Ni Villas Akyarlar,The Ni Villas Akyarlar,Akyarlar,Akyarlar,True,True,EXACT,OK,null,null,NO_URL,False
+BOD016,google_travel,Xanadu Island,Xanadu Island,Akyarlar,Akyarlar,True,True,EXACT,OK,null,null,NO_URL,False
+BOD016,trip,Xanadu Island,Xanadu Island,Akyarlar,Akyarlar,True,True,EXACT,OK,https://www.trip.com/hotels/akyarlar-mahallesi-hotel-detail-17508018/xanadu-island-hotel/,verified_direct,OK,False
+BOD016,tripadvisor,Xanadu Island,Xanadu Island,Akyarlar,Akyarlar,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g951437-d1773302-Reviews-Xanadu_Island-Akyarlar_Turgutreis_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html,verified_direct,OK,False
+BOD017,google_travel,Ambrosia Otel Beach & Spa,Ambrosia Otel Beach & Spa,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD017,trip,Ambrosia Otel Beach & Spa,Ambrosia Otel Beach & Spa,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD017,tripadvisor,Ambrosia Otel Beach & Spa,Ambrosia Otel Beach & Spa,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD018,google_travel,Bitez Deniz Hotel - Restaurant - Beach,Bitez Deniz Hotel - Restaurant - Beach,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD018,trip,Bitez Deniz Hotel - Restaurant - Beach,Bitez Deniz Hotel - Restaurant - Beach,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD018,tripadvisor,Bitez Deniz Hotel - Restaurant - Beach,Bitez Deniz Hotel - Restaurant - Beach,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD019,google_travel,Bitez Garden Life Hotel&Suites,Bitez Garden Life Hotel&Suites,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD019,trip,Bitez Garden Life Hotel&Suites,Bitez Garden Life Hotel&Suites,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD019,tripadvisor,Bitez Garden Life Hotel&Suites,Bitez Garden Life Hotel&Suites,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD020,google_travel,Bitez Risa Hotel,Bitez Risa Hotel,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD020,trip,Bitez Risa Hotel,Bitez Risa Hotel,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD020,tripadvisor,Bitez Risa Hotel,Bitez Risa Hotel,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD021,google_travel,"Caresse, a Luxury Collection Resort & Spa, Bodrum","Caresse, a Luxury Collection Resort & Spa, Bodrum",Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD021,trip,"Caresse, a Luxury Collection Resort & Spa, Bodrum","Caresse, a Luxury Collection Resort & Spa, Bodrum",Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD021,tripadvisor,"Caresse, a Luxury Collection Resort & Spa, Bodrum","Caresse, a Luxury Collection Resort & Spa, Bodrum",Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD022,google_travel,Dolce Vita Luxury Bungalows,Dolce Vita Luxury Bungalows,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD022,trip,Dolce Vita Luxury Bungalows,Dolce Vita Luxury Bungalows,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD022,tripadvisor,Dolce Vita Luxury Bungalows,Dolce Vita Luxury Bungalows,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD023,google_travel,Doria Hotel Bodrum,Doria Hotel Bodrum,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD023,trip,Doria Hotel Bodrum,Doria Hotel Bodrum,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD023,tripadvisor,Doria Hotel Bodrum,Doria Hotel Bodrum,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD024,google_travel,HAKAN OTEL,HAKAN OTEL,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD024,trip,HAKAN OTEL,HAKAN OTEL,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD024,tripadvisor,HAKAN OTEL,HAKAN OTEL,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD025,google_travel,Halikarya Hotel & Restaurant Beach,Halikarya Hotel & Restaurant Beach,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD025,trip,Halikarya Hotel & Restaurant Beach,Halikarya Hotel & Restaurant Beach,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD025,tripadvisor,Halikarya Hotel & Restaurant Beach,Halikarya Hotel & Restaurant Beach,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD026,google_travel,Manuela Otel Bitez,Manuela Otel Bitez,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD026,trip,Manuela Otel Bitez,Manuela Otel Bitez,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD026,tripadvisor,Manuela Otel Bitez,Manuela Otel Bitez,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD027,google_travel,Meis Apart Hotel,Meis Apart Hotel,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD027,trip,Meis Apart Hotel,Meis Apart Hotel,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD027,tripadvisor,Meis Apart Hotel,Meis Apart Hotel,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD028,google_travel,Mira Beach Resort Bodrum,Mira Beach Resort Bodrum,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD028,trip,Mira Beach Resort Bodrum,Mira Beach Resort Bodrum,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD028,tripadvisor,Mira Beach Resort Bodrum,Mira Beach Resort Bodrum,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD029,google_travel,Mumu Bodrum Hotel,Mumu Bodrum Hotel,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD029,trip,Mumu Bodrum Hotel,Mumu Bodrum Hotel,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD029,tripadvisor,Mumu Bodrum Hotel,Mumu Bodrum Hotel,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD030,google_travel,Natur Garden Hotel Bitez Bodrum,Natur Garden Hotel Bitez Bodrum,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD030,trip,Natur Garden Hotel Bitez Bodrum,Natur Garden Hotel Bitez Bodrum,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD030,tripadvisor,Natur Garden Hotel Bitez Bodrum,Natur Garden Hotel Bitez Bodrum,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD031,google_travel,Okaliptus Otel,Okaliptus Otel,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD031,trip,Okaliptus Otel,Okaliptus Otel,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD031,tripadvisor,Okaliptus Otel,Okaliptus Otel,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD032,google_travel,Paloma Family Club Bitez,Paloma Family Club Bitez,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD032,trip,Paloma Family Club Bitez,Paloma Family Club Bitez,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD032,tripadvisor,Paloma Family Club Bitez,Paloma Family Club Bitez,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD033,google_travel,Ramada Resort by Wyndham Bodrum,Ramada Resort by Wyndham Bodrum,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD033,trip,Ramada Resort by Wyndham Bodrum,Ramada Resort by Wyndham Bodrum,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD033,tripadvisor,Ramada Resort by Wyndham Bodrum,Ramada Resort by Wyndham Bodrum,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD034,google_travel,Çınar Butik Otel Bodrum,Çınar Butik Otel Bodrum,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD034,trip,Çınar Butik Otel Bodrum,Çınar Butik Otel Bodrum,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD034,tripadvisor,Çınar Butik Otel Bodrum,Çınar Butik Otel Bodrum,Bitez,Bitez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD035,google_travel,Azka Otel - Bardakçı Koyu,Azka Otel - Bardakçı Koyu,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD035,trip,Azka Otel - Bardakçı Koyu,Azka Otel - Bardakçı Koyu,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD035,tripadvisor,Azka Otel - Bardakçı Koyu,Azka Otel - Bardakçı Koyu,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g298658-d295821-Reviews-Azka_Otel-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html,verified_direct,OK,False
+BOD036,google_travel,Bodrium Hotel & SPA,Bodrium Hotel & SPA,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,https://www.google.com/travel/hotels/entity/ChcIoPuags-X5e91GgsvZy8xdGQxMDhibhAB,verified_direct,OK,False
+BOD036,trip,Bodrium Hotel & SPA,Bodrium Hotel & SPA,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD036,tripadvisor,Bodrium Hotel & SPA,Bodrium Hotel & SPA,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g298658-d33244079-Reviews-Bodrium_Hotel_Spa-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html,verified_direct,OK,False
+BOD037,google_travel,Bodrum Bay Resort,Bodrum Bay Resort,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD037,trip,Bodrum Bay Resort,Bodrum Bay Resort,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD037,tripadvisor,Bodrum Bay Resort,Bodrum Bay Resort,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD038,google_travel,Casa Mare Bodrum,Casa Mare Bodrum,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD038,trip,Casa Mare Bodrum,Casa Mare Bodrum,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD038,tripadvisor,Casa Mare Bodrum,Casa Mare Bodrum,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD039,google_travel,Casa Nonna Bodrum,Casa Nonna Bodrum,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD039,trip,Casa Nonna Bodrum,Casa Nonna Bodrum,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD039,tripadvisor,Casa Nonna Bodrum,Casa Nonna Bodrum,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD040,google_travel,Diamond of Bodrum Hotel,Diamond of Bodrum Hotel,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD040,trip,Diamond of Bodrum Hotel,Diamond of Bodrum Hotel,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD040,tripadvisor,Diamond of Bodrum Hotel,Diamond of Bodrum Hotel,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD041,google_travel,La Quinta by Wyndham Bodrum,La Quinta by Wyndham Bodrum,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD041,trip,La Quinta by Wyndham Bodrum,La Quinta by Wyndham Bodrum,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD041,tripadvisor,La Quinta by Wyndham Bodrum,La Quinta by Wyndham Bodrum,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD042,google_travel,Mandarin Resort Hotel,Mandarin Resort Hotel,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD042,trip,Mandarin Resort Hotel,Mandarin Resort Hotel,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD042,tripadvisor,Mandarin Resort Hotel,Mandarin Resort Hotel,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD043,google_travel,METT Hotel & Beach Resort Bodrum,METT Hotel & Beach Resort Bodrum,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,https://www.google.com/travel/hotels/entity/CgoInJap_Zjz_rc_EAE,verified_direct,OK,False
+BOD043,trip,METT Hotel & Beach Resort Bodrum,METT Hotel & Beach Resort Bodrum,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD043,tripadvisor,METT Hotel & Beach Resort Bodrum,METT Hotel & Beach Resort Bodrum,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD044,google_travel,Noa Suite Hotel,Noa Suite Hotel,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD044,trip,Noa Suite Hotel,Noa Suite Hotel,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD044,tripadvisor,Noa Suite Hotel,Noa Suite Hotel,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD045,google_travel,Salmakis Resort & Spa,Salmakis Resort & Spa,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,https://www.google.com/travel/hotels/entity/ChgIhcWasvPa_bf0ARoLL2cvMXRjeTBfX2sQAQ,verified_direct,OK,False
+BOD045,trip,Salmakis Resort & Spa,Salmakis Resort & Spa,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD045,tripadvisor,Salmakis Resort & Spa,Salmakis Resort & Spa,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD046,google_travel,Senses Hotel,Senses Hotel,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD046,trip,Senses Hotel,Senses Hotel,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD046,tripadvisor,Senses Hotel,Senses Hotel,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD047,google_travel,The Marmara Bodrum,The Marmara Bodrum,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD047,trip,The Marmara Bodrum,The Marmara Bodrum,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD047,tripadvisor,The Marmara Bodrum,The Marmara Bodrum,Bodrum Merkez,Bodrum Merkez,True,True,EXACT,OK,null,null,NO_URL,False
+BOD048,google_travel,Babana Hotel,Babana Hotel,Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD048,trip,Babana Hotel,Babana Hotel,Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD048,tripadvisor,Babana Hotel,Babana Hotel,Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD049,google_travel,Casa Del Mar Bodrum,Casa Del Mar Bodrum,Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD049,trip,Casa Del Mar Bodrum,Casa Del Mar Bodrum,Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD049,tripadvisor,Casa Del Mar Bodrum,Casa Del Mar Bodrum,Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD050,google_travel,Daphnis Hotel Gölköy,Daphnis Hotel Gölköy,Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD050,trip,Daphnis Hotel Gölköy,Daphnis Hotel Gölköy,Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD050,tripadvisor,Daphnis Hotel Gölköy,Daphnis Hotel Gölköy,Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD051,google_travel,Faros Bodrum Hotel Göltürkbükü,Faros Bodrum Hotel Göltürkbükü,Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,https://www.google.com/travel/hotels/entity/ChkIw7-b487k1v8NGg0vZy8xMWY0bGh5NXY3EAE,verified_direct,OK,False
+BOD051,trip,Faros Bodrum Hotel Göltürkbükü,Faros Bodrum Hotel Göltürkbükü,Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,https://ae.trip.com/hotels/golturkbuku-hotel-detail-17200888/faros-bodrum-ex-villa-kilic-hotel/,verified_direct,OK,False
+BOD051,tripadvisor,Faros Bodrum Hotel Göltürkbükü,Faros Bodrum Hotel Göltürkbükü,Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g298660-d946697-Reviews-FAROS_Bodrum-Golturkbuku_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html,verified_direct,OK,False
+BOD052,google_travel,Flamm Bodrum,Flamm Bodrum,Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD052,trip,Flamm Bodrum,Flamm Bodrum,Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD052,tripadvisor,Flamm Bodrum,Flamm Bodrum,Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g298660-d3369876-Reviews-Flamm-Golturkbuku_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html,verified_direct,OK,False
+BOD053,google_travel,Gölköy Suites,Gölköy Suites,Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD053,trip,Gölköy Suites,Gölköy Suites,Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD053,tripadvisor,Gölköy Suites,Gölköy Suites,Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g298660-d2629962-Reviews-Golkoy_Suites_Hotel-Golturkbuku_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html,verified_direct,OK,False
+BOD054,google_travel,Lavinya Maison,Lavinya Maison,Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD054,trip,Lavinya Maison,Lavinya Maison,Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD054,tripadvisor,Lavinya Maison,Lavinya Maison,Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD055,google_travel,Lavinya Otel Göltürkbükü,Lavinya Otel Göltürkbükü,Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,https://www.google.com/travel/hotels/entity/CgsIzujNwKKw17XYARAB,verified_direct,OK,False
+BOD055,trip,Lavinya Otel Göltürkbükü,Lavinya Otel Göltürkbükü,Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,https://www.trip.com/hotels/golturkbuku-hotel-detail-4067437/lavinya-otel/,verified_direct,OK,False
+BOD055,tripadvisor,Lavinya Otel Göltürkbükü,Lavinya Otel Göltürkbükü,Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g298660-d5502416-Reviews-Lavinya_Otel-Golturkbuku_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html,verified_direct,OK,False
+BOD056,google_travel,"Mandarin Oriental, Bodrum","Mandarin Oriental, Bodrum",Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,https://www.google.com/travel/hotels/entity/ChgI0ZWL5OHIovcnGgwvZy8xcTY3cF82NzgQAQ,verified_direct,OK,False
+BOD056,trip,"Mandarin Oriental, Bodrum","Mandarin Oriental, Bodrum",Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,https://www.trip.com/hotels/bodrum-hotel-detail-1661001/mandarin-oriental-bodrum/,verified_direct,OK,False
+BOD056,tripadvisor,"Mandarin Oriental, Bodrum","Mandarin Oriental, Bodrum",Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g298660-d6665368-Reviews-Mandarin_Oriental_Bodrum-Golturkbuku_Bodrum_District_Mugla_Province_Turkish_Aegean_Coa.html,verified_direct,OK,False
+BOD057,google_travel,Selvi Bodrum,Selvi Bodrum,Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD057,trip,Selvi Bodrum,Selvi Bodrum,Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD057,tripadvisor,Selvi Bodrum,Selvi Bodrum,Göltürkbükü,Göltürkbükü,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g298660-d4700794-Reviews-Selvi_Beach_Hotel-Golturkbuku_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html,verified_direct,OK,False
+BOD058,google_travel,Bodrum Beach Resort,Bodrum Beach Resort,Gümbet,Gümbet,True,True,EXACT,OK,https://www.google.com/travel/hotels/entity/ChgI6eX_zO-jka-3ARoLL2cvMXRqNXN5OGwQAQ,verified_direct,OK,False
+BOD058,trip,Bodrum Beach Resort,Bodrum Beach Resort,Gümbet,Gümbet,True,True,EXACT,OK,https://us.trip.com/hotels/gumbet-hotel-detail-4057730/bodrum-beach-resort/,verified_direct,OK,False
+BOD058,tripadvisor,Bodrum Beach Resort,Bodrum Beach Resort,Gümbet,Gümbet,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g298661-d2634122-Reviews-Bodrum_Beach_Resort-Gumbet_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html,verified_direct,OK,False
+BOD059,google_travel,Bodrum Hotel Baba,Bodrum Hotel Baba,Gümbet,Gümbet,True,True,EXACT,OK,https://www.google.com/travel/hotels/entity/CgoIp_uGjqeilrEjEAE,verified_direct,OK,False
+BOD059,trip,Bodrum Hotel Baba,Bodrum Hotel Baba,Gümbet,Gümbet,True,True,EXACT,OK,https://ae.trip.com/hotels/gumbet-hotel-detail-7138850/hotel-baba-all-inclusive/,verified_direct,OK,False
+BOD059,tripadvisor,Bodrum Hotel Baba,Bodrum Hotel Baba,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD060,google_travel,Club Shark Hotel,Club Shark Hotel,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD060,trip,Club Shark Hotel,Club Shark Hotel,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD060,tripadvisor,Club Shark Hotel,Club Shark Hotel,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD061,google_travel,Gümbet Anıl Beach,Gümbet Anıl Beach,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD061,trip,Gümbet Anıl Beach,Gümbet Anıl Beach,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD061,tripadvisor,Gümbet Anıl Beach,Gümbet Anıl Beach,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD062,google_travel,"Gümbet Cove Hotel, Muğla Türkiye","Gümbet Cove Hotel, Muğla Türkiye",Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD062,trip,"Gümbet Cove Hotel, Muğla Türkiye","Gümbet Cove Hotel, Muğla Türkiye",Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD062,tripadvisor,"Gümbet Cove Hotel, Muğla Türkiye","Gümbet Cove Hotel, Muğla Türkiye",Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD063,google_travel,Jasmin Beach Hotel,Jasmin Beach Hotel,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD063,trip,Jasmin Beach Hotel,Jasmin Beach Hotel,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD063,tripadvisor,Jasmin Beach Hotel,Jasmin Beach Hotel,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD064,google_travel,Jasmin Elite Residence & Spa,Jasmin Elite Residence & Spa,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD064,trip,Jasmin Elite Residence & Spa,Jasmin Elite Residence & Spa,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD064,tripadvisor,Jasmin Elite Residence & Spa,Jasmin Elite Residence & Spa,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD065,google_travel,Mirada Exclusive Bodrum,Mirada Exclusive Bodrum,Gümbet,Gümbet,True,True,EXACT,OK,https://www.google.com/travel/hotels/entity/ChoIsqH9xsjG_r-rARoNL2cvMTFzbXQ1YjNqNxAB,verified_direct,OK,False
+BOD065,trip,Mirada Exclusive Bodrum,Mirada Exclusive Bodrum,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD065,tripadvisor,Mirada Exclusive Bodrum,Mirada Exclusive Bodrum,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD066,google_travel,Royal Asarlik Beach Hotel & Spa,Royal Asarlik Beach Hotel & Spa,Gümbet,Gümbet,True,True,EXACT,OK,https://www.google.com/travel/hotels/entity/ChkI_76qtKi0wuyrARoML2cvMTJtOTFzNDl6EAE,verified_direct,OK,False
+BOD066,trip,Royal Asarlik Beach Hotel & Spa,Royal Asarlik Beach Hotel & Spa,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD066,tripadvisor,Royal Asarlik Beach Hotel & Spa,Royal Asarlik Beach Hotel & Spa,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD067,google_travel,Sami Beach Hotel,Sami Beach Hotel,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD067,trip,Sami Beach Hotel,Sami Beach Hotel,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD067,tripadvisor,Sami Beach Hotel,Sami Beach Hotel,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD068,google_travel,Selectum Colours Bodrum,Selectum Colours Bodrum,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD068,trip,Selectum Colours Bodrum,Selectum Colours Bodrum,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD068,tripadvisor,Selectum Colours Bodrum,Selectum Colours Bodrum,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD069,google_travel,Siesta Beach Apart,Siesta Beach Apart,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD069,trip,Siesta Beach Apart,Siesta Beach Apart,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD069,tripadvisor,Siesta Beach Apart,Siesta Beach Apart,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD070,google_travel,The Luvi Hotel,The Luvi Hotel,Gümbet,Gümbet,True,True,EXACT,OK,https://www.google.com/travel/hotels/entity/ChgI0OmIl_qunPTFARoLL2cvMXRzeXh2eWMQAQ,verified_direct,OK,False
+BOD070,trip,The Luvi Hotel,The Luvi Hotel,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD070,tripadvisor,The Luvi Hotel,The Luvi Hotel,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD071,google_travel,Tropicana Beach Hotel,Tropicana Beach Hotel,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD071,trip,Tropicana Beach Hotel,Tropicana Beach Hotel,Gümbet,Gümbet,True,True,EXACT,OK,https://my.trip.com/hotels/gumbet-hotel-detail-3139968/tropicana-beach/,verified_direct,OK,False
+BOD071,tripadvisor,Tropicana Beach Hotel,Tropicana Beach Hotel,Gümbet,Gümbet,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g298661-d302347-Reviews-Tropicana_Beach_Hotel-Gumbet_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html,verified_direct,OK,False
+BOD072,google_travel,VERY CHIC BODRUM,VERY CHIC BODRUM,Gümbet,Gümbet,True,True,EXACT,OK,null,null,NO_URL,False
+BOD072,trip,VERY CHIC BODRUM,VERY CHIC BODRUM,Gümbet,Gümbet,True,True,EXACT,OK,https://uk.trip.com/hotels/bodrum-hotel-detail-3448155/very-chic-bodrum-adult-only/,verified_direct,OK,False
+BOD072,tripadvisor,VERY CHIC BODRUM,VERY CHIC BODRUM,Gümbet,Gümbet,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g298661-d302315-Reviews-Very_Chic_Bodrum-Gumbet_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html,verified_direct,OK,False
+BOD073,google_travel,Arriba Apartment & Restaurant & Bungalows,Arriba Apartment & Restaurant & Bungalows,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD073,trip,Arriba Apartment & Restaurant & Bungalows,Arriba Apartment & Restaurant & Bungalows,Gümüşlük,Gümüşlük,True,True,EXACT,OK,https://www.trip.com/hotels/gumusluk-hotel-detail-96123030/arriba-apart-bungalow-restaurant/,verified_direct,OK,False
+BOD073,tripadvisor,Arriba Apartment & Restaurant & Bungalows,Arriba Apartment & Restaurant & Bungalows,Gümüşlük,Gümüşlük,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g664076-d6849689-Reviews-Arriba_Apart-Gumusluk_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html,verified_direct,OK,False
+BOD074,google_travel,Begonvil Gümüşlük,Begonvil Gümüşlük,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD074,trip,Begonvil Gümüşlük,Begonvil Gümüşlük,Gümüşlük,Gümüşlük,True,True,EXACT,OK,https://www.trip.com/hotels/gumusluk-hotel-detail-127410335/begonvil-gmlk/,verified_direct,OK,False
+BOD074,tripadvisor,Begonvil Gümüşlük,Begonvil Gümüşlük,Gümüşlük,Gümüşlük,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g1221512-d34248491-Reviews-Begonvil_Gumusluk-Mugla_Mugla_Province_Turkish_Aegean_Coast.html,verified_direct,OK,False
+BOD075,google_travel,Benjamin Otel,Benjamin Otel,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD075,trip,Benjamin Otel,Benjamin Otel,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD075,tripadvisor,Benjamin Otel,Benjamin Otel,Gümüşlük,Gümüşlük,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g664076-d24997701-Reviews-Benjamin_Hotel_Gumusluk-Gumusluk_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html,verified_direct,OK,False
+BOD076,google_travel,Gümüşlük No3,Gümüşlük No3,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD076,trip,Gümüşlük No3,Gümüşlük No3,Gümüşlük,Gümüşlük,True,True,EXACT,OK,https://www.trip.com/hotels/gumusluk-hotel-detail-109836085/gumusluk-no3/,verified_direct,OK,False
+BOD076,tripadvisor,Gümüşlük No3,Gümüşlük No3,Gümüşlük,Gümüşlük,True,True,EXACT,OK,https://ar.tripadvisor.com/Hotel_Review-g664076-d27424621-Reviews-Gumusluk_No3-Gumusluk_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html,verified_direct,OK,False
+BOD077,google_travel,Ladonia Hotels Zemda,Ladonia Hotels Zemda,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD077,trip,Ladonia Hotels Zemda,Ladonia Hotels Zemda,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD077,tripadvisor,Ladonia Hotels Zemda,Ladonia Hotels Zemda,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD078,google_travel,Liman Hotel Gümüslük (Adult only),Liman Hotel Gümüslük (Adult only),Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD078,trip,Liman Hotel Gümüslük (Adult only),Liman Hotel Gümüslük (Adult only),Gümüşlük,Gümüşlük,True,True,EXACT,OK,https://www.trip.com/hotels/bodrum-hotel-detail-79101381/liman-hotel-gmslk-adult-only/,verified_direct,OK,False
+BOD078,tripadvisor,Liman Hotel Gümüslük (Adult only),Liman Hotel Gümüslük (Adult only),Gümüşlük,Gümüşlük,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g664076-d23160695-Reviews-Liman_Hotel_Gumusluk-Gumusluk_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html,verified_direct,OK,False
+BOD079,google_travel,Metin's Gümüşlük - Hotel & Restaurant,Metin's Gümüşlük - Hotel & Restaurant,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD079,trip,Metin's Gümüşlük - Hotel & Restaurant,Metin's Gümüşlük - Hotel & Restaurant,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD079,tripadvisor,Metin's Gümüşlük - Hotel & Restaurant,Metin's Gümüşlük - Hotel & Restaurant,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD080,google_travel,Myndos Oda & kahvalti,Myndos Oda & kahvalti,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD080,trip,Myndos Oda & kahvalti,Myndos Oda & kahvalti,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD080,tripadvisor,Myndos Oda & kahvalti,Myndos Oda & kahvalti,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD081,google_travel,Oda Bodrum Gümüşlük,Oda Bodrum Gümüşlük,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD081,trip,Oda Bodrum Gümüşlük,Oda Bodrum Gümüşlük,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD081,tripadvisor,Oda Bodrum Gümüşlük,Oda Bodrum Gümüşlük,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD082,google_travel,Otel Gümüşlük,Otel Gümüşlük,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD082,trip,Otel Gümüşlük,Otel Gümüşlük,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD082,tripadvisor,Otel Gümüşlük,Otel Gümüşlük,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD083,google_travel,Oza butik hotel,Oza butik hotel,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD083,trip,Oza butik hotel,Oza butik hotel,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD083,tripadvisor,Oza butik hotel,Oza butik hotel,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD084,google_travel,Paradise Garden Apartments,Paradise Garden Apartments,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD084,trip,Paradise Garden Apartments,Paradise Garden Apartments,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD084,tripadvisor,Paradise Garden Apartments,Paradise Garden Apartments,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD085,google_travel,Paradise Gümüşlük,Paradise Gümüşlük,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD085,trip,Paradise Gümüşlük,Paradise Gümüşlük,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD085,tripadvisor,Paradise Gümüşlük,Paradise Gümüşlük,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD086,google_travel,Vega Aparts,Vega Aparts,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD086,trip,Vega Aparts,Vega Aparts,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD086,tripadvisor,Vega Aparts,Vega Aparts,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD087,google_travel,Wanderheaven Camping & Tiny House Bodrum,Wanderheaven Camping & Tiny House Bodrum,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD087,trip,Wanderheaven Camping & Tiny House Bodrum,Wanderheaven Camping & Tiny House Bodrum,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD087,tripadvisor,Wanderheaven Camping & Tiny House Bodrum,Wanderheaven Camping & Tiny House Bodrum,Gümüşlük,Gümüşlük,True,True,EXACT,OK,null,null,NO_URL,False
+BOD088,google_travel,Baia Bodrum Hotel,Baia Bodrum Hotel,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD088,trip,Baia Bodrum Hotel,Baia Bodrum Hotel,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD088,tripadvisor,Baia Bodrum Hotel,Baia Bodrum Hotel,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD089,google_travel,Cape Bodrum Luxury Hotel & Beach,Cape Bodrum Luxury Hotel & Beach,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD089,trip,Cape Bodrum Luxury Hotel & Beach,Cape Bodrum Luxury Hotel & Beach,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD089,tripadvisor,Cape Bodrum Luxury Hotel & Beach,Cape Bodrum Luxury Hotel & Beach,Gündoğan,Gündoğan,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g951444-d8329286-Reviews-Cape_Bodrum_Luxury_Hotel_Beach-Gundogan_Bodrum_District_Mugla_Province_Turkish_Ae.html,verified_direct,OK,False
+BOD090,google_travel,Costa Farilya Special Class Hotel Bodrum,Costa Farilya Special Class Hotel Bodrum,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD090,trip,Costa Farilya Special Class Hotel Bodrum,Costa Farilya Special Class Hotel Bodrum,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD090,tripadvisor,Costa Farilya Special Class Hotel Bodrum,Costa Farilya Special Class Hotel Bodrum,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD091,google_travel,Gündoğan Suites,Gündoğan Suites,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD091,trip,Gündoğan Suites,Gündoğan Suites,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD091,tripadvisor,Gündoğan Suites,Gündoğan Suites,Gündoğan,Gündoğan,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g951444-d28624446-Reviews-Gundogan_Suites-Gundogan_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html,verified_direct,OK,False
+BOD092,google_travel,Liona Hotel,Liona Hotel,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD092,trip,Liona Hotel,Liona Hotel,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD092,tripadvisor,Liona Hotel,Liona Hotel,Gündoğan,Gündoğan,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g951444-d6591756-Reviews-Liona_Hotel_Spa-Gundogan_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html,verified_direct,OK,False
+BOD093,google_travel,Malta Bodrum Hotel,Malta Bodrum Hotel,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD093,trip,Malta Bodrum Hotel,Malta Bodrum Hotel,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD093,tripadvisor,Malta Bodrum Hotel,Malta Bodrum Hotel,Gündoğan,Gündoğan,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g951444-d27899612-Reviews-Malta_Hotel_Bodrum-Gundogan_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html,verified_direct,OK,False
+BOD094,google_travel,Marje Villas,Marje Villas,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD094,trip,Marje Villas,Marje Villas,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD094,tripadvisor,Marje Villas,Marje Villas,Gündoğan,Gündoğan,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g951444-d33129983-Reviews-Marje_Villas_Bodrum-Gundogan_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html,verified_direct,OK,False
+BOD095,google_travel,Mivara Luxury Bodrum,Mivara Luxury Bodrum,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD095,trip,Mivara Luxury Bodrum,Mivara Luxury Bodrum,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD095,tripadvisor,Mivara Luxury Bodrum,Mivara Luxury Bodrum,Gündoğan,Gündoğan,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g951444-d7224951-Reviews-Mivara_Luxury_Resort_Spa_Bodrum-Gundogan_Bodrum_District_Mugla_Province_Turkish_A.html,verified_direct,OK,False
+BOD096,google_travel,Olira Boutique Hotel&SPA,Olira Boutique Hotel&SPA,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD096,trip,Olira Boutique Hotel&SPA,Olira Boutique Hotel&SPA,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD096,tripadvisor,Olira Boutique Hotel&SPA,Olira Boutique Hotel&SPA,Gündoğan,Gündoğan,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g951444-d1792354-Reviews-Olira_Boutique_Hotel_Spa-Gundogan_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html,verified_direct,OK,False
+BOD097,google_travel,OLİVE TREE HOTEL,OLİVE TREE HOTEL,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD097,trip,OLİVE TREE HOTEL,OLİVE TREE HOTEL,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD097,tripadvisor,OLİVE TREE HOTEL,OLİVE TREE HOTEL,Gündoğan,Gündoğan,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g951444-d24181991-Reviews-Olive_Tree_Hotel-Gundogan_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html,verified_direct,OK,False
+BOD098,google_travel,Swissôtel Living Bodrum,Swissôtel Living Bodrum,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD098,trip,Swissôtel Living Bodrum,Swissôtel Living Bodrum,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD098,tripadvisor,Swissôtel Living Bodrum,Swissôtel Living Bodrum,Gündoğan,Gündoğan,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g951444-d27961066-Reviews-Swissotel_Living_Bodrum-Gundogan_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html,verified_direct,OK,False
+BOD099,google_travel,Villa Oliva Butik Otel,Villa Oliva Butik Otel,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD099,trip,Villa Oliva Butik Otel,Villa Oliva Butik Otel,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD099,tripadvisor,Villa Oliva Butik Otel,Villa Oliva Butik Otel,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD100,google_travel,Villa Rustica Hotel,Villa Rustica Hotel,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD100,trip,Villa Rustica Hotel,Villa Rustica Hotel,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD100,tripadvisor,Villa Rustica Hotel,Villa Rustica Hotel,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD101,google_travel,Vita Bella Hotel Resort & Spa,Vita Bella Hotel Resort & Spa,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD101,trip,Vita Bella Hotel Resort & Spa,Vita Bella Hotel Resort & Spa,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD101,tripadvisor,Vita Bella Hotel Resort & Spa,Vita Bella Hotel Resort & Spa,Gündoğan,Gündoğan,True,True,EXACT,OK,null,null,NO_URL,False
+BOD102,google_travel,Akyalı Butik Hotel,Akyalı Butik Hotel,Güvercinlik,Güvercinlik,True,True,EXACT,OK,null,null,NO_URL,False
+BOD102,trip,Akyalı Butik Hotel,Akyalı Butik Hotel,Güvercinlik,Güvercinlik,True,True,EXACT,OK,null,null,NO_URL,False
+BOD102,tripadvisor,Akyalı Butik Hotel,Akyalı Butik Hotel,Güvercinlik,Güvercinlik,True,True,EXACT,OK,null,null,NO_URL,False
+BOD103,google_travel,Green Bay Resort & Spa Bodrum,Green Bay Resort & Spa Bodrum,Güvercinlik,Güvercinlik,True,True,EXACT,OK,null,null,NO_URL,False
+BOD103,trip,Green Bay Resort & Spa Bodrum,Green Bay Resort & Spa Bodrum,Güvercinlik,Güvercinlik,True,True,EXACT,OK,null,null,NO_URL,False
+BOD103,tripadvisor,Green Bay Resort & Spa Bodrum,Green Bay Resort & Spa Bodrum,Güvercinlik,Güvercinlik,True,True,EXACT,OK,null,null,NO_URL,False
+BOD104,google_travel,Greenport Bodrum,Greenport Bodrum,Güvercinlik,Güvercinlik,True,True,EXACT,OK,null,null,NO_URL,False
+BOD104,trip,Greenport Bodrum,Greenport Bodrum,Güvercinlik,Güvercinlik,True,True,EXACT,OK,null,null,NO_URL,False
+BOD104,tripadvisor,Greenport Bodrum,Greenport Bodrum,Güvercinlik,Güvercinlik,True,True,EXACT,OK,null,null,NO_URL,False
+BOD105,google_travel,İsolina Hotel,İsolina Hotel,Güvercinlik,Güvercinlik,True,True,EXACT,OK,null,null,NO_URL,False
+BOD105,trip,İsolina Hotel,İsolina Hotel,Güvercinlik,Güvercinlik,True,True,EXACT,OK,null,null,NO_URL,False
+BOD105,tripadvisor,İsolina Hotel,İsolina Hotel,Güvercinlik,Güvercinlik,True,True,EXACT,OK,null,null,NO_URL,False
+BOD106,google_travel,La Blanche Island Bodrum,La Blanche Island Bodrum,Güvercinlik,Güvercinlik,True,True,EXACT,OK,null,null,NO_URL,False
+BOD106,trip,La Blanche Island Bodrum,La Blanche Island Bodrum,Güvercinlik,Güvercinlik,True,True,EXACT,OK,null,null,NO_URL,False
+BOD106,tripadvisor,La Blanche Island Bodrum,La Blanche Island Bodrum,Güvercinlik,Güvercinlik,True,True,EXACT,OK,null,null,NO_URL,False
+BOD107,google_travel,Le Méridien Bodrum Beach Resort,Le Méridien Bodrum Beach Resort,Güvercinlik,Güvercinlik,True,True,EXACT,OK,null,null,NO_URL,False
+BOD107,trip,Le Méridien Bodrum Beach Resort,Le Méridien Bodrum Beach Resort,Güvercinlik,Güvercinlik,True,True,EXACT,OK,null,null,NO_URL,False
+BOD107,tripadvisor,Le Méridien Bodrum Beach Resort,Le Méridien Bodrum Beach Resort,Güvercinlik,Güvercinlik,True,True,EXACT,OK,https://no.tripadvisor.com/Hotel_Review-g298020-d20812306-Reviews-Le_Meridien_Bodrum_Beach_Resort-Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html,verified_direct,OK,False
+BOD108,google_travel,Lujo Hotel Bodrum,Lujo Hotel Bodrum,Güvercinlik,Güvercinlik,True,True,EXACT,OK,null,null,NO_URL,False
+BOD108,trip,Lujo Hotel Bodrum,Lujo Hotel Bodrum,Güvercinlik,Güvercinlik,True,True,EXACT,OK,null,null,NO_URL,False
+BOD108,tripadvisor,Lujo Hotel Bodrum,Lujo Hotel Bodrum,Güvercinlik,Güvercinlik,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g1467782-d13298623-Reviews-Lujo_Hotel_Bodrum-Guvercinlik_Bodrum_District_Mugla_Province_Turkish_Aegean_Coa.html,verified_direct,OK,False
+BOD109,google_travel,Oscar Seaside Hotel & Spa,Oscar Seaside Hotel & Spa,Güvercinlik,Güvercinlik,True,True,EXACT,OK,null,null,NO_URL,False
+BOD109,trip,Oscar Seaside Hotel & Spa,Oscar Seaside Hotel & Spa,Güvercinlik,Güvercinlik,True,True,EXACT,OK,null,null,NO_URL,False
+BOD109,tripadvisor,Oscar Seaside Hotel & Spa,Oscar Seaside Hotel & Spa,Güvercinlik,Güvercinlik,True,True,EXACT,OK,null,null,NO_URL,False
+BOD110,google_travel,Titanic Luxury Collection Bodrum,Titanic Luxury Collection Bodrum,Güvercinlik,Güvercinlik,True,True,EXACT,OK,null,null,NO_URL,False
+BOD110,trip,Titanic Luxury Collection Bodrum,Titanic Luxury Collection Bodrum,Güvercinlik,Güvercinlik,True,True,EXACT,OK,null,null,NO_URL,False
+BOD110,tripadvisor,Titanic Luxury Collection Bodrum,Titanic Luxury Collection Bodrum,Güvercinlik,Güvercinlik,True,True,EXACT,OK,null,null,NO_URL,False
+BOD111,google_travel,Zena Hotel Bodrum,Zena Hotel Bodrum,Güvercinlik,Güvercinlik,True,True,EXACT,OK,null,null,NO_URL,False
+BOD111,trip,Zena Hotel Bodrum,Zena Hotel Bodrum,Güvercinlik,Güvercinlik,True,True,EXACT,OK,null,null,NO_URL,False
+BOD111,tripadvisor,Zena Hotel Bodrum,Zena Hotel Bodrum,Güvercinlik,Güvercinlik,True,True,EXACT,OK,null,null,NO_URL,False
+BOD112,google_travel,Azure By Yelken Hotel,Azure By Yelken Hotel,Kadıkalesi,Kadıkalesi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD112,trip,Azure By Yelken Hotel,Azure By Yelken Hotel,Kadıkalesi,Kadıkalesi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD112,tripadvisor,Azure By Yelken Hotel,Azure By Yelken Hotel,Kadıkalesi,Kadıkalesi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD113,google_travel,Kadıkale Resort,Kadıkale Resort,Kadıkalesi,Kadıkalesi,True,True,EXACT,OK,https://www.google.com/travel/hotels/entity/ChcI267av9v2hps2GgsvZy8xdGZkdmtjMBAB,verified_direct,OK,False
+BOD113,trip,Kadıkale Resort,Kadıkale Resort,Kadıkalesi,Kadıkalesi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD113,tripadvisor,Kadıkale Resort,Kadıkale Resort,Kadıkalesi,Kadıkalesi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD114,google_travel,Sianji Well-Being Resort Thermal & Spa,Sianji Well-Being Resort Thermal & Spa,Kadıkalesi,Kadıkalesi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD114,trip,Sianji Well-Being Resort Thermal & Spa,Sianji Well-Being Resort Thermal & Spa,Kadıkalesi,Kadıkalesi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD114,tripadvisor,Sianji Well-Being Resort Thermal & Spa,Sianji Well-Being Resort Thermal & Spa,Kadıkalesi,Kadıkalesi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD115,google_travel,Yasmin Bodrum Resort,Yasmin Bodrum Resort,Kadıkalesi,Kadıkalesi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD115,trip,Yasmin Bodrum Resort,Yasmin Bodrum Resort,Kadıkalesi,Kadıkalesi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD115,tripadvisor,Yasmin Bodrum Resort,Yasmin Bodrum Resort,Kadıkalesi,Kadıkalesi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD116,google_travel,Acropol Of Bodrum Beach Hotel - Restaurant,Acropol Of Bodrum Beach Hotel - Restaurant,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD116,trip,Acropol Of Bodrum Beach Hotel - Restaurant,Acropol Of Bodrum Beach Hotel - Restaurant,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD116,tripadvisor,Acropol Of Bodrum Beach Hotel - Restaurant,Acropol Of Bodrum Beach Hotel - Restaurant,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD117,google_travel,Altınkaya Hotel,Altınkaya Hotel,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD117,trip,Altınkaya Hotel,Altınkaya Hotel,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD117,tripadvisor,Altınkaya Hotel,Altınkaya Hotel,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD118,google_travel,Amfora Hotel,Amfora Hotel,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD118,trip,Amfora Hotel,Amfora Hotel,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD118,tripadvisor,Amfora Hotel,Amfora Hotel,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD119,google_travel,"Bodrum Suites Apart Otel, Ortakent - Yahşi","Bodrum Suites Apart Otel, Ortakent - Yahşi",Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD119,trip,"Bodrum Suites Apart Otel, Ortakent - Yahşi","Bodrum Suites Apart Otel, Ortakent - Yahşi",Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD119,tripadvisor,"Bodrum Suites Apart Otel, Ortakent - Yahşi","Bodrum Suites Apart Otel, Ortakent - Yahşi",Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD120,google_travel,Celeste Bella Luxury Hotel & Spa,Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD120,trip,Celeste Bella Luxury Hotel & Spa,Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD120,tripadvisor,Celeste Bella Luxury Hotel & Spa,Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD121,google_travel,Eskiyalı Otel,Eskiyalı Otel,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD121,trip,Eskiyalı Otel,Eskiyalı Otel,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD121,tripadvisor,Eskiyalı Otel,Eskiyalı Otel,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD122,google_travel,Florida Otel,Florida Otel,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD122,trip,Florida Otel,Florida Otel,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD122,tripadvisor,Florida Otel,Florida Otel,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD123,google_travel,Hotel Marma Beach,Hotel Marma Beach,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD123,trip,Hotel Marma Beach,Hotel Marma Beach,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD123,tripadvisor,Hotel Marma Beach,Hotel Marma Beach,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD124,google_travel,Irmak Boutique Hotel,Irmak Boutique Hotel,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD124,trip,Irmak Boutique Hotel,Irmak Boutique Hotel,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD124,tripadvisor,Irmak Boutique Hotel,Irmak Boutique Hotel,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD125,google_travel,Kefi Beach Bodrum,Kefi Beach Bodrum,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD125,trip,Kefi Beach Bodrum,Kefi Beach Bodrum,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD125,tripadvisor,Kefi Beach Bodrum,Kefi Beach Bodrum,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD126,google_travel,Khai Hotel Bodrum,Khai Hotel Bodrum,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD126,trip,Khai Hotel Bodrum,Khai Hotel Bodrum,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD126,tripadvisor,Khai Hotel Bodrum,Khai Hotel Bodrum,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD127,google_travel,Kriss Hotel,Kriss Hotel,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD127,trip,Kriss Hotel,Kriss Hotel,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD127,tripadvisor,Kriss Hotel,Kriss Hotel,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD128,google_travel,Lugga Boutique Hotel & Beach,Lugga Boutique Hotel & Beach,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD128,trip,Lugga Boutique Hotel & Beach,Lugga Boutique Hotel & Beach,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD128,tripadvisor,Lugga Boutique Hotel & Beach,Lugga Boutique Hotel & Beach,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD129,google_travel,Meggs Bodrum,Meggs Bodrum,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD129,trip,Meggs Bodrum,Meggs Bodrum,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD129,tripadvisor,Meggs Bodrum,Meggs Bodrum,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD130,google_travel,Petunya Beach Resort,Petunya Beach Resort,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD130,trip,Petunya Beach Resort,Petunya Beach Resort,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD130,tripadvisor,Petunya Beach Resort,Petunya Beach Resort,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD131,google_travel,Regia Mare Beach Hotel Bodrum,Regia Mare Beach Hotel Bodrum,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD131,trip,Regia Mare Beach Hotel Bodrum,Regia Mare Beach Hotel Bodrum,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD131,tripadvisor,Regia Mare Beach Hotel Bodrum,Regia Mare Beach Hotel Bodrum,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD132,google_travel,Viras Hotel & Beach,Viras Hotel & Beach,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD132,trip,Viras Hotel & Beach,Viras Hotel & Beach,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD132,tripadvisor,Viras Hotel & Beach,Viras Hotel & Beach,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD133,google_travel,Yahşi Beach Hotel & Restaurant,Yahşi Beach Hotel & Restaurant,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD133,trip,Yahşi Beach Hotel & Restaurant,Yahşi Beach Hotel & Restaurant,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD133,tripadvisor,Yahşi Beach Hotel & Restaurant,Yahşi Beach Hotel & Restaurant,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD134,google_travel,Yakamoz Otel,Yakamoz Otel,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD134,trip,Yakamoz Otel,Yakamoz Otel,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD134,tripadvisor,Yakamoz Otel,Yakamoz Otel,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD135,google_travel,Yılmaz Hotel | Bodrum Ortakent Otelleri,Yılmaz Hotel | Bodrum Ortakent Otelleri,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD135,trip,Yılmaz Hotel | Bodrum Ortakent Otelleri,Yılmaz Hotel | Bodrum Ortakent Otelleri,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD135,tripadvisor,Yılmaz Hotel | Bodrum Ortakent Otelleri,Yılmaz Hotel | Bodrum Ortakent Otelleri,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD136,google_travel,Zest Exclusive Hotel and Spa,Zest Exclusive Hotel and Spa,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD136,trip,Zest Exclusive Hotel and Spa,Zest Exclusive Hotel and Spa,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD136,tripadvisor,Zest Exclusive Hotel and Spa,Zest Exclusive Hotel and Spa,Ortakent-Yahşi,Ortakent-Yahşi,True,True,EXACT,OK,null,null,NO_URL,False
+BOD137,google_travel,Armagan Apart Hotel,Armagan Apart Hotel,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD137,trip,Armagan Apart Hotel,Armagan Apart Hotel,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD137,tripadvisor,Armagan Apart Hotel,Armagan Apart Hotel,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD138,google_travel,Bodrum Blue Bay Otel,Bodrum Blue Bay Otel,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD138,trip,Bodrum Blue Bay Otel,Bodrum Blue Bay Otel,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD138,tripadvisor,Bodrum Blue Bay Otel,Bodrum Blue Bay Otel,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD139,google_travel,Casa Dell'arte Otel,Casa Dell'arte Otel,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD139,trip,Casa Dell'arte Otel,Casa Dell'arte Otel,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD139,tripadvisor,Casa Dell'arte Otel,Casa Dell'arte Otel,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD140,google_travel,DoubleTree by Hilton Bodrum Işıl Club All-Inclusive Resort,DoubleTree by Hilton Bodrum Işıl Club All-Inclusive Resort,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD140,trip,DoubleTree by Hilton Bodrum Işıl Club All-Inclusive Resort,DoubleTree by Hilton Bodrum Işıl Club All-Inclusive Resort,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD140,tripadvisor,DoubleTree by Hilton Bodrum Işıl Club All-Inclusive Resort,DoubleTree by Hilton Bodrum Işıl Club All-Inclusive Resort,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD141,google_travel,DUJA BODRUM,DUJA BODRUM,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD141,trip,DUJA BODRUM,DUJA BODRUM,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD141,tripadvisor,DUJA BODRUM,DUJA BODRUM,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD142,google_travel,Hotel Torbahan,Hotel Torbahan,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD142,trip,Hotel Torbahan,Hotel Torbahan,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD142,tripadvisor,Hotel Torbahan,Hotel Torbahan,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD143,google_travel,Hotel Zeytinada,Hotel Zeytinada,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD143,trip,Hotel Zeytinada,Hotel Zeytinada,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD143,tripadvisor,Hotel Zeytinada,Hotel Zeytinada,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD144,google_travel,Mira Suites,Mira Suites,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD144,trip,Mira Suites,Mira Suites,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD144,tripadvisor,Mira Suites,Mira Suites,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD145,google_travel,Moyo Luxury Hotel & Beach,Moyo Luxury Hotel & Beach,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD145,trip,Moyo Luxury Hotel & Beach,Moyo Luxury Hotel & Beach,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD145,tripadvisor,Moyo Luxury Hotel & Beach,Moyo Luxury Hotel & Beach,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD146,google_travel,Olivia Hotel,Olivia Hotel,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD146,trip,Olivia Hotel,Olivia Hotel,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD146,tripadvisor,Olivia Hotel,Olivia Hotel,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD147,google_travel,Omar Hotel & Suites,Omar Hotel & Suites,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD147,trip,Omar Hotel & Suites,Omar Hotel & Suites,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD147,tripadvisor,Omar Hotel & Suites,Omar Hotel & Suites,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD148,google_travel,Rixos Premium Bodrum,Rixos Premium Bodrum,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD148,trip,Rixos Premium Bodrum,Rixos Premium Bodrum,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD148,tripadvisor,Rixos Premium Bodrum,Rixos Premium Bodrum,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD149,google_travel,Roota Bodrum,Roota Bodrum,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD149,trip,Roota Bodrum,Roota Bodrum,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD149,tripadvisor,Roota Bodrum,Roota Bodrum,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD150,google_travel,Samara Hotel,Samara Hotel,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD150,trip,Samara Hotel,Samara Hotel,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD150,tripadvisor,Samara Hotel,Samara Hotel,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD151,google_travel,Sarpedor Boutique Hotel & SPA,Sarpedor Boutique Hotel & SPA,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD151,trip,Sarpedor Boutique Hotel & SPA,Sarpedor Boutique Hotel & SPA,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD151,tripadvisor,Sarpedor Boutique Hotel & SPA,Sarpedor Boutique Hotel & SPA,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD152,google_travel,"Susona Bodrum, LXR Hotels & Resorts","Susona Bodrum, LXR Hotels & Resorts",Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD152,trip,"Susona Bodrum, LXR Hotels & Resorts","Susona Bodrum, LXR Hotels & Resorts",Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD152,tripadvisor,"Susona Bodrum, LXR Hotels & Resorts","Susona Bodrum, LXR Hotels & Resorts",Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD153,google_travel,The Oba Hotel,The Oba Hotel,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD153,trip,The Oba Hotel,The Oba Hotel,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD153,tripadvisor,The Oba Hotel,The Oba Hotel,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD154,google_travel,Toka Bodrum Hotel & Beach Club,Toka Bodrum Hotel & Beach Club,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD154,trip,Toka Bodrum Hotel & Beach Club,Toka Bodrum Hotel & Beach Club,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD154,tripadvisor,Toka Bodrum Hotel & Beach Club,Toka Bodrum Hotel & Beach Club,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD155,google_travel,Trend Life | Trendlife Hotels & Beach Club Bodrum Torba,Trend Life | Trendlife Hotels & Beach Club Bodrum Torba,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD155,trip,Trend Life | Trendlife Hotels & Beach Club Bodrum Torba,Trend Life | Trendlife Hotels & Beach Club Bodrum Torba,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD155,tripadvisor,Trend Life | Trendlife Hotels & Beach Club Bodrum Torba,Trend Life | Trendlife Hotels & Beach Club Bodrum Torba,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD156,google_travel,Voyage Torba,Voyage Torba,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD156,trip,Voyage Torba,Voyage Torba,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD156,tripadvisor,Voyage Torba,Voyage Torba,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD157,google_travel,Voyage Torba Private,Voyage Torba Private,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD157,trip,Voyage Torba Private,Voyage Torba Private,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD157,tripadvisor,Voyage Torba Private,Voyage Torba Private,Torba,Torba,True,True,EXACT,OK,null,null,NO_URL,False
+BOD158,google_travel,Arin Resort Bodrum,Arin Resort Bodrum,Turgutreis,Turgutreis,True,True,EXACT,OK,null,null,NO_URL,False
+BOD158,trip,Arin Resort Bodrum,Arin Resort Bodrum,Turgutreis,Turgutreis,True,True,EXACT,OK,null,null,NO_URL,False
+BOD158,tripadvisor,Arin Resort Bodrum,Arin Resort Bodrum,Turgutreis,Turgutreis,True,True,EXACT,OK,null,null,NO_URL,False
+BOD159,google_travel,Bodrum Ada Otel Turgutreis,Bodrum Ada Otel Turgutreis,Turgutreis,Turgutreis,True,True,EXACT,OK,null,null,NO_URL,False
+BOD159,trip,Bodrum Ada Otel Turgutreis,Bodrum Ada Otel Turgutreis,Turgutreis,Turgutreis,True,True,EXACT,OK,null,null,NO_URL,False
+BOD159,tripadvisor,Bodrum Ada Otel Turgutreis,Bodrum Ada Otel Turgutreis,Turgutreis,Turgutreis,True,True,EXACT,OK,null,null,NO_URL,False
+BOD160,google_travel,La Blanche Resort Bodrum,La Blanche Resort Bodrum,Turgutreis,Turgutreis,True,True,EXACT,OK,null,null,NO_URL,False
+BOD160,trip,La Blanche Resort Bodrum,La Blanche Resort Bodrum,Turgutreis,Turgutreis,True,True,EXACT,OK,null,null,NO_URL,False
+BOD160,tripadvisor,La Blanche Resort Bodrum,La Blanche Resort Bodrum,Turgutreis,Turgutreis,True,True,EXACT,OK,null,null,NO_URL,False
+BOD161,google_travel,MyElla Hotel Resort & Spa,MyElla Hotel Resort & Spa,Turgutreis,Turgutreis,True,True,EXACT,OK,null,null,NO_URL,False
+BOD161,trip,MyElla Hotel Resort & Spa,MyElla Hotel Resort & Spa,Turgutreis,Turgutreis,True,True,EXACT,OK,null,null,NO_URL,False
+BOD161,tripadvisor,MyElla Hotel Resort & Spa,MyElla Hotel Resort & Spa,Turgutreis,Turgutreis,True,True,EXACT,OK,null,null,NO_URL,False
+BOD162,google_travel,Rammos Managed by Dedeman,Rammos Managed by Dedeman,Turgutreis,Turgutreis,True,True,EXACT,OK,null,null,NO_URL,False
+BOD162,trip,Rammos Managed by Dedeman,Rammos Managed by Dedeman,Turgutreis,Turgutreis,True,True,EXACT,OK,null,null,NO_URL,False
+BOD162,tripadvisor,Rammos Managed by Dedeman,Rammos Managed by Dedeman,Turgutreis,Turgutreis,True,True,EXACT,OK,https://www.tripadvisor.com/Hotel_Review-g298664-d24000643-Reviews-Rammos_Managed_By_Dedeman-Turgutreis_Bodrum_District_Mugla_Province_Turkish_Aegean_Co.html,verified_direct,OK,False
+BOD163,google_travel,Sundance Resort,Sundance Resort,Turgutreis,Turgutreis,True,True,EXACT,OK,null,null,NO_URL,False
+BOD163,trip,Sundance Resort,Sundance Resort,Turgutreis,Turgutreis,True,True,EXACT,OK,null,null,NO_URL,False
+BOD163,tripadvisor,Sundance Resort,Sundance Resort,Turgutreis,Turgutreis,True,True,EXACT,OK,null,null,NO_URL,False
+BOD164,google_travel,Swissôtel Resort Bodrum Sahili,Swissôtel Resort Bodrum Sahili,Turgutreis,Turgutreis,True,True,EXACT,OK,null,null,NO_URL,False
+BOD164,trip,Swissôtel Resort Bodrum Sahili,Swissôtel Resort Bodrum Sahili,Turgutreis,Turgutreis,True,True,EXACT,OK,null,null,NO_URL,False
+BOD164,tripadvisor,Swissôtel Resort Bodrum Sahili,Swissôtel Resort Bodrum Sahili,Turgutreis,Turgutreis,True,True,EXACT,OK,null,null,NO_URL,False
+BOD165,google_travel,Caja by Maxx Royal,Caja by Maxx Royal,Türkbükü,Türkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD165,trip,Caja by Maxx Royal,Caja by Maxx Royal,Türkbükü,Türkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD165,tripadvisor,Caja by Maxx Royal,Caja by Maxx Royal,Türkbükü,Türkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD166,google_travel,Divan Bodrum,Divan Bodrum,Türkbükü,Türkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD166,trip,Divan Bodrum,Divan Bodrum,Türkbükü,Türkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD166,tripadvisor,Divan Bodrum,Divan Bodrum,Türkbükü,Türkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD167,google_travel,Elista Hotel & Spa,Elista Hotel & Spa,Türkbükü,Türkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD167,trip,Elista Hotel & Spa,Elista Hotel & Spa,Türkbükü,Türkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD167,tripadvisor,Elista Hotel & Spa,Elista Hotel & Spa,Türkbükü,Türkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD168,google_travel,Kuum Hotel & SPA Bodrum,Kuum Hotel & SPA Bodrum,Türkbükü,Türkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD168,trip,Kuum Hotel & SPA Bodrum,Kuum Hotel & SPA Bodrum,Türkbükü,Türkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD168,tripadvisor,Kuum Hotel & SPA Bodrum,Kuum Hotel & SPA Bodrum,Türkbükü,Türkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD169,google_travel,MACAKIZI BODRUM,MACAKIZI BODRUM,Türkbükü,Türkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD169,trip,MACAKIZI BODRUM,MACAKIZI BODRUM,Türkbükü,Türkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD169,tripadvisor,MACAKIZI BODRUM,MACAKIZI BODRUM,Türkbükü,Türkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD170,google_travel,No:81 Hotel,No:81 Hotel,Türkbükü,Türkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD170,trip,No:81 Hotel,No:81 Hotel,Türkbükü,Türkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD170,tripadvisor,No:81 Hotel,No:81 Hotel,Türkbükü,Türkbükü,True,True,EXACT,OK,null,null,NO_URL,False
+BOD171,google_travel,4 reasons Hotel Yalikavak,4 reasons Hotel Yalikavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD171,trip,4 reasons Hotel Yalikavak,4 reasons Hotel Yalikavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD171,tripadvisor,4 reasons Hotel Yalikavak,4 reasons Hotel Yalikavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD172,google_travel,Ailla Yalıkavak,Ailla Yalıkavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD172,trip,Ailla Yalıkavak,Ailla Yalıkavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD172,tripadvisor,Ailla Yalıkavak,Ailla Yalıkavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD173,google_travel,Allium Bodrum Resort & Spa,Allium Bodrum Resort & Spa,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD173,trip,Allium Bodrum Resort & Spa,Allium Bodrum Resort & Spa,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD173,tripadvisor,Allium Bodrum Resort & Spa,Allium Bodrum Resort & Spa,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD174,google_travel,Arts Hotel Bodrum Yalıkavak,Arts Hotel Bodrum Yalıkavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD174,trip,Arts Hotel Bodrum Yalıkavak,Arts Hotel Bodrum Yalıkavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD174,tripadvisor,Arts Hotel Bodrum Yalıkavak,Arts Hotel Bodrum Yalıkavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD175,google_travel,Avantgarde Refined Hotel | Yalıkavak,Avantgarde Refined Hotel | Yalıkavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD175,trip,Avantgarde Refined Hotel | Yalıkavak,Avantgarde Refined Hotel | Yalıkavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD175,tripadvisor,Avantgarde Refined Hotel | Yalıkavak,Avantgarde Refined Hotel | Yalıkavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD176,google_travel,Blue Point Yalikavak,Blue Point Yalikavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD176,trip,Blue Point Yalikavak,Blue Point Yalikavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD176,tripadvisor,Blue Point Yalikavak,Blue Point Yalikavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD177,google_travel,Delta Hotels By Marriott Bodrum,Delta Hotels By Marriott Bodrum,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD177,trip,Delta Hotels By Marriott Bodrum,Delta Hotels By Marriott Bodrum,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD177,tripadvisor,Delta Hotels By Marriott Bodrum,Delta Hotels By Marriott Bodrum,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD178,google_travel,Highlight Hotel Yalıkavak,Highlight Hotel Yalıkavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD178,trip,Highlight Hotel Yalıkavak,Highlight Hotel Yalıkavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD178,tripadvisor,Highlight Hotel Yalıkavak,Highlight Hotel Yalıkavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD179,google_travel,Lizbonia Otel Yalikavak,Lizbonia Otel Yalikavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD179,trip,Lizbonia Otel Yalikavak,Lizbonia Otel Yalikavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD179,tripadvisor,Lizbonia Otel Yalikavak,Lizbonia Otel Yalikavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD180,google_travel,MGallery The Bodrum Hotel Yalıkavak,MGallery The Bodrum Hotel Yalıkavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD180,trip,MGallery The Bodrum Hotel Yalıkavak,MGallery The Bodrum Hotel Yalıkavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD180,tripadvisor,MGallery The Bodrum Hotel Yalıkavak,MGallery The Bodrum Hotel Yalıkavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD181,google_travel,Palmalife Bodrum Resort & Spa,Palmalife Bodrum Resort & Spa,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD181,trip,Palmalife Bodrum Resort & Spa,Palmalife Bodrum Resort & Spa,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD181,tripadvisor,Palmalife Bodrum Resort & Spa,Palmalife Bodrum Resort & Spa,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD182,google_travel,Root Redrock Villas Yalıkavak - Bodrum,Root Redrock Villas Yalıkavak - Bodrum,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD182,trip,Root Redrock Villas Yalıkavak - Bodrum,Root Redrock Villas Yalıkavak - Bodrum,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD182,tripadvisor,Root Redrock Villas Yalıkavak - Bodrum,Root Redrock Villas Yalıkavak - Bodrum,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD183,google_travel,Ruins Luxury Resort,Ruins Luxury Resort,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD183,trip,Ruins Luxury Resort,Ruins Luxury Resort,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD183,tripadvisor,Ruins Luxury Resort,Ruins Luxury Resort,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD184,google_travel,Sea Palm Otel -YALIKAVAK,Sea Palm Otel -YALIKAVAK,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD184,trip,Sea Palm Otel -YALIKAVAK,Sea Palm Otel -YALIKAVAK,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD184,tripadvisor,Sea Palm Otel -YALIKAVAK,Sea Palm Otel -YALIKAVAK,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD185,google_travel,Sezz Hotels Spa Wellness Yalıkavak,Sezz Hotels Spa Wellness Yalıkavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD185,trip,Sezz Hotels Spa Wellness Yalıkavak,Sezz Hotels Spa Wellness Yalıkavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD185,tripadvisor,Sezz Hotels Spa Wellness Yalıkavak,Sezz Hotels Spa Wellness Yalıkavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD186,google_travel,Sirene Luxury Hotel Bodrum,Sirene Luxury Hotel Bodrum,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD186,trip,Sirene Luxury Hotel Bodrum,Sirene Luxury Hotel Bodrum,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD186,tripadvisor,Sirene Luxury Hotel Bodrum,Sirene Luxury Hotel Bodrum,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD187,google_travel,Spektr Boutique Hotel Yalikavak,Spektr Boutique Hotel Yalikavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD187,trip,Spektr Boutique Hotel Yalikavak,Spektr Boutique Hotel Yalikavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD187,tripadvisor,Spektr Boutique Hotel Yalikavak,Spektr Boutique Hotel Yalikavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD188,google_travel,Tangiers Hotel Yalıkavak,Tangiers Hotel Yalıkavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD188,trip,Tangiers Hotel Yalıkavak,Tangiers Hotel Yalıkavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD188,tripadvisor,Tangiers Hotel Yalıkavak,Tangiers Hotel Yalıkavak,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD189,google_travel,The Bodrum EDITION,The Bodrum EDITION,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD189,trip,The Bodrum EDITION,The Bodrum EDITION,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD189,tripadvisor,The Bodrum EDITION,The Bodrum EDITION,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD190,google_travel,The Sign Highlight Hotel,The Sign Highlight Hotel,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD190,trip,The Sign Highlight Hotel,The Sign Highlight Hotel,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD190,tripadvisor,The Sign Highlight Hotel,The Sign Highlight Hotel,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD191,google_travel,Yalıkavak Marina Hotel by METT Collection,Yalıkavak Marina Hotel by METT Collection,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD191,trip,Yalıkavak Marina Hotel by METT Collection,Yalıkavak Marina Hotel by METT Collection,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD191,tripadvisor,Yalıkavak Marina Hotel by METT Collection,Yalıkavak Marina Hotel by METT Collection,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,null,NO_URL,False
+BOD192,google_travel,Yalıpark Beach Hotel,Yalıpark Beach Hotel,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,MISSING_LINK_RECORD,NO_URL,False
+BOD192,trip,Yalıpark Beach Hotel,Yalıpark Beach Hotel,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,MISSING_LINK_RECORD,NO_URL,False
+BOD192,tripadvisor,Yalıpark Beach Hotel,Yalıpark Beach Hotel,Yalıkavak,Yalıkavak,True,True,EXACT,OK,null,MISSING_LINK_RECORD,NO_URL,False

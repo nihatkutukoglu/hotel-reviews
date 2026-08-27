@@ -1,0 +1,14 @@
+﻿metric,value
+hotels_processed_this_batch,192
+completed,186
+wrong_entity_attempts,0
+wrong_entity_rows_written,0
+review_required_attempts,0
+review_required_rows_written,0
+blocked_or_manual_action,6
+error,0
+reviews_added_this_batch,2818
+empty_review_text_in_touched_files,0
+invalid_rating_in_touched_files,0
+duplicate_rows_in_touched_files,0
+QUALITY_GATE,PASS

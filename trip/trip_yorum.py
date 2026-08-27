@@ -208,9 +208,15 @@ def otel_adini_al(driver: webdriver.Chrome) -> str:
 
 def daha_fazla_yorumu_ac(driver: webdriver.Chrome) -> None:
     onceki_sekmeler = set(driver.window_handles)
-    dugme = WebDriverWait(driver, BEKLEME).until(
-        EC.element_to_be_clickable((By.ID, "review-swiper-show-more-button"))
-    )
+    try:
+        dugme = WebDriverWait(driver, BEKLEME).until(
+            EC.element_to_be_clickable((By.ID, "review-swiper-show-more-button"))
+        )
+    except TimeoutException:
+        # Bu buton her otelde bulunmuyor (ör. yorum sayisi az olan oteller);
+        # yoksa liste zaten tam gorunuyor demektir, akisi durdurmadan devam et.
+        print("'Tumunu goster' dugmesi bulunamadi; mevcut yorum listesiyle devam ediliyor.")
+        return
     driver.execute_script("arguments[0].scrollIntoView({block:'center'});", dugme)
     try:
         dugme.click()
@@ -656,7 +662,12 @@ def sayfa_imzasi(driver: webdriver.Chrome) -> str:
         return ""
 
 
-def yorumlari_cek(driver: webdriver.Chrome, url: str, csv_dosyasi: Path) -> int:
+def yorumlari_cek(
+    driver: webdriver.Chrome,
+    url: str,
+    csv_dosyasi: Path,
+    maksimum_yorum: int = 0,
+) -> int:
     driver.get(url)
     takvimi_kapat(driver)
     otel_adi = otel_adini_al(driver)
@@ -717,6 +728,9 @@ def yorumlari_cek(driver: webdriver.Chrome, url: str, csv_dosyasi: Path) -> int:
                 mevcut_anahtarlar.add(anahtar)
                 toplam += 1
                 sayfa_adedi += 1
+                if maksimum_yorum > 0 and toplam >= maksimum_yorum:
+                    print(f"Maksimum yorum sinirina ulasildi ({maksimum_yorum}).")
+                    return toplam
             print(f"{sayfa_no}. sayfa: {sayfa_adedi} yeni yorum kaydedildi.")
 
             # Genisleyen yorumlar sayfa boyunu degistirebilir; sonraki sayfa
@@ -763,6 +777,12 @@ def argumanlari_al() -> argparse.Namespace:
         action="store_true",
         help="Chrome penceresini gostermeden calistir.",
     )
+    ayrıştırıcı.add_argument(
+        "--maksimum-yorum",
+        type=int,
+        default=0,
+        help="0 sinirsizdir; pozitif degerde bu sayida yeni kayittan sonra durur.",
+    )
     return ayrıştırıcı.parse_args()
 
 
@@ -771,7 +791,7 @@ def main() -> int:
     driver: webdriver.Chrome | None = None
     try:
         driver = tarayici_olustur(ayarlar.headless)
-        yorumlari_cek(driver, ayarlar.url, ayarlar.csv.resolve())
+        yorumlari_cek(driver, ayarlar.url, ayarlar.csv.resolve(), ayarlar.maksimum_yorum)
         return 0
     except KeyboardInterrupt:
         print("Kullanıcı tarafından durduruldu; yazılan kayıtlar CSV'de korundu.")

@@ -1,0 +1,6 @@
+﻿hotel_id,hotel_name_expected,detected_name,entity_status,reviews_saved,empty_text,invalid_rating,duplicate_rows,details_coverage,status,error
+BOD012,Selectum Collection Bodrum,Selectum Collection Bodrum,VALID_ENTITY,10,0,0,0,100.0,COMPLETED,
+BOD056,"Mandarin Oriental, Bodrum","Mandarin Oriental, Bodrum",VALID_ENTITY,10,0,0,0,100.0,COMPLETED,
+BOD058,Bodrum Beach Resort,Bodrum Beach Resort.,VALID_ENTITY,10,0,0,0,100.0,COMPLETED,
+BOD007,Kefaluka Resort,Kefaluka Resort,VALID_ENTITY,10,0,0,0,100.0,COMPLETED,
+BOD013,"Sentido Bellazure - Akyarlar, Bodrum / Turkey","Sentido Bellazure - Akyarlar, Bodrum / Turkey",VALID_ENTITY,10,0,0,0,100.0,COMPLETED,

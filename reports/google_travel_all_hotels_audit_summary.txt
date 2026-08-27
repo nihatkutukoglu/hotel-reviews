@@ -1,0 +1,11 @@
+GOOGLE TRAVEL ALL-HOTELS AUDIT SUMMARY
+=============================================
+raw_total_rows: 2336
+clean_total_rows: 2336
+hotel_count: 104
+duplicates_dropped: 0
+empty_text_dropped: 0
+source_distribution: {'GOOGLE': 2088, 'TRIPADVISOR': 243, 'OTHER': 2, 'TRIP_COM': 3}
+rating_group_distribution: {'HIGH': 1785, 'MID': 141, 'LOW': 407, None: 3}
+
+NOTE: 'tarih' is a relative-time string, not an exact date (e.g. 'Google uzerinde 3 hafta once') - it ALSO reveals that Google Travel's review panel aggregates reviews originally posted on Google, TripAdvisor, and even Trip.com. review_source reflects this; review_age_days_approx is a rough estimate, not a real date.

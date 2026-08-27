@@ -1,0 +1,6 @@
+1. Trip.com corpus covers 94 hotels, 3013 reviews.
+2. Traveler type coverage: 51.3% (raw values preserved in traveler_type_raw).
+3. Largest traveler segment: UNKNOWN (n=1468, mean=4.33).
+4. Reviewer country coverage: 11.6% - top country: Turkey.
+5. Room type coverage is limited (many blanks) - room-type findings should be treated as exploratory only.
+6. Stay-month seasonality analysis is limited by current sample size - see tripcom_stay_month_summary.csv.

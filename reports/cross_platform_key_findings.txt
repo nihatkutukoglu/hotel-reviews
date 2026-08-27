@@ -1,0 +1,8 @@
+common_hotels: 58
+supported_comparison_hotels: 54
+overall_mean_diff: -0.118
+largest_divergences: [{'hotel_id': 'BOD025', 'rating_gap_mean': -2.052, 'comparison_support': 'SUPPORTED_COMPARISON'}, {'hotel_id': 'BOD004', 'rating_gap_mean': -1.955, 'comparison_support': 'SUPPORTED_COMPARISON'}, {'hotel_id': 'BOD190', 'rating_gap_mean': 1.906, 'comparison_support': 'SUPPORTED_COMPARISON'}]
+agreement_dist: {'HIGH_AGREEMENT': 24, 'DISAGREEMENT': 17, 'MODERATE_AGREEMENT': 17}
+review_length_behavior: {'google_median_words': 44.0, 'trip_median_words': 37.0}
+aspect_consistency_dist: {'GOOGLE_ONLY_SIGNAL': 489, 'LOW_SUPPORT': 324, 'BOTH_SOURCE_SIGNAL': 298, 'TRIP_ONLY_SIGNAL': 56}
+main_limitations: ["Trip.com sample is much smaller than Google's - most comparisons are LOW_SUPPORT", 'No row-level merge; comparisons are hotel/aspect-summary level only', 'Rating gap is a divergence signal, not a truth judgment', 'Different sampling mechanisms per platform (section 3)']

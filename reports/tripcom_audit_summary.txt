@@ -1,0 +1,11 @@
+TRIP.COM AUDIT SUMMARY
+==============================
+raw_total_rows: 3013
+clean_total_rows: 3013
+hotel_count: 94
+duplicates_dropped: 0
+empty_text_dropped: 0
+suspected_ui_leakage_rows_flagged_not_dropped: 33
+traveler_type_distribution: {'FAMILY': 603, 'UNKNOWN': 1468, 'COUPLE': 506, 'BUSINESS': 74, 'FRIENDS': 268, 'SOLO': 88, 'OTHER': 6}
+room_type_distribution: {'UNKNOWN': 2682, 'FAMILY': 4, 'SUITE': 29, 'STANDARD': 70, 'DELUXE': 72, 'OTHER': 154, 'VILLA': 2}
+rating_group_distribution (5-scale, LOW<3.0 MID 3.0-3.99 HIGH>=4.0): {'HIGH': 2506, 'LOW': 296, 'MID': 211}

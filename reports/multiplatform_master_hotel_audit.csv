@@ -1,0 +1,22 @@
+﻿metric,value
+total_rows,192
+unique_hotel_id,192
+unique_place_id,192
+duplicate_hotel_id_count,0
+duplicate_place_id_count,0
+missing_hotel_id_rows,0
+unique_areas,14
+area:Yalıkavak,22
+area:Ortakent-Yahşi,21
+area:Torba,21
+area:Bitez,18
+area:Akyarlar,16
+area:Gümbet,15
+area:Gümüşlük,15
+area:Gündoğan,14
+area:Bodrum Merkez,13
+area:Göltürkbükü,10
+area:Güvercinlik,10
+area:Turgutreis,7
+area:Türkbükü,6
+area:Kadıkalesi,4

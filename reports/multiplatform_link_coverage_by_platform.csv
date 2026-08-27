@@ -1,0 +1,4 @@
+﻿platform,total_hotels_in_file,verified_direct_count,null_url_count,unknown_status_count,duplicate_url_count,duplicate_hotel_id_count,invalid_url_format_count,missing_from_master_link_file_count
+google_travel,192,16,176,1,0,0,0,0
+trip,192,20,172,1,0,0,0,0
+tripadvisor,192,38,154,1,0,0,0,0

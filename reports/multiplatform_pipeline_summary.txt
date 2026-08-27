@@ -1,0 +1,59 @@
+=== MASTER ===
+master hotel count: 192
+unique hotel_id: 192
+duplicate hotel_id: 0
+duplicate place_id: 0
+
+=== LINK FILES ===
+google_travel: 191 hotel, verified_direct=16, null_url=175
+trip: 191 hotel, verified_direct=20, null_url=171
+tripadvisor: 191 hotel, verified_direct=38, null_url=153
+191 vs 192 discrepancy: 1 hotel_id present in master but missing from link file(s):
+  BOD192 | Yalıpark Beach Hotel | Yalıkavak | missing_from=google_travel|trip|tripadvisor
+
+=== COVERAGE ===
+3 platformda verified: 7 hotel
+2 platformda verified: 14 hotel
+1 platformda verified: 25 hotel
+0 platformda verified: 146 hotel
+
+=== SCRIPTS ===
+google/yorum.py: audit edildi, degisiklik yok (calisan secicilere dokunulmadi).
+trip/trip_yorum.py: 'show more' dugmesi yoksa artik crash etmiyor (bugfix); --maksimum-yorum eklendi.
+tripadvisor/tripadvisor_yorum.py: --maksimum-yorum eklendi.
+politikalar/politikalar.py: degisiklik yok; tum-ya-da-hic yazma davranisi policies_adapter.py tarafindan bypass edilip PARTIAL satir uretilebiliyor.
+
+=== SMOKE ===
+  BOD007 | Kefaluka Resort
+  BOD012 | Selectum Collection Bodrum
+  BOD013 | Sentido Bellazure - Akyarlar, Bodrum / Turkey
+  BOD056 | Mandarin Oriental, Bodrum
+  BOD058 | Bodrum Beach Resort
+    BOD012 / google_travel: status=WRONG_ENTITY rows_scraped=0 duplicate_rows=0
+    BOD012 / trip: status=COMPLETED rows_scraped=10 duplicate_rows=0
+    BOD012 / tripadvisor: status=ERROR rows_scraped=0 duplicate_rows=0
+    BOD012 / policies_trip: status=PARTIAL rows_scraped=1 duplicate_rows=0
+    BOD056 / google_travel: status=WRONG_ENTITY rows_scraped=0 duplicate_rows=0
+    BOD056 / trip: status=COMPLETED rows_scraped=10 duplicate_rows=0
+    BOD056 / tripadvisor: status=ERROR rows_scraped=0 duplicate_rows=0
+    BOD056 / policies_trip: status=PARTIAL rows_scraped=1 duplicate_rows=0
+    BOD058 / google_travel: status=WRONG_ENTITY rows_scraped=0 duplicate_rows=0
+    BOD058 / trip: status=COMPLETED rows_scraped=10 duplicate_rows=0
+    BOD058 / tripadvisor: status=ERROR rows_scraped=0 duplicate_rows=0
+    BOD058 / policies_trip: status=PARTIAL rows_scraped=1 duplicate_rows=0
+    BOD007 / google_travel: status=WRONG_ENTITY rows_scraped=0 duplicate_rows=0
+    BOD007 / trip: status=COMPLETED rows_scraped=10 duplicate_rows=0
+    BOD007 / tripadvisor: status=ERROR rows_scraped=0 duplicate_rows=0
+    BOD007 / policies_trip: status=PARTIAL rows_scraped=1 duplicate_rows=0
+    BOD013 / google_travel: status=WRONG_ENTITY rows_scraped=0 duplicate_rows=0
+    BOD013 / trip: status=WRONG_ENTITY rows_scraped=0 duplicate_rows=0
+    BOD013 / tripadvisor: status=ERROR rows_scraped=0 duplicate_rows=0
+    BOD013 / policies_trip: status=WRONG_ENTITY rows_scraped=0 duplicate_rows=0
+wrong-entity count: 7
+error/blocked count: 5
+
+=== READY ===
+FULL_BATCH_READY = NO
+
+=== NEXT COMMANDS ===
+python scripts/multiplatform/run_smoke_tests.py  # once smoke passes, re-run this summary

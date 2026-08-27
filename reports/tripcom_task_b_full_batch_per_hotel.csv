@@ -1,0 +1,187 @@
+﻿hotel_id,hotel_name,rows_added_this_batch,unique_rows_in_file
+BOD002,Armonia Holiday Village & Spa,0,11
+BOD003,ASPAT HOTEL BODRUM Beach Restaurant,20,28
+BOD004,Bendis Beach Hotel,0,11
+BOD007,Kefaluka Resort,0,11
+BOD008,LA BREZZA SUITE &HOTEL,11,11
+BOD010,Mare Garden Hotel,0,2
+BOD011,"Radisson Collection Hotel, Bodrum",0,11
+BOD012,Selectum Collection Bodrum,0,11
+BOD013,"Sentido Bellazure - Akyarlar, Bodrum / Turkey",0,8
+BOD014,Suum Bodrum Hotel & Beach,0,11
+BOD016,Xanadu Island,0,11
+BOD017,Ambrosia Otel Beach & Spa,20,50
+BOD020,Bitez Risa Hotel,20,50
+BOD021,"Caresse, a Luxury Collection Resort & Spa, Bodrum",20,43
+BOD025,Halikarya Hotel & Restaurant Beach,20,21
+BOD029,Mumu Bodrum Hotel,19,19
+BOD031,Okaliptus Otel,20,47
+BOD033,Ramada Resort by Wyndham Bodrum,20,64
+BOD036,Bodrium Hotel & SPA,20,63
+BOD041,La Quinta by Wyndham Bodrum,20,59
+BOD043,METT Hotel & Beach Resort Bodrum,20,90
+BOD045,Salmakis Resort & Spa,20,51
+BOD048,Babana Hotel,12,12
+BOD051,Faros Bodrum Hotel Göltürkbükü,0,11
+BOD055,Lavinya Otel Göltürkbükü,0,11
+BOD056,"Mandarin Oriental, Bodrum",0,11
+BOD058,Bodrum Beach Resort,0,11
+BOD059,Bodrum Hotel Baba,0,11
+BOD060,Club Shark Hotel,20,43
+BOD061,Gümbet Anıl Beach,20,41
+BOD064,Jasmin Elite Residence & Spa,20,88
+BOD065,Mirada Exclusive Bodrum,20,63
+BOD066,Royal Asarlik Beach Hotel & Spa,20,74
+BOD068,Selectum Colours Bodrum,20,45
+BOD072,VERY CHIC BODRUM,0,11
+BOD073,Arriba Apartment & Restaurant & Bungalows,0,10
+BOD074,Begonvil Gümüşlük,0,3
+BOD076,Gümüşlük No3,0,6
+BOD078,Liman Hotel Gümüslük (Adult only),0,11
+BOD081,Oda Bodrum Gümüşlük,20,28
+BOD082,Otel Gümüşlük,18,18
+BOD085,Paradise Gümüşlük,12,12
+BOD086,Vega Aparts,20,20
+BOD088,Baia Bodrum Hotel,20,40
+BOD089,Cape Bodrum Luxury Hotel & Beach,20,28
+BOD090,Costa Farilya Special Class Hotel Bodrum,20,67
+BOD091,Gündoğan Suites,6,6
+BOD095,Mivara Luxury Bodrum,20,58
+BOD096,Olira Boutique Hotel&SPA,20,27
+BOD097,OLİVE TREE HOTEL,11,11
+BOD100,Villa Rustica Hotel,8,8
+BOD106,La Blanche Island Bodrum,20,57
+BOD107,Le Méridien Bodrum Beach Resort,20,44
+BOD108,Lujo Hotel Bodrum,20,41
+BOD110,Titanic Luxury Collection Bodrum,20,35
+BOD111,Zena Hotel Bodrum,9,9
+BOD112,Azure By Yelken Hotel,20,41
+BOD115,Yasmin Bodrum Resort,20,47
+BOD118,Amfora Hotel,10,10
+BOD120,Celeste Bella Luxury Hotel & Spa,20,39
+BOD122,Florida Otel,11,11
+BOD124,Irmak Boutique Hotel,6,6
+BOD126,Khai Hotel Bodrum,20,27
+BOD128,Lugga Boutique Hotel & Beach,20,25
+BOD130,Petunya Beach Resort,20,44
+BOD131,Regia Mare Beach Hotel Bodrum,20,44
+BOD134,Yakamoz Otel,18,18
+BOD136,Zest Exclusive Hotel and Spa,20,24
+BOD140,DoubleTree by Hilton Bodrum Işıl Club All-Inclusive Resort,20,45
+BOD141,DUJA BODRUM,20,52
+BOD144,Mira Suites,2,2
+BOD147,Omar Hotel & Suites,14,14
+BOD151,Sarpedor Boutique Hotel & SPA,20,50
+BOD152,"Susona Bodrum, LXR Hotels & Resorts",20,73
+BOD158,Arin Resort Bodrum,20,25
+BOD162,Rammos Managed by Dedeman,20,65
+BOD165,Caja by Maxx Royal,4,4
+BOD167,Elista Hotel & Spa,20,62
+BOD170,No:81 Hotel,20,35
+BOD172,Ailla Yalıkavak,20,34
+BOD173,Allium Bodrum Resort & Spa,20,65
+BOD174,Arts Hotel Bodrum Yalıkavak,20,35
+BOD175,Avantgarde Refined Hotel | Yalıkavak,20,34
+BOD177,Delta Hotels By Marriott Bodrum,7,7
+BOD180,MGallery The Bodrum Hotel Yalıkavak,20,56
+BOD181,Palmalife Bodrum Resort & Spa,12,12
+BOD184,Sea Palm Otel -YALIKAVAK,14,14
+BOD186,Sirene Luxury Hotel Bodrum,20,55
+BOD187,Spektr Boutique Hotel Yalikavak,20,54
+BOD189,The Bodrum EDITION,20,62
+BOD190,The Sign Highlight Hotel,18,18
+BOD191,Yalıkavak Marina Hotel by METT Collection,20,60
+BOD192,Yalıpark Beach Hotel,20,78
+BOD002,Armonia Holiday Village & Spa,0,11
+BOD003,ASPAT HOTEL BODRUM Beach Restaurant,8,28
+BOD004,Bendis Beach Hotel,0,11
+BOD007,Kefaluka Resort,0,11
+BOD008,LA BREZZA SUITE &HOTEL,0,11
+BOD010,Mare Garden Hotel,0,2
+BOD011,"Radisson Collection Hotel, Bodrum",0,11
+BOD012,Selectum Collection Bodrum,0,11
+BOD013,"Sentido Bellazure - Akyarlar, Bodrum / Turkey",0,8
+BOD014,Suum Bodrum Hotel & Beach,0,11
+BOD016,Xanadu Island,0,11
+BOD017,Ambrosia Otel Beach & Spa,30,50
+BOD020,Bitez Risa Hotel,30,50
+BOD021,"Caresse, a Luxury Collection Resort & Spa, Bodrum",23,43
+BOD025,Halikarya Hotel & Restaurant Beach,1,21
+BOD029,Mumu Bodrum Hotel,0,19
+BOD031,Okaliptus Otel,27,47
+BOD033,Ramada Resort by Wyndham Bodrum,44,64
+BOD036,Bodrium Hotel & SPA,43,63
+BOD041,La Quinta by Wyndham Bodrum,39,59
+BOD043,METT Hotel & Beach Resort Bodrum,70,90
+BOD045,Salmakis Resort & Spa,31,51
+BOD048,Babana Hotel,0,12
+BOD051,Faros Bodrum Hotel Göltürkbükü,0,11
+BOD055,Lavinya Otel Göltürkbükü,0,11
+BOD056,"Mandarin Oriental, Bodrum",0,11
+BOD058,Bodrum Beach Resort,0,11
+BOD059,Bodrum Hotel Baba,0,11
+BOD060,Club Shark Hotel,23,43
+BOD061,Gümbet Anıl Beach,21,41
+BOD064,Jasmin Elite Residence & Spa,68,88
+BOD065,Mirada Exclusive Bodrum,43,63
+BOD066,Royal Asarlik Beach Hotel & Spa,54,74
+BOD068,Selectum Colours Bodrum,25,45
+BOD072,VERY CHIC BODRUM,0,11
+BOD073,Arriba Apartment & Restaurant & Bungalows,0,10
+BOD074,Begonvil Gümüşlük,0,3
+BOD076,Gümüşlük No3,0,6
+BOD078,Liman Hotel Gümüslük (Adult only),0,11
+BOD081,Oda Bodrum Gümüşlük,8,28
+BOD082,Otel Gümüşlük,0,18
+BOD085,Paradise Gümüşlük,0,12
+BOD086,Vega Aparts,0,20
+BOD088,Baia Bodrum Hotel,20,40
+BOD089,Cape Bodrum Luxury Hotel & Beach,8,28
+BOD090,Costa Farilya Special Class Hotel Bodrum,47,67
+BOD091,Gündoğan Suites,0,6
+BOD095,Mivara Luxury Bodrum,38,58
+BOD096,Olira Boutique Hotel&SPA,7,27
+BOD097,OLİVE TREE HOTEL,0,11
+BOD100,Villa Rustica Hotel,0,8
+BOD106,La Blanche Island Bodrum,37,57
+BOD107,Le Méridien Bodrum Beach Resort,24,44
+BOD108,Lujo Hotel Bodrum,21,41
+BOD110,Titanic Luxury Collection Bodrum,15,35
+BOD111,Zena Hotel Bodrum,0,9
+BOD112,Azure By Yelken Hotel,21,41
+BOD115,Yasmin Bodrum Resort,27,47
+BOD118,Amfora Hotel,0,10
+BOD120,Celeste Bella Luxury Hotel & Spa,19,39
+BOD122,Florida Otel,0,11
+BOD124,Irmak Boutique Hotel,0,6
+BOD126,Khai Hotel Bodrum,7,27
+BOD128,Lugga Boutique Hotel & Beach,5,25
+BOD130,Petunya Beach Resort,24,44
+BOD131,Regia Mare Beach Hotel Bodrum,24,44
+BOD134,Yakamoz Otel,0,18
+BOD136,Zest Exclusive Hotel and Spa,4,24
+BOD140,DoubleTree by Hilton Bodrum Işıl Club All-Inclusive Resort,25,45
+BOD141,DUJA BODRUM,32,52
+BOD144,Mira Suites,0,2
+BOD147,Omar Hotel & Suites,0,14
+BOD151,Sarpedor Boutique Hotel & SPA,30,50
+BOD152,"Susona Bodrum, LXR Hotels & Resorts",53,73
+BOD158,Arin Resort Bodrum,5,25
+BOD162,Rammos Managed by Dedeman,45,65
+BOD165,Caja by Maxx Royal,0,4
+BOD167,Elista Hotel & Spa,42,62
+BOD170,No:81 Hotel,15,35
+BOD172,Ailla Yalıkavak,14,34
+BOD173,Allium Bodrum Resort & Spa,45,65
+BOD174,Arts Hotel Bodrum Yalıkavak,15,35
+BOD175,Avantgarde Refined Hotel | Yalıkavak,14,34
+BOD177,Delta Hotels By Marriott Bodrum,0,7
+BOD180,MGallery The Bodrum Hotel Yalıkavak,36,56
+BOD181,Palmalife Bodrum Resort & Spa,0,12
+BOD184,Sea Palm Otel -YALIKAVAK,0,14
+BOD186,Sirene Luxury Hotel Bodrum,35,55
+BOD187,Spektr Boutique Hotel Yalikavak,34,54
+BOD189,The Bodrum EDITION,42,62
+BOD190,The Sign Highlight Hotel,0,18
+BOD191,Yalıkavak Marina Hotel by METT Collection,40,60
+BOD192,Yalıpark Beach Hotel,58,78

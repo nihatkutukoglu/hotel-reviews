@@ -1,0 +1,59 @@
+hotel_id,hotel_name,area,customer_voice_support,google_travel_mean_rating,trip_mean_rating_5,google_strength_signals,google_concern_signals,archetypes
+BOD002,Armonia Holiday Village & Spa,Akyarlar,MEDIUM,3.6,3.8181818181818175,ROOM;FOOD;BAR_DRINKS,CLEANLINESS;NOISE;POOL,family_oriented_profile;wellness_oriented_profile
+BOD003,ASPAT HOTEL BODRUM Beach Restaurant,Akyarlar,HIGH,4.433333333333334,3.678571428571429,BEACH_SEA;STAFF;ROOM,SERVICE;MANAGEMENT;REFUND_PAYMENT,platform_consistent_strong_profile;source_divergent_profile
+BOD004,Bendis Beach Hotel,Akyarlar,MEDIUM,2.0,3.954545454545455,ANIMATION_ENTERTAINMENT;REFUND_PAYMENT,ROOM;CLEANLINESS;FAMILY_KIDS,platform_consistent_concern_profile;family_oriented_profile;beach_oriented_profile;wellness_oriented_profile;source_divergent_profile
+BOD007,Kefaluka Resort,Akyarlar,HIGH,4.066666666666666,4.259090909090909,STAFF;FOOD;ANIMATION_ENTERTAINMENT,SERVICE;RESERVATION;REFUND_PAYMENT,platform_consistent_strong_profile;family_oriented_profile;beach_oriented_profile;wellness_oriented_profile
+BOD008,LA BREZZA SUITE &HOTEL,Akyarlar,HIGH,5.0,4.009090909090909,ROOM;STAFF;FOOD,,platform_consistent_strong_profile;family_oriented_profile;source_divergent_profile
+BOD010,Mare Garden Hotel,Akyarlar,MEDIUM,3.2,4.0,COMMUNICATION,LOCATION;HYGIENE;BAR_DRINKS,platform_consistent_concern_profile;beach_oriented_profile
+BOD011,"Radisson Collection Hotel, Bodrum",Akyarlar,MEDIUM,4.8,4.75,STAFF;BEACH_SEA;FOOD,,platform_consistent_strong_profile;wellness_oriented_profile
+BOD012,Selectum Collection Bodrum,Akyarlar,MEDIUM,4.1,4.613636363636363,FOOD;NOISE;ANIMATION_ENTERTAINMENT,FAMILY_KIDS,platform_consistent_strong_profile;family_oriented_profile;wellness_oriented_profile
+BOD013,"Sentido Bellazure - Akyarlar, Bodrum / Turkey",Akyarlar,HIGH,4.027777777777778,4.375,FOOD;ROOM;STAFF,RESERVATION;HYGIENE;AIR_CONDITIONING,platform_consistent_strong_profile;family_oriented_profile;wellness_oriented_profile
+BOD014,Suum Bodrum Hotel & Beach,Akyarlar,MEDIUM,4.6,3.5454545454545454,BAR_DRINKS;ROOM;CLEANLINESS,MANAGEMENT,platform_consistent_strong_profile;wellness_oriented_profile;source_divergent_profile
+BOD016,Xanadu Island,Akyarlar,MEDIUM,3.8,4.909090909090909,CLEANLINESS;BAR_DRINKS;ROOM,LOCATION;COMMUNICATION;MANAGEMENT,platform_consistent_strong_profile;platform_consistent_concern_profile;wellness_oriented_profile;source_divergent_profile
+BOD020,Bitez Risa Hotel,Bitez,HIGH,4.32,3.75,STAFF;FOOD;PRICE_VALUE,NOISE;RESERVATION;HYGIENE,platform_consistent_strong_profile;family_oriented_profile
+BOD025,Halikarya Hotel & Restaurant Beach,Bitez,HIGH,2.4,4.4523809523809526,,CLEANLINESS;ROOM;STAFF,platform_consistent_concern_profile;source_divergent_profile
+BOD031,Okaliptus Otel,Bitez,HIGH,3.5,3.3191489361702127,BEACH_SEA;STAFF;BAR_DRINKS,ROOM;FOOD;CLEANLINESS,platform_consistent_concern_profile
+BOD033,Ramada Resort by Wyndham Bodrum,Bitez,HIGH,4.717948717948718,4.28671875,ROOM;CLEANLINESS;LOCATION,AIR_CONDITIONING,platform_consistent_strong_profile;wellness_oriented_profile
+BOD036,Bodrium Hotel & SPA,Bodrum Merkez,HIGH,5.0,4.696031746031746,STAFF;CLEANLINESS;FOOD,,platform_consistent_strong_profile;wellness_oriented_profile
+BOD043,METT Hotel & Beach Resort Bodrum,Bodrum Merkez,HIGH,4.6,4.588888888888889,SERVICE;ROOM;STAFF,,platform_consistent_strong_profile;beach_oriented_profile;wellness_oriented_profile
+BOD045,Salmakis Resort & Spa,Bodrum Merkez,HIGH,3.859375,3.872549019607843,FOOD;STAFF;CLEANLINESS,SERVICE;CHECKIN_CHECKOUT;MANAGEMENT,platform_consistent_strong_profile;family_oriented_profile;beach_oriented_profile;wellness_oriented_profile
+BOD048,Babana Hotel,Göltürkbükü,MEDIUM,5.0,4.0,STAFF;FOOD;BEACH_SEA,,platform_consistent_strong_profile;family_oriented_profile;source_divergent_profile
+BOD051,Faros Bodrum Hotel Göltürkbükü,Göltürkbükü,HIGH,4.523809523809524,3.1818181818181817,STAFF;BEACH_SEA;FOOD,,platform_consistent_strong_profile;platform_consistent_concern_profile;source_divergent_profile
+BOD055,Lavinya Otel Göltürkbükü,Göltürkbükü,MEDIUM,4.6,4.2727272727272725,BEACH_SEA;STAFF;FOOD,BAR_DRINKS,platform_consistent_strong_profile
+BOD056,"Mandarin Oriental, Bodrum",Göltürkbükü,HIGH,4.6,4.636363636363637,SERVICE;STAFF;LOCATION,PRICE_VALUE;FAMILY_KIDS;CHECKIN_CHECKOUT,platform_consistent_strong_profile;family_oriented_profile;beach_oriented_profile;wellness_oriented_profile
+BOD058,Bodrum Beach Resort,Gümbet,MEDIUM,4.4,3.840909090909091,ROOM;FOOD;POOL,COMMUNICATION;CHECKIN_CHECKOUT;FACILITIES,insufficient_signal
+BOD060,Club Shark Hotel,Gümbet,HIGH,4.307692307692308,4.325581395348837,STAFF;CLEANLINESS;FOOD,CHECKIN_CHECKOUT;REFUND_PAYMENT,platform_consistent_strong_profile;wellness_oriented_profile
+BOD061,Gümbet Anıl Beach,Gümbet,HIGH,4.0,4.219512195121951,FOOD;ROOM;STAFF,CHECKIN_CHECKOUT;FACILITIES;RESERVATION,platform_consistent_strong_profile;family_oriented_profile
+BOD064,Jasmin Elite Residence & Spa,Gümbet,HIGH,3.793103448275862,4.573863636363637,ROOM;CLEANLINESS;FOOD,STAFF;CHECKIN_CHECKOUT;COMMUNICATION,wellness_oriented_profile;source_divergent_profile
+BOD065,Mirada Exclusive Bodrum,Gümbet,HIGH,4.428571428571429,4.920634920634921,FOOD;BEACH_SEA;STAFF,,platform_consistent_strong_profile;family_oriented_profile;wellness_oriented_profile
+BOD066,Royal Asarlik Beach Hotel & Spa,Gümbet,HIGH,4.0200000000000005,3.79054054054054,ROOM;FOOD;STAFF,MANAGEMENT;REFUND_PAYMENT,platform_consistent_strong_profile;family_oriented_profile
+BOD068,Selectum Colours Bodrum,Gümbet,HIGH,3.9,3.9166666666666665,BAR_DRINKS;ROOM;FOOD,,platform_consistent_strong_profile;family_oriented_profile
+BOD071,Tropicana Beach Hotel,Gümbet,MEDIUM,3.36,3.9166666666666665,LOCATION;FAMILY_KIDS;TRANSPORT_TRANSFER,CLEANLINESS;NOISE;PRICE_VALUE,platform_consistent_concern_profile
+BOD073,Arriba Apartment & Restaurant & Bungalows,Gümüşlük,HIGH,4.153846153846154,4.55,FOOD;BEACH_SEA;PRICE_VALUE,NOISE;REFUND_PAYMENT,platform_consistent_strong_profile
+BOD074,Begonvil Gümüşlük,Gümüşlük,HIGH,4.857142857142857,5.0,CLEANLINESS;BEACH_SEA;ROOM,,platform_consistent_strong_profile
+BOD086,Vega Aparts,Gümüşlük,HIGH,4.5,3.825,STAFF;CLEANLINESS;PRICE_VALUE,BAR_DRINKS;CHECKIN_CHECKOUT,platform_consistent_strong_profile
+BOD088,Baia Bodrum Hotel,Gündoğan,HIGH,3.7,4.23125,ROOM;STAFF;BEACH_SEA,FACILITIES;PRICE_VALUE;CHECKIN_CHECKOUT,family_oriented_profile;beach_oriented_profile;wellness_oriented_profile
+BOD089,Cape Bodrum Luxury Hotel & Beach,Gündoğan,HIGH,4.6,4.928571428571429,STAFF;ROOM;BEACH_SEA,REFUND_PAYMENT;RESERVATION;HYGIENE,platform_consistent_strong_profile;family_oriented_profile;wellness_oriented_profile
+BOD090,Costa Farilya Special Class Hotel Bodrum,Gündoğan,HIGH,4.2,4.298507462686567,STAFF;FOOD;ROOM,PRICE_VALUE;NOISE;POOL,platform_consistent_strong_profile;wellness_oriented_profile
+BOD095,Mivara Luxury Bodrum,Gündoğan,HIGH,3.9,4.741379310344827,LOCATION;STAFF;ROOM,CHECKIN_CHECKOUT;MANAGEMENT,platform_consistent_strong_profile;family_oriented_profile;wellness_oriented_profile;source_divergent_profile
+BOD096,Olira Boutique Hotel&SPA,Gündoğan,HIGH,5.0,4.814814814814815,CLEANLINESS;ROOM;STAFF,,platform_consistent_strong_profile;family_oriented_profile;wellness_oriented_profile
+BOD106,La Blanche Island Bodrum,Güvercinlik,HIGH,3.727272727272727,4.789473684210527,FACILITIES;FOOD;BAR_DRINKS,,family_oriented_profile;beach_oriented_profile;wellness_oriented_profile;source_divergent_profile
+BOD107,Le Méridien Bodrum Beach Resort,Güvercinlik,HIGH,4.5,4.403409090909091,ROOM;BEACH_SEA;CLEANLINESS,MANAGEMENT;BAR_DRINKS;PRICE_VALUE,platform_consistent_strong_profile;family_oriented_profile;beach_oriented_profile;wellness_oriented_profile
+BOD108,Lujo Hotel Bodrum,Güvercinlik,HIGH,3.6,4.536585365853658,BEACH_SEA;STAFF;LOCATION,FOOD;ROOM;SERVICE,platform_consistent_concern_profile;family_oriented_profile;source_divergent_profile
+BOD111,Zena Hotel Bodrum,Güvercinlik,HIGH,3.8333333333333335,4.055555555555555,FOOD;STAFF;CLEANLINESS,NOISE;PRICE_VALUE;RESERVATION,platform_consistent_strong_profile
+BOD120,Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,HIGH,3.8,4.051282051282051,FOOD;CLEANLINESS;POOL,ROOM;STAFF;REFUND_PAYMENT,platform_consistent_strong_profile;platform_consistent_concern_profile;family_oriented_profile;wellness_oriented_profile
+BOD122,Florida Otel,Ortakent-Yahşi,MEDIUM,4.4,3.9318181818181817,FOOD;BEACH_SEA;CLEANLINESS,,platform_consistent_strong_profile
+BOD126,Khai Hotel Bodrum,Ortakent-Yahşi,HIGH,4.6,4.481481481481482,CLEANLINESS;FOOD;STAFF,SERVICE,platform_consistent_strong_profile;family_oriented_profile
+BOD128,Lugga Boutique Hotel & Beach,Ortakent-Yahşi,HIGH,4.781609195402299,4.6,CLEANLINESS;ROOM;STAFF,,platform_consistent_strong_profile;family_oriented_profile;wellness_oriented_profile
+BOD130,Petunya Beach Resort,Ortakent-Yahşi,HIGH,3.3,4.107954545454546,BEACH_SEA;STAFF;CLEANLINESS,BEACH_SEA;FOOD;ROOM,platform_consistent_concern_profile;family_oriented_profile;source_divergent_profile
+BOD131,Regia Mare Beach Hotel Bodrum,Ortakent-Yahşi,HIGH,4.6,4.409090909090909,FOOD;ROOM;BEACH_SEA,RESERVATION,platform_consistent_strong_profile;wellness_oriented_profile
+BOD134,Yakamoz Otel,Ortakent-Yahşi,MEDIUM,2.8,4.222222222222222,BEACH_SEA;FACILITIES,FOOD;PRICE_VALUE;STAFF,platform_consistent_concern_profile;source_divergent_profile
+BOD136,Zest Exclusive Hotel and Spa,Ortakent-Yahşi,HIGH,4.9,4.833333333333333,FOOD;BEACH_SEA;STAFF,,platform_consistent_strong_profile;wellness_oriented_profile
+BOD140,DoubleTree by Hilton Bodrum Işıl Club All-Inclusive Resort,Torba,HIGH,3.3,4.583333333333333,FOOD;ROOM;PRICE_VALUE,FOOD;ROOM;STAFF,platform_consistent_concern_profile;family_oriented_profile;beach_oriented_profile;wellness_oriented_profile;source_divergent_profile
+BOD147,Omar Hotel & Suites,Torba,MEDIUM,4.5,4.785714285714286,FOOD;BEACH_SEA;NOISE,BAR_DRINKS;MANAGEMENT;RESERVATION,platform_consistent_strong_profile
+BOD152,"Susona Bodrum, LXR Hotels & Resorts",Torba,HIGH,4.6,4.876712328767123,STAFF;FOOD;CLEANLINESS,COMMUNICATION;PRICE_VALUE;ANIMATION_ENTERTAINMENT,platform_consistent_strong_profile;family_oriented_profile;beach_oriented_profile;wellness_oriented_profile
+BOD162,Rammos Managed by Dedeman,Turgutreis,HIGH,4.85,4.3538461538461535,FOOD;CLEANLINESS;STAFF,,platform_consistent_strong_profile;wellness_oriented_profile
+BOD167,Elista Hotel & Spa,Türkbükü,HIGH,3.909090909090909,4.451612903225806,FOOD;ROOM;SERVICE,PRICE_VALUE;CHECKIN_CHECKOUT;COMMUNICATION,platform_consistent_strong_profile;wellness_oriented_profile
+BOD180,MGallery The Bodrum Hotel Yalıkavak,Yalıkavak,HIGH,4.95,4.696428571428571,LOCATION;FOOD;ROOM,,platform_consistent_strong_profile;family_oriented_profile;wellness_oriented_profile
+BOD189,The Bodrum EDITION,Yalıkavak,HIGH,3.8484848484848486,4.387096774193548,STAFF;SERVICE;FOOD,PRICE_VALUE;FAMILY_KIDS;CHECKIN_CHECKOUT,beach_oriented_profile;wellness_oriented_profile
+BOD190,The Sign Highlight Hotel,Yalıkavak,HIGH,4.35,2.4444444444444446,STAFF;SERVICE;BEACH_SEA,BAR_DRINKS;PRICE_VALUE;FACILITIES,platform_consistent_concern_profile;family_oriented_profile;wellness_oriented_profile;source_divergent_profile

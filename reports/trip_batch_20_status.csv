@@ -1,0 +1,21 @@
+﻿hotel_id,hotel_name,area,status,rows_saved,csv_path
+BOD002,Armonia Holiday Village & Spa,Akyarlar,COMPLETED,11,C:\Users\bilin\OneDrive\Masaüstü\bodrum\hotelrewiews\hotel-reviews\data\raw\reviews\trip\BOD002_armonia_holiday_village_spa.csv
+BOD004,Bendis Beach Hotel,Akyarlar,COMPLETED,11,C:\Users\bilin\OneDrive\Masaüstü\bodrum\hotelrewiews\hotel-reviews\data\raw\reviews\trip\BOD004_bendis_beach_hotel.csv
+BOD007,Kefaluka Resort,Akyarlar,COMPLETED,11,C:\Users\bilin\OneDrive\Masaüstü\bodrum\hotelrewiews\hotel-reviews\data\raw\reviews\trip\BOD007_kefaluka_resort.csv
+BOD010,Mare Garden Hotel,Akyarlar,COMPLETED,2,C:\Users\bilin\OneDrive\Masaüstü\bodrum\hotelrewiews\hotel-reviews\data\raw\reviews\trip\BOD010_mare_garden_hotel.csv
+BOD011,"Radisson Collection Hotel, Bodrum",Akyarlar,COMPLETED,11,C:\Users\bilin\OneDrive\Masaüstü\bodrum\hotelrewiews\hotel-reviews\data\raw\reviews\trip\BOD011_radisson_collection_hotel_bodrum.csv
+BOD012,Selectum Collection Bodrum,Akyarlar,COMPLETED,11,C:\Users\bilin\OneDrive\Masaüstü\bodrum\hotelrewiews\hotel-reviews\data\raw\reviews\trip\BOD012_selectum_collection_bodrum.csv
+BOD013,"Sentido Bellazure - Akyarlar, Bodrum / Turkey",Akyarlar,COMPLETED,8,C:\Users\bilin\OneDrive\Masaüstü\bodrum\hotelrewiews\hotel-reviews\data\raw\reviews\trip\BOD013_sentido_bellazure_akyarlar_bodrum_turkey.csv
+BOD014,Suum Bodrum Hotel & Beach,Akyarlar,COMPLETED,11,C:\Users\bilin\OneDrive\Masaüstü\bodrum\hotelrewiews\hotel-reviews\data\raw\reviews\trip\BOD014_suum_bodrum_hotel_beach.csv
+BOD016,Xanadu Island,Akyarlar,COMPLETED,11,C:\Users\bilin\OneDrive\Masaüstü\bodrum\hotelrewiews\hotel-reviews\data\raw\reviews\trip\BOD016_xanadu_island.csv
+BOD051,Faros Bodrum Hotel Göltürkbükü,Göltürkbükü,NOT_RUN,0,
+BOD055,Lavinya Otel Göltürkbükü,Göltürkbükü,NOT_RUN,0,
+BOD056,"Mandarin Oriental, Bodrum",Göltürkbükü,COMPLETED,11,C:\Users\bilin\OneDrive\Masaüstü\bodrum\hotelrewiews\hotel-reviews\data\raw\reviews\trip\BOD056_mandarin_oriental_bodrum.csv
+BOD058,Bodrum Beach Resort,Gümbet,COMPLETED,11,C:\Users\bilin\OneDrive\Masaüstü\bodrum\hotelrewiews\hotel-reviews\data\raw\reviews\trip\BOD058_bodrum_beach_resort.csv
+BOD059,Bodrum Hotel Baba,Gümbet,NOT_RUN,0,
+BOD071,Tropicana Beach Hotel,Gümbet,COMPLETED,12,C:\Users\bilin\OneDrive\Masaüstü\bodrum\hotelrewiews\hotel-reviews\data\raw\reviews\trip\BOD071_tropicana_beach_hotel.csv
+BOD072,VERY CHIC BODRUM,Gümbet,NOT_RUN,0,
+BOD073,Arriba Apartment & Restaurant & Bungalows,Gümüşlük,NOT_RUN,0,
+BOD074,Begonvil Gümüşlük,Gümüşlük,COMPLETED,3,C:\Users\bilin\OneDrive\Masaüstü\bodrum\hotelrewiews\hotel-reviews\data\raw\reviews\trip\BOD074_begonvil_gümüşlük.csv
+BOD076,Gümüşlük No3,Gümüşlük,COMPLETED,5,C:\Users\bilin\OneDrive\Masaüstü\bodrum\hotelrewiews\hotel-reviews\data\raw\reviews\trip\BOD076_gümüşlük_no3.csv
+BOD078,Liman Hotel Gümüslük (Adult only),Gümüşlük,COMPLETED,11,C:\Users\bilin\OneDrive\Masaüstü\bodrum\hotelrewiews\hotel-reviews\data\raw\reviews\trip\BOD078_liman_hotel_gümüslük_adult_only.csv

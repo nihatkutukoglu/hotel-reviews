@@ -1,0 +1,32 @@
+{
+  "captured_at": "2026-08-26T20:53:48Z",
+  "git_head": "14a3904835ed43174ae570f32536c630b48fd8b0",
+  "git_branch": "main",
+  "master_hotel_count": 192,
+  "trip_status_dist": {
+    "NOT_ATTEMPTED": 172,
+    "verified_direct": 20
+  },
+  "google_travel_status_dist": {
+    "verified_direct": 108,
+    "NOT_FOUND": 24,
+    "review_required": 60
+  },
+  "enabled_dist": {
+    "True": 119,
+    "False": 73
+  },
+  "google_clean_rows": 2336,
+  "google_clean_hotels": 104,
+  "trip_clean_rows": 195,
+  "trip_clean_hotels": 20,
+  "policy_hotels": 19,
+  "hotel360_rows": 192,
+  "hotel360_confidence_dist": {
+    "LOW": 92,
+    "MEDIUM": 10,
+    "HIGH": 6,
+    "VERY_LOW": 84
+  },
+  "test_count_baseline": 129
+}

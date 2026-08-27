@@ -1,0 +1,17 @@
+HOTEL 360 INTELLIGENCE SUMMARY
+========================================
+
+1. Hotel 360 layer covers all 192 master hotels, but only 58 have HIGH/MEDIUM confidence.
+2. 58 hotels have both Google Travel and Trip.com review data.
+3. 46 hotels are Google-only, 36 are Trip-only.
+4. 52 master hotels still have zero review-source data from this pipeline.
+5. 95 hotels have any Trip.com policy/amenity data.
+6. Archetype 'insufficient_signal': 66 hotels.
+7. Archetype 'low_data_profile': 50 hotels.
+8. Archetype 'platform_consistent_strong_profile;wellness_oriented_profile': 9 hotels.
+9. Archetype 'platform_consistent_strong_profile;family_oriented_profile;wellness_oriented_profile': 7 hotels.
+10. Archetype 'family_oriented_profile;beach_oriented_profile;wellness_oriented_profile': 7 hotels.
+11. Archetype 'platform_consistent_strong_profile': 7 hotels.
+12. No 'best hotel' ranking was produced - archetypes are descriptive, not comparative rankings.
+13. Cross-platform rating gaps are a divergence signal only, not a quality verdict (see notebook 18).
+14. Family/wellness/water feature counts come only from raw Trip.com policy text evidence, never inferred.

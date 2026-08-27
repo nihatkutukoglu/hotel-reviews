@@ -1,0 +1,385 @@
+﻿hotel_id,hotel_name,platform,v1_status,v2_status,change_type
+BOD001,Aksoy Taş Ev,google_travel,null,verified_direct,NEW_VERIFIED
+BOD002,Armonia Holiday Village & Spa,google_travel,null,verified_direct,NEW_VERIFIED
+BOD003,ASPAT HOTEL BODRUM Beach Restaurant,google_travel,null,verified_direct,NEW_VERIFIED
+BOD004,Bendis Beach Hotel,google_travel,null,verified_direct,NEW_VERIFIED
+BOD005,ByAkkan,google_travel,null,verified_direct,NEW_VERIFIED
+BOD006,Club Marma Hotel,google_travel,null,verified_direct,NEW_VERIFIED
+BOD007,Kefaluka Resort,google_travel,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD008,LA BREZZA SUITE &HOTEL,google_travel,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD009,LİV OTEL,google_travel,null,NOT_FOUND,STILL_NOT_FOUND
+BOD010,Mare Garden Hotel,google_travel,null,verified_direct,NEW_VERIFIED
+BOD011,"Radisson Collection Hotel, Bodrum",google_travel,null,verified_direct,NEW_VERIFIED
+BOD012,Selectum Collection Bodrum,google_travel,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD013,"Sentido Bellazure - Akyarlar, Bodrum / Turkey",google_travel,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD014,Suum Bodrum Hotel & Beach,google_travel,null,verified_direct,NEW_VERIFIED
+BOD015,The Ni Villas Akyarlar,google_travel,null,NOT_FOUND,STILL_NOT_FOUND
+BOD016,Xanadu Island,google_travel,null,verified_direct,NEW_VERIFIED
+BOD017,Ambrosia Otel Beach & Spa,google_travel,null,review_required,REVIEW_REQUIRED
+BOD018,Bitez Deniz Hotel - Restaurant - Beach,google_travel,null,review_required,REVIEW_REQUIRED
+BOD019,Bitez Garden Life Hotel&Suites,google_travel,null,review_required,REVIEW_REQUIRED
+BOD020,Bitez Risa Hotel,google_travel,null,verified_direct,NEW_VERIFIED
+BOD021,"Caresse, a Luxury Collection Resort & Spa, Bodrum",google_travel,null,verified_direct,NEW_VERIFIED
+BOD022,Dolce Vita Luxury Bungalows,google_travel,null,review_required,REVIEW_REQUIRED
+BOD023,Doria Hotel Bodrum,google_travel,null,review_required,REVIEW_REQUIRED
+BOD024,HAKAN OTEL,google_travel,null,verified_direct,NEW_VERIFIED
+BOD025,Halikarya Hotel & Restaurant Beach,google_travel,null,verified_direct,NEW_VERIFIED
+BOD026,Manuela Otel Bitez,google_travel,null,verified_direct,NEW_VERIFIED
+BOD027,Meis Apart Hotel,google_travel,null,review_required,REVIEW_REQUIRED
+BOD028,Mira Beach Resort Bodrum,google_travel,null,review_required,REVIEW_REQUIRED
+BOD029,Mumu Bodrum Hotel,google_travel,null,review_required,REVIEW_REQUIRED
+BOD030,Natur Garden Hotel Bitez Bodrum,google_travel,null,verified_direct,NEW_VERIFIED
+BOD031,Okaliptus Otel,google_travel,null,verified_direct,NEW_VERIFIED
+BOD032,Paloma Family Club Bitez,google_travel,null,verified_direct,NEW_VERIFIED
+BOD033,Ramada Resort by Wyndham Bodrum,google_travel,null,verified_direct,NEW_VERIFIED
+BOD034,Çınar Butik Otel Bodrum,google_travel,null,verified_direct,NEW_VERIFIED
+BOD035,Azka Otel - Bardakçı Koyu,google_travel,null,NOT_FOUND,STILL_NOT_FOUND
+BOD036,Bodrium Hotel & SPA,google_travel,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD037,Bodrum Bay Resort,google_travel,null,NOT_FOUND,STILL_NOT_FOUND
+BOD038,Casa Mare Bodrum,google_travel,null,NOT_FOUND,STILL_NOT_FOUND
+BOD039,Casa Nonna Bodrum,google_travel,null,NOT_FOUND,STILL_NOT_FOUND
+BOD040,Diamond of Bodrum Hotel,google_travel,null,NOT_FOUND,STILL_NOT_FOUND
+BOD041,La Quinta by Wyndham Bodrum,google_travel,null,review_required,REVIEW_REQUIRED
+BOD042,Mandarin Resort Hotel,google_travel,null,NOT_FOUND,STILL_NOT_FOUND
+BOD043,METT Hotel & Beach Resort Bodrum,google_travel,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD044,Noa Suite Hotel,google_travel,null,NOT_FOUND,STILL_NOT_FOUND
+BOD045,Salmakis Resort & Spa,google_travel,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD046,Senses Hotel,google_travel,null,NOT_FOUND,STILL_NOT_FOUND
+BOD047,The Marmara Bodrum,google_travel,null,NOT_FOUND,STILL_NOT_FOUND
+BOD048,Babana Hotel,google_travel,null,verified_direct,NEW_VERIFIED
+BOD049,Casa Del Mar Bodrum,google_travel,null,verified_direct,NEW_VERIFIED
+BOD050,Daphnis Hotel Gölköy,google_travel,null,review_required,REVIEW_REQUIRED
+BOD051,Faros Bodrum Hotel Göltürkbükü,google_travel,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD052,Flamm Bodrum,google_travel,null,verified_direct,NEW_VERIFIED
+BOD053,Gölköy Suites,google_travel,null,review_required,REVIEW_REQUIRED
+BOD054,Lavinya Maison,google_travel,null,verified_direct,NEW_VERIFIED
+BOD055,Lavinya Otel Göltürkbükü,google_travel,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD056,"Mandarin Oriental, Bodrum",google_travel,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD057,Selvi Bodrum,google_travel,null,verified_direct,NEW_VERIFIED
+BOD058,Bodrum Beach Resort,google_travel,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD059,Bodrum Hotel Baba,google_travel,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD060,Club Shark Hotel,google_travel,null,verified_direct,NEW_VERIFIED
+BOD061,Gümbet Anıl Beach,google_travel,null,verified_direct,NEW_VERIFIED
+BOD062,"Gümbet Cove Hotel, Muğla Türkiye",google_travel,null,review_required,REVIEW_REQUIRED
+BOD063,Jasmin Beach Hotel,google_travel,null,verified_direct,NEW_VERIFIED
+BOD064,Jasmin Elite Residence & Spa,google_travel,null,verified_direct,NEW_VERIFIED
+BOD065,Mirada Exclusive Bodrum,google_travel,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD066,Royal Asarlik Beach Hotel & Spa,google_travel,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD067,Sami Beach Hotel,google_travel,null,verified_direct,NEW_VERIFIED
+BOD068,Selectum Colours Bodrum,google_travel,null,verified_direct,NEW_VERIFIED
+BOD069,Siesta Beach Apart,google_travel,null,review_required,REVIEW_REQUIRED
+BOD070,The Luvi Hotel,google_travel,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD071,Tropicana Beach Hotel,google_travel,null,verified_direct,NEW_VERIFIED
+BOD072,VERY CHIC BODRUM,google_travel,null,review_required,REVIEW_REQUIRED
+BOD073,Arriba Apartment & Restaurant & Bungalows,google_travel,null,verified_direct,NEW_VERIFIED
+BOD074,Begonvil Gümüşlük,google_travel,null,verified_direct,NEW_VERIFIED
+BOD075,Benjamin Otel,google_travel,null,review_required,REVIEW_REQUIRED
+BOD076,Gümüşlük No3,google_travel,null,NOT_FOUND,STILL_NOT_FOUND
+BOD077,Ladonia Hotels Zemda,google_travel,null,verified_direct,NEW_VERIFIED
+BOD078,Liman Hotel Gümüslük (Adult only),google_travel,null,review_required,REVIEW_REQUIRED
+BOD079,Metin's Gümüşlük - Hotel & Restaurant,google_travel,null,review_required,REVIEW_REQUIRED
+BOD080,Myndos Oda & kahvalti,google_travel,null,verified_direct,NEW_VERIFIED
+BOD081,Oda Bodrum Gümüşlük,google_travel,null,NOT_FOUND,STILL_NOT_FOUND
+BOD082,Otel Gümüşlük,google_travel,null,review_required,REVIEW_REQUIRED
+BOD083,Oza butik hotel,google_travel,null,review_required,REVIEW_REQUIRED
+BOD084,Paradise Garden Apartments,google_travel,null,review_required,REVIEW_REQUIRED
+BOD085,Paradise Gümüşlük,google_travel,null,NOT_FOUND,STILL_NOT_FOUND
+BOD086,Vega Aparts,google_travel,null,verified_direct,NEW_VERIFIED
+BOD087,Wanderheaven Camping & Tiny House Bodrum,google_travel,null,verified_direct,NEW_VERIFIED
+BOD088,Baia Bodrum Hotel,google_travel,null,verified_direct,NEW_VERIFIED
+BOD089,Cape Bodrum Luxury Hotel & Beach,google_travel,null,verified_direct,NEW_VERIFIED
+BOD090,Costa Farilya Special Class Hotel Bodrum,google_travel,null,verified_direct,NEW_VERIFIED
+BOD091,Gündoğan Suites,google_travel,null,review_required,REVIEW_REQUIRED
+BOD092,Liona Hotel,google_travel,null,NOT_FOUND,STILL_NOT_FOUND
+BOD093,Malta Bodrum Hotel,google_travel,null,review_required,REVIEW_REQUIRED
+BOD094,Marje Villas,google_travel,null,NOT_FOUND,STILL_NOT_FOUND
+BOD095,Mivara Luxury Bodrum,google_travel,null,verified_direct,NEW_VERIFIED
+BOD096,Olira Boutique Hotel&SPA,google_travel,null,verified_direct,NEW_VERIFIED
+BOD097,OLİVE TREE HOTEL,google_travel,null,review_required,REVIEW_REQUIRED
+BOD098,Swissôtel Living Bodrum,google_travel,null,verified_direct,NEW_VERIFIED
+BOD099,Villa Oliva Butik Otel,google_travel,null,verified_direct,NEW_VERIFIED
+BOD100,Villa Rustica Hotel,google_travel,null,review_required,REVIEW_REQUIRED
+BOD101,Vita Bella Hotel Resort & Spa,google_travel,null,verified_direct,NEW_VERIFIED
+BOD102,Akyalı Butik Hotel,google_travel,null,verified_direct,NEW_VERIFIED
+BOD103,Green Bay Resort & Spa Bodrum,google_travel,null,review_required,REVIEW_REQUIRED
+BOD104,Greenport Bodrum,google_travel,null,verified_direct,NEW_VERIFIED
+BOD105,İsolina Hotel,google_travel,null,verified_direct,NEW_VERIFIED
+BOD106,La Blanche Island Bodrum,google_travel,null,verified_direct,NEW_VERIFIED
+BOD107,Le Méridien Bodrum Beach Resort,google_travel,null,verified_direct,NEW_VERIFIED
+BOD108,Lujo Hotel Bodrum,google_travel,null,verified_direct,NEW_VERIFIED
+BOD109,Oscar Seaside Hotel & Spa,google_travel,null,verified_direct,NEW_VERIFIED
+BOD110,Titanic Luxury Collection Bodrum,google_travel,null,review_required,REVIEW_REQUIRED
+BOD111,Zena Hotel Bodrum,google_travel,null,verified_direct,NEW_VERIFIED
+BOD112,Azure By Yelken Hotel,google_travel,null,NOT_FOUND,STILL_NOT_FOUND
+BOD113,Kadıkale Resort,google_travel,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD114,Sianji Well-Being Resort Thermal & Spa,google_travel,null,review_required,REVIEW_REQUIRED
+BOD115,Yasmin Bodrum Resort,google_travel,null,NOT_FOUND,STILL_NOT_FOUND
+BOD116,Acropol Of Bodrum Beach Hotel - Restaurant,google_travel,null,verified_direct,NEW_VERIFIED
+BOD117,Altınkaya Hotel,google_travel,null,review_required,REVIEW_REQUIRED
+BOD118,Amfora Hotel,google_travel,null,NOT_FOUND,STILL_NOT_FOUND
+BOD119,"Bodrum Suites Apart Otel, Ortakent - Yahşi",google_travel,null,verified_direct,NEW_VERIFIED
+BOD120,Celeste Bella Luxury Hotel & Spa,google_travel,null,verified_direct,NEW_VERIFIED
+BOD121,Eskiyalı Otel,google_travel,null,review_required,REVIEW_REQUIRED
+BOD122,Florida Otel,google_travel,null,verified_direct,NEW_VERIFIED
+BOD123,Hotel Marma Beach,google_travel,null,verified_direct,NEW_VERIFIED
+BOD124,Irmak Boutique Hotel,google_travel,null,review_required,REVIEW_REQUIRED
+BOD125,Kefi Beach Bodrum,google_travel,null,verified_direct,NEW_VERIFIED
+BOD126,Khai Hotel Bodrum,google_travel,null,verified_direct,NEW_VERIFIED
+BOD127,Kriss Hotel,google_travel,null,verified_direct,NEW_VERIFIED
+BOD128,Lugga Boutique Hotel & Beach,google_travel,null,verified_direct,NEW_VERIFIED
+BOD129,Meggs Bodrum,google_travel,null,verified_direct,NEW_VERIFIED
+BOD130,Petunya Beach Resort,google_travel,null,verified_direct,NEW_VERIFIED
+BOD131,Regia Mare Beach Hotel Bodrum,google_travel,null,verified_direct,NEW_VERIFIED
+BOD132,Viras Hotel & Beach,google_travel,null,verified_direct,NEW_VERIFIED
+BOD133,Yahşi Beach Hotel & Restaurant,google_travel,null,verified_direct,NEW_VERIFIED
+BOD134,Yakamoz Otel,google_travel,null,verified_direct,NEW_VERIFIED
+BOD135,Yılmaz Hotel | Bodrum Ortakent Otelleri,google_travel,null,review_required,REVIEW_REQUIRED
+BOD136,Zest Exclusive Hotel and Spa,google_travel,null,verified_direct,NEW_VERIFIED
+BOD137,Armagan Apart Hotel,google_travel,null,review_required,REVIEW_REQUIRED
+BOD138,Bodrum Blue Bay Otel,google_travel,null,review_required,REVIEW_REQUIRED
+BOD139,Casa Dell'arte Otel,google_travel,null,review_required,REVIEW_REQUIRED
+BOD140,DoubleTree by Hilton Bodrum Işıl Club All-Inclusive Resort,google_travel,null,verified_direct,NEW_VERIFIED
+BOD141,DUJA BODRUM,google_travel,null,NOT_FOUND,STILL_NOT_FOUND
+BOD142,Hotel Torbahan,google_travel,null,review_required,REVIEW_REQUIRED
+BOD143,Hotel Zeytinada,google_travel,null,verified_direct,NEW_VERIFIED
+BOD144,Mira Suites,google_travel,null,NOT_FOUND,STILL_NOT_FOUND
+BOD145,Moyo Luxury Hotel & Beach,google_travel,null,verified_direct,NEW_VERIFIED
+BOD146,Olivia Hotel,google_travel,null,verified_direct,NEW_VERIFIED
+BOD147,Omar Hotel & Suites,google_travel,null,verified_direct,NEW_VERIFIED
+BOD148,Rixos Premium Bodrum,google_travel,null,verified_direct,NEW_VERIFIED
+BOD149,Roota Bodrum,google_travel,null,NOT_FOUND,STILL_NOT_FOUND
+BOD150,Samara Hotel,google_travel,null,verified_direct,NEW_VERIFIED
+BOD151,Sarpedor Boutique Hotel & SPA,google_travel,null,review_required,REVIEW_REQUIRED
+BOD152,"Susona Bodrum, LXR Hotels & Resorts",google_travel,null,verified_direct,NEW_VERIFIED
+BOD153,The Oba Hotel,google_travel,null,verified_direct,NEW_VERIFIED
+BOD154,Toka Bodrum Hotel & Beach Club,google_travel,null,review_required,REVIEW_REQUIRED
+BOD155,Trend Life | Trendlife Hotels & Beach Club Bodrum Torba,google_travel,null,verified_direct,NEW_VERIFIED
+BOD156,Voyage Torba,google_travel,null,verified_direct,NEW_VERIFIED
+BOD157,Voyage Torba Private,google_travel,null,review_required,REVIEW_REQUIRED
+BOD158,Arin Resort Bodrum,google_travel,null,review_required,REVIEW_REQUIRED
+BOD159,Bodrum Ada Otel Turgutreis,google_travel,null,review_required,REVIEW_REQUIRED
+BOD160,La Blanche Resort Bodrum,google_travel,null,review_required,REVIEW_REQUIRED
+BOD161,MyElla Hotel Resort & Spa,google_travel,null,verified_direct,NEW_VERIFIED
+BOD162,Rammos Managed by Dedeman,google_travel,null,verified_direct,NEW_VERIFIED
+BOD163,Sundance Resort,google_travel,null,review_required,REVIEW_REQUIRED
+BOD164,Swissôtel Resort Bodrum Sahili,google_travel,null,review_required,REVIEW_REQUIRED
+BOD165,Caja by Maxx Royal,google_travel,null,review_required,REVIEW_REQUIRED
+BOD166,Divan Bodrum,google_travel,null,verified_direct,NEW_VERIFIED
+BOD167,Elista Hotel & Spa,google_travel,null,verified_direct,NEW_VERIFIED
+BOD168,Kuum Hotel & SPA Bodrum,google_travel,null,verified_direct,NEW_VERIFIED
+BOD169,MACAKIZI BODRUM,google_travel,null,verified_direct,NEW_VERIFIED
+BOD170,No:81 Hotel,google_travel,null,NOT_FOUND,STILL_NOT_FOUND
+BOD171,4 reasons Hotel Yalikavak,google_travel,null,verified_direct,NEW_VERIFIED
+BOD172,Ailla Yalıkavak,google_travel,null,NOT_FOUND,STILL_NOT_FOUND
+BOD173,Allium Bodrum Resort & Spa,google_travel,null,review_required,REVIEW_REQUIRED
+BOD174,Arts Hotel Bodrum Yalıkavak,google_travel,null,review_required,REVIEW_REQUIRED
+BOD175,Avantgarde Refined Hotel | Yalıkavak,google_travel,null,review_required,REVIEW_REQUIRED
+BOD176,Blue Point Yalikavak,google_travel,null,review_required,REVIEW_REQUIRED
+BOD177,Delta Hotels By Marriott Bodrum,google_travel,null,review_required,REVIEW_REQUIRED
+BOD178,Highlight Hotel Yalıkavak,google_travel,null,review_required,REVIEW_REQUIRED
+BOD179,Lizbonia Otel Yalikavak,google_travel,null,review_required,REVIEW_REQUIRED
+BOD180,MGallery The Bodrum Hotel Yalıkavak,google_travel,null,verified_direct,NEW_VERIFIED
+BOD181,Palmalife Bodrum Resort & Spa,google_travel,null,review_required,REVIEW_REQUIRED
+BOD182,Root Redrock Villas Yalıkavak - Bodrum,google_travel,null,review_required,REVIEW_REQUIRED
+BOD183,Ruins Luxury Resort,google_travel,null,review_required,REVIEW_REQUIRED
+BOD184,Sea Palm Otel -YALIKAVAK,google_travel,null,review_required,REVIEW_REQUIRED
+BOD185,Sezz Hotels Spa Wellness Yalıkavak,google_travel,null,review_required,REVIEW_REQUIRED
+BOD186,Sirene Luxury Hotel Bodrum,google_travel,null,review_required,REVIEW_REQUIRED
+BOD187,Spektr Boutique Hotel Yalikavak,google_travel,null,review_required,REVIEW_REQUIRED
+BOD188,Tangiers Hotel Yalıkavak,google_travel,null,review_required,REVIEW_REQUIRED
+BOD189,The Bodrum EDITION,google_travel,null,verified_direct,NEW_VERIFIED
+BOD190,The Sign Highlight Hotel,google_travel,null,verified_direct,NEW_VERIFIED
+BOD191,Yalıkavak Marina Hotel by METT Collection,google_travel,null,verified_direct,NEW_VERIFIED
+BOD192,Yalıpark Beach Hotel,google_travel,MISSING_LINK_RECORD,review_required,REVIEW_REQUIRED
+BOD001,Aksoy Taş Ev,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD002,Armonia Holiday Village & Spa,trip,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD003,ASPAT HOTEL BODRUM Beach Restaurant,trip,null,verified_direct,NEW_VERIFIED
+BOD004,Bendis Beach Hotel,trip,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD005,ByAkkan,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD006,Club Marma Hotel,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD007,Kefaluka Resort,trip,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD008,LA BREZZA SUITE &HOTEL,trip,null,verified_direct,NEW_VERIFIED
+BOD009,LİV OTEL,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD010,Mare Garden Hotel,trip,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD011,"Radisson Collection Hotel, Bodrum",trip,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD012,Selectum Collection Bodrum,trip,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD013,"Sentido Bellazure - Akyarlar, Bodrum / Turkey",trip,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD014,Suum Bodrum Hotel & Beach,trip,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD015,The Ni Villas Akyarlar,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD016,Xanadu Island,trip,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD017,Ambrosia Otel Beach & Spa,trip,null,verified_direct,NEW_VERIFIED
+BOD018,Bitez Deniz Hotel - Restaurant - Beach,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD019,Bitez Garden Life Hotel&Suites,trip,null,review_required,REVIEW_REQUIRED
+BOD020,Bitez Risa Hotel,trip,null,verified_direct,NEW_VERIFIED
+BOD021,"Caresse, a Luxury Collection Resort & Spa, Bodrum",trip,null,verified_direct,NEW_VERIFIED
+BOD022,Dolce Vita Luxury Bungalows,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD023,Doria Hotel Bodrum,trip,null,review_required,REVIEW_REQUIRED
+BOD024,HAKAN OTEL,trip,null,review_required,REVIEW_REQUIRED
+BOD025,Halikarya Hotel & Restaurant Beach,trip,null,verified_direct,NEW_VERIFIED
+BOD026,Manuela Otel Bitez,trip,null,review_required,REVIEW_REQUIRED
+BOD027,Meis Apart Hotel,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD028,Mira Beach Resort Bodrum,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD029,Mumu Bodrum Hotel,trip,null,verified_direct,NEW_VERIFIED
+BOD030,Natur Garden Hotel Bitez Bodrum,trip,null,review_required,REVIEW_REQUIRED
+BOD031,Okaliptus Otel,trip,null,verified_direct,NEW_VERIFIED
+BOD032,Paloma Family Club Bitez,trip,null,review_required,REVIEW_REQUIRED
+BOD033,Ramada Resort by Wyndham Bodrum,trip,null,verified_direct,NEW_VERIFIED
+BOD034,Çınar Butik Otel Bodrum,trip,null,review_required,REVIEW_REQUIRED
+BOD035,Azka Otel - Bardakçı Koyu,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD036,Bodrium Hotel & SPA,trip,null,verified_direct,NEW_VERIFIED
+BOD037,Bodrum Bay Resort,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD038,Casa Mare Bodrum,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD039,Casa Nonna Bodrum,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD040,Diamond of Bodrum Hotel,trip,null,review_required,REVIEW_REQUIRED
+BOD041,La Quinta by Wyndham Bodrum,trip,null,verified_direct,NEW_VERIFIED
+BOD042,Mandarin Resort Hotel,trip,null,ERROR,STILL_NOT_FOUND
+BOD043,METT Hotel & Beach Resort Bodrum,trip,null,verified_direct,NEW_VERIFIED
+BOD044,Noa Suite Hotel,trip,null,review_required,REVIEW_REQUIRED
+BOD045,Salmakis Resort & Spa,trip,null,verified_direct,NEW_VERIFIED
+BOD046,Senses Hotel,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD047,The Marmara Bodrum,trip,null,review_required,REVIEW_REQUIRED
+BOD048,Babana Hotel,trip,null,verified_direct,NEW_VERIFIED
+BOD049,Casa Del Mar Bodrum,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD050,Daphnis Hotel Gölköy,trip,null,review_required,REVIEW_REQUIRED
+BOD051,Faros Bodrum Hotel Göltürkbükü,trip,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD052,Flamm Bodrum,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD053,Gölköy Suites,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD054,Lavinya Maison,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD055,Lavinya Otel Göltürkbükü,trip,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD056,"Mandarin Oriental, Bodrum",trip,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD057,Selvi Bodrum,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD058,Bodrum Beach Resort,trip,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD059,Bodrum Hotel Baba,trip,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD060,Club Shark Hotel,trip,null,verified_direct,NEW_VERIFIED
+BOD061,Gümbet Anıl Beach,trip,null,verified_direct,NEW_VERIFIED
+BOD062,"Gümbet Cove Hotel, Muğla Türkiye",trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD063,Jasmin Beach Hotel,trip,null,ERROR,STILL_NOT_FOUND
+BOD064,Jasmin Elite Residence & Spa,trip,null,verified_direct,NEW_VERIFIED
+BOD065,Mirada Exclusive Bodrum,trip,null,verified_direct,NEW_VERIFIED
+BOD066,Royal Asarlik Beach Hotel & Spa,trip,null,verified_direct,NEW_VERIFIED
+BOD067,Sami Beach Hotel,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD068,Selectum Colours Bodrum,trip,null,verified_direct,NEW_VERIFIED
+BOD069,Siesta Beach Apart,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD070,The Luvi Hotel,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD071,Tropicana Beach Hotel,trip,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD072,VERY CHIC BODRUM,trip,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD073,Arriba Apartment & Restaurant & Bungalows,trip,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD074,Begonvil Gümüşlük,trip,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD075,Benjamin Otel,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD076,Gümüşlük No3,trip,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD077,Ladonia Hotels Zemda,trip,null,review_required,REVIEW_REQUIRED
+BOD078,Liman Hotel Gümüslük (Adult only),trip,verified_direct,verified_direct,UNCHANGED_VERIFIED
+BOD079,Metin's Gümüşlük - Hotel & Restaurant,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD080,Myndos Oda & kahvalti,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD081,Oda Bodrum Gümüşlük,trip,null,verified_direct,NEW_VERIFIED
+BOD082,Otel Gümüşlük,trip,null,verified_direct,NEW_VERIFIED
+BOD083,Oza butik hotel,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD084,Paradise Garden Apartments,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD085,Paradise Gümüşlük,trip,null,verified_direct,NEW_VERIFIED
+BOD086,Vega Aparts,trip,null,verified_direct,NEW_VERIFIED
+BOD087,Wanderheaven Camping & Tiny House Bodrum,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD088,Baia Bodrum Hotel,trip,null,verified_direct,NEW_VERIFIED
+BOD089,Cape Bodrum Luxury Hotel & Beach,trip,null,verified_direct,NEW_VERIFIED
+BOD090,Costa Farilya Special Class Hotel Bodrum,trip,null,verified_direct,NEW_VERIFIED
+BOD091,Gündoğan Suites,trip,null,verified_direct,NEW_VERIFIED
+BOD092,Liona Hotel,trip,null,review_required,REVIEW_REQUIRED
+BOD093,Malta Bodrum Hotel,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD094,Marje Villas,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD095,Mivara Luxury Bodrum,trip,null,verified_direct,NEW_VERIFIED
+BOD096,Olira Boutique Hotel&SPA,trip,null,verified_direct,NEW_VERIFIED
+BOD097,OLİVE TREE HOTEL,trip,null,verified_direct,NEW_VERIFIED
+BOD098,Swissôtel Living Bodrum,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD099,Villa Oliva Butik Otel,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD100,Villa Rustica Hotel,trip,null,verified_direct,NEW_VERIFIED
+BOD101,Vita Bella Hotel Resort & Spa,trip,null,review_required,REVIEW_REQUIRED
+BOD102,Akyalı Butik Hotel,trip,null,review_required,REVIEW_REQUIRED
+BOD103,Green Bay Resort & Spa Bodrum,trip,null,review_required,REVIEW_REQUIRED
+BOD104,Greenport Bodrum,trip,null,review_required,REVIEW_REQUIRED
+BOD105,İsolina Hotel,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD106,La Blanche Island Bodrum,trip,null,verified_direct,NEW_VERIFIED
+BOD107,Le Méridien Bodrum Beach Resort,trip,null,verified_direct,NEW_VERIFIED
+BOD108,Lujo Hotel Bodrum,trip,null,verified_direct,NEW_VERIFIED
+BOD109,Oscar Seaside Hotel & Spa,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD110,Titanic Luxury Collection Bodrum,trip,null,verified_direct,NEW_VERIFIED
+BOD111,Zena Hotel Bodrum,trip,null,verified_direct,NEW_VERIFIED
+BOD112,Azure By Yelken Hotel,trip,null,verified_direct,NEW_VERIFIED
+BOD113,Kadıkale Resort,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD114,Sianji Well-Being Resort Thermal & Spa,trip,null,review_required,REVIEW_REQUIRED
+BOD115,Yasmin Bodrum Resort,trip,null,verified_direct,NEW_VERIFIED
+BOD116,Acropol Of Bodrum Beach Hotel - Restaurant,trip,null,review_required,REVIEW_REQUIRED
+BOD117,Altınkaya Hotel,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD118,Amfora Hotel,trip,null,verified_direct,NEW_VERIFIED
+BOD119,"Bodrum Suites Apart Otel, Ortakent - Yahşi",trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD120,Celeste Bella Luxury Hotel & Spa,trip,null,verified_direct,NEW_VERIFIED
+BOD121,Eskiyalı Otel,trip,null,verified_direct,NEW_VERIFIED
+BOD122,Florida Otel,trip,null,verified_direct,NEW_VERIFIED
+BOD123,Hotel Marma Beach,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD124,Irmak Boutique Hotel,trip,null,verified_direct,NEW_VERIFIED
+BOD125,Kefi Beach Bodrum,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD126,Khai Hotel Bodrum,trip,null,verified_direct,NEW_VERIFIED
+BOD127,Kriss Hotel,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD128,Lugga Boutique Hotel & Beach,trip,null,verified_direct,NEW_VERIFIED
+BOD129,Meggs Bodrum,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD130,Petunya Beach Resort,trip,null,verified_direct,NEW_VERIFIED
+BOD131,Regia Mare Beach Hotel Bodrum,trip,null,verified_direct,NEW_VERIFIED
+BOD132,Viras Hotel & Beach,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD133,Yahşi Beach Hotel & Restaurant,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD134,Yakamoz Otel,trip,null,verified_direct,NEW_VERIFIED
+BOD135,Yılmaz Hotel | Bodrum Ortakent Otelleri,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD136,Zest Exclusive Hotel and Spa,trip,null,verified_direct,NEW_VERIFIED
+BOD137,Armagan Apart Hotel,trip,null,ERROR,STILL_NOT_FOUND
+BOD138,Bodrum Blue Bay Otel,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD139,Casa Dell'arte Otel,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD140,DoubleTree by Hilton Bodrum Işıl Club All-Inclusive Resort,trip,null,verified_direct,NEW_VERIFIED
+BOD141,DUJA BODRUM,trip,null,verified_direct,NEW_VERIFIED
+BOD142,Hotel Torbahan,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD143,Hotel Zeytinada,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD144,Mira Suites,trip,null,verified_direct,NEW_VERIFIED
+BOD145,Moyo Luxury Hotel & Beach,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD146,Olivia Hotel,trip,null,review_required,REVIEW_REQUIRED
+BOD147,Omar Hotel & Suites,trip,null,verified_direct,NEW_VERIFIED
+BOD148,Rixos Premium Bodrum,trip,null,ERROR,STILL_NOT_FOUND
+BOD149,Roota Bodrum,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD150,Samara Hotel,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD151,Sarpedor Boutique Hotel & SPA,trip,null,verified_direct,NEW_VERIFIED
+BOD152,"Susona Bodrum, LXR Hotels & Resorts",trip,null,verified_direct,NEW_VERIFIED
+BOD153,The Oba Hotel,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD154,Toka Bodrum Hotel & Beach Club,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD155,Trend Life | Trendlife Hotels & Beach Club Bodrum Torba,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD156,Voyage Torba,trip,null,review_required,REVIEW_REQUIRED
+BOD157,Voyage Torba Private,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD158,Arin Resort Bodrum,trip,null,verified_direct,NEW_VERIFIED
+BOD159,Bodrum Ada Otel Turgutreis,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD160,La Blanche Resort Bodrum,trip,null,review_required,REVIEW_REQUIRED
+BOD161,MyElla Hotel Resort & Spa,trip,null,review_required,REVIEW_REQUIRED
+BOD162,Rammos Managed by Dedeman,trip,null,verified_direct,NEW_VERIFIED
+BOD163,Sundance Resort,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD164,Swissôtel Resort Bodrum Sahili,trip,null,review_required,REVIEW_REQUIRED
+BOD165,Caja by Maxx Royal,trip,null,verified_direct,NEW_VERIFIED
+BOD166,Divan Bodrum,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD167,Elista Hotel & Spa,trip,null,verified_direct,NEW_VERIFIED
+BOD168,Kuum Hotel & SPA Bodrum,trip,null,review_required,REVIEW_REQUIRED
+BOD169,MACAKIZI BODRUM,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD170,No:81 Hotel,trip,null,verified_direct,NEW_VERIFIED
+BOD171,4 reasons Hotel Yalikavak,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD172,Ailla Yalıkavak,trip,null,verified_direct,NEW_VERIFIED
+BOD173,Allium Bodrum Resort & Spa,trip,null,verified_direct,NEW_VERIFIED
+BOD174,Arts Hotel Bodrum Yalıkavak,trip,null,verified_direct,NEW_VERIFIED
+BOD175,Avantgarde Refined Hotel | Yalıkavak,trip,null,verified_direct,NEW_VERIFIED
+BOD176,Blue Point Yalikavak,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD177,Delta Hotels By Marriott Bodrum,trip,null,verified_direct,NEW_VERIFIED
+BOD178,Highlight Hotel Yalıkavak,trip,null,review_required,REVIEW_REQUIRED
+BOD179,Lizbonia Otel Yalikavak,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD180,MGallery The Bodrum Hotel Yalıkavak,trip,null,verified_direct,NEW_VERIFIED
+BOD181,Palmalife Bodrum Resort & Spa,trip,null,verified_direct,NEW_VERIFIED
+BOD182,Root Redrock Villas Yalıkavak - Bodrum,trip,null,review_required,REVIEW_REQUIRED
+BOD183,Ruins Luxury Resort,trip,null,verified_direct,NEW_VERIFIED
+BOD184,Sea Palm Otel -YALIKAVAK,trip,null,verified_direct,NEW_VERIFIED
+BOD185,Sezz Hotels Spa Wellness Yalıkavak,trip,null,review_required,REVIEW_REQUIRED
+BOD186,Sirene Luxury Hotel Bodrum,trip,null,verified_direct,NEW_VERIFIED
+BOD187,Spektr Boutique Hotel Yalikavak,trip,null,verified_direct,NEW_VERIFIED
+BOD188,Tangiers Hotel Yalıkavak,trip,null,NOT_FOUND,STILL_NOT_FOUND
+BOD189,The Bodrum EDITION,trip,null,verified_direct,NEW_VERIFIED
+BOD190,The Sign Highlight Hotel,trip,null,verified_direct,NEW_VERIFIED
+BOD191,Yalıkavak Marina Hotel by METT Collection,trip,null,verified_direct,NEW_VERIFIED
+BOD192,Yalıpark Beach Hotel,trip,MISSING_LINK_RECORD,verified_direct,NEW_VERIFIED

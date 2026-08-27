@@ -1,0 +1,4 @@
+﻿hotel_id,hotel_name,source_a,source_b,text_similarity,review_date_similarity,candidate_duplicate
+BOD002,Armonia Holiday Village & Spa,trip,tripadvisor,1.0,0,True
+BOD002,Armonia Holiday Village & Spa,trip,tripadvisor,1.0,0,True
+BOD002,Armonia Holiday Village & Spa,trip,tripadvisor,0.999,0,True

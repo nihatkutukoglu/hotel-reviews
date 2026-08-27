@@ -209,22 +209,46 @@ def tarayici_olustur(headless: bool) -> webdriver.Chrome:
 
 
 def otel_adini_al(driver: webdriver.Chrome) -> str:
-    seciciler = (
-        (By.CSS_SELECTOR, "h1.FNkAEc.o4k8l"),
-        (By.CSS_SELECTOR, "h1[jsname='Xmv8Ce']"),
-        (By.CSS_SELECTOR, "h1[role='heading']"),
-    )
-    for nasil, secici in seciciler:
-        try:
-            eleman = WebDriverWait(driver, 12).until(
-                EC.visibility_of_element_located((nasil, secici))
-            )
-            metin = metni_temizle(eleman.text)
-            if metin:
-                return metin
-        except TimeoutException:
-            continue
-    return "Bilinmeyen otel"
+    """Hotel-name detection, ordered most- to least-reliable.
+
+    Google periodically rotates its CSS hash classes: the previous
+    selectors (h1.FNkAEc.o4k8l, h1[jsname='Xmv8Ce']) stopped matching
+    entirely on all 5 verified smoke-test hotels (current class observed:
+    h1.QORQHb.fZscne) - live-inspected 2026-08-26. Rather than chase the
+    next hash rotation, this depends only on tag/role semantics and the
+    page title, none of which are hash-based.
+    Returns "" (never a fake placeholder name) if nothing is found -
+    callers must treat that as detection failure, not a valid identity.
+    """
+    try:
+        eleman = WebDriverWait(driver, 12).until(
+            EC.visibility_of_element_located((By.TAG_NAME, "h1"))
+        )
+        metin = metni_temizle(eleman.get_attribute("aria-label") or eleman.text)
+        if metin:
+            return metin
+    except TimeoutException:
+        pass
+
+    try:
+        eleman = WebDriverWait(driver, 6).until(
+            EC.visibility_of_element_located((By.CSS_SELECTOR, "[role='heading']"))
+        )
+        metin = metni_temizle(eleman.get_attribute("aria-label") or eleman.text)
+        if metin:
+            return metin
+    except TimeoutException:
+        pass
+
+    # document.title is rendered server-side as "{Hotel Name} - Google ..."
+    # regardless of locale/redesign - a stable last-resort signal.
+    baslik = metni_temizle(driver.title)
+    if baslik and " - " in baslik:
+        aday = baslik.split(" - ", 1)[0].strip()
+        if aday:
+            return aday
+
+    return ""
 
 
 def devamini_ac(driver: webdriver.Chrome) -> int:
@@ -491,7 +515,18 @@ def karttan_kayit_al_guvenli(
         tarih = metni_temizle(tarihler[0].text) if tarihler else ""
         puanlar = kart.find_elements(By.CSS_SELECTOR, "div.GDWaad")
         puan = metni_temizle(puanlar[0].text) if puanlar else ""
-        yorum = yorum_metnini_al(kart, hizmet)
+
+        # div.K7oBsc is the current (2026-08-26 verified) review-body
+        # wrapper - preferred over the generic longest-span heuristic
+        # because it can't accidentally pick up an owner's reply text
+        # (which lives outside this wrapper) when the reply is longer
+        # than the guest's own review.
+        govde_bloklari = kart.find_elements(By.CSS_SELECTOR, "div.K7oBsc")
+        yorum = ""
+        if govde_bloklari:
+            yorum = metni_temizle(max((b.text for b in govde_bloklari), key=len, default=""))
+        if not yorum:
+            yorum = yorum_metnini_al(kart, hizmet)
     except StaleElementReferenceException:
         return None
 
@@ -563,6 +598,36 @@ def sayfayi_artimli_kaydir(driver: webdriver.Chrome) -> bool:
         return False
 
 
+def yorumlar_sekmesini_ac(driver: webdriver.Chrome) -> bool:
+    """Google Travel entity sayfasinda yorumlar artik ayri bir "Reviews"
+    sekmesinin arkasinda (canli DOM incelemesiyle dogrulandi, 2026-08-26);
+    bu sekme tiklanmadan div.Svr5cf.bKhjM kartlari hic yuklenmiyor.
+    Sekme bulunamazsa/tiklanamazsa False doner, cagiran taraf eski
+    davranisla (sayfadaki mevcut icerikle) devam edebilir.
+    """
+    try:
+        sekmeler = WebDriverWait(driver, 10).until(
+            lambda d: d.find_elements(By.CSS_SELECTOR, "[role='tab']") or False
+        )
+        sekme = next((s for s in sekmeler if s.text.strip() == "Reviews"
+                      or s.text.strip() == "Yorumlar"), None)
+        if sekme is None:
+            return False
+        driver.execute_script("arguments[0].scrollIntoView({block:'center'});", sekme)
+        time.sleep(0.3)
+        try:
+            sekme.click()
+        except ElementClickInterceptedException:
+            driver.execute_script("arguments[0].click();", sekme)
+        WebDriverWait(driver, 8).until(
+            lambda d: sekme.get_attribute("aria-selected") == "true"
+        )
+        time.sleep(1.5)
+        return True
+    except (TimeoutException, StaleElementReferenceException, JavascriptException):
+        return False
+
+
 def yorumlari_cek(
     driver: webdriver.Chrome,
     url: str,
@@ -573,6 +638,7 @@ def yorumlari_cek(
     time.sleep(SAYFA_ACILIS_BEKLEMESI)
     otel_adi = otel_adini_al(driver)
     print(f"Otel: {otel_adi}")
+    yorumlar_sekmesini_ac(driver)
 
     toplam = 0
     oturumda_gorulen: set[str] = set()

@@ -1,0 +1,21 @@
+finding_id,level,hotel_id,hotel_name,area,finding,evidence_metric,evidence_value,support_n,confidence,limitation
+1,OVERALL,,,,FOOD is among the most-mentioned aspects overall,n_mentions,1377,1377,See E17 tiers,"Rule-based dictionary, mention != sentiment"
+2,OVERALL,,,,STAFF is among the most-mentioned aspects overall,n_mentions,1376,1376,See E17 tiers,"Rule-based dictionary, mention != sentiment"
+3,OVERALL,,,,ROOM is among the most-mentioned aspects overall,n_mentions,1328,1328,See E17 tiers,"Rule-based dictionary, mention != sentiment"
+4,OVERALL,,,,CLEANLINESS is among the most-mentioned aspects overall,n_mentions,1174,1174,See E17 tiers,"Rule-based dictionary, mention != sentiment"
+5,OVERALL,,,,BEACH_SEA is among the most-mentioned aspects overall,n_mentions,1060,1060,See E17 tiers,"Rule-based dictionary, mention != sentiment"
+6,OVERALL,,,,LOCATION is among the most-mentioned aspects overall,n_mentions,815,815,See E17 tiers,"Rule-based dictionary, mention != sentiment"
+7,OVERALL,,,,BAR_DRINKS is among the most-mentioned aspects overall,n_mentions,758,758,See E17 tiers,"Rule-based dictionary, mention != sentiment"
+8,OVERALL,,,,SERVICE is among the most-mentioned aspects overall,n_mentions,700,700,See E17 tiers,"Rule-based dictionary, mention != sentiment"
+9,OVERALL,,,,PRICE_VALUE is among the most-mentioned aspects overall,n_mentions,690,690,See E17 tiers,"Rule-based dictionary, mention != sentiment"
+10,OVERALL,,,,NOISE is among the most-mentioned aspects overall,n_mentions,594,594,See E17 tiers,"Rule-based dictionary, mention != sentiment"
+11,HOTEL,BOD128,Lugga Boutique Hotel & Beach,Ortakent-Yahşi,"mean_rating=4.781609195402299, high_share=0.931",n_reviews,87,87,STRONGER,Google Travel sample only
+12,HOTEL,BOD057,Selvi Bodrum,Göltürkbükü,"mean_rating=3.5063291139240507, high_share=0.506",n_reviews,79,79,STRONGER,Google Travel sample only
+13,HOTEL,BOD060,Club Shark Hotel,Gümbet,"mean_rating=4.307692307692308, high_share=0.846",n_reviews,78,78,STRONGER,Google Travel sample only
+14,HOTEL,BOD013,"Sentido Bellazure - Akyarlar, Bodrum / Turkey",Akyarlar,"mean_rating=4.027777777777778, high_share=0.75",n_reviews,72,72,STRONGER,Google Travel sample only
+15,HOTEL,BOD052,Flamm Bodrum,Göltürkbükü,"mean_rating=4.463768115942029, high_share=0.855",n_reviews,69,69,STRONGER,Google Travel sample only
+16,HOTEL,BOD061,Gümbet Anıl Beach,Gümbet,"mean_rating=4.0, high_share=0.708",n_reviews,65,65,STRONGER,Google Travel sample only
+17,HOTEL,BOD045,Salmakis Resort & Spa,Bodrum Merkez,"mean_rating=3.859375, high_share=0.719",n_reviews,64,64,STRONGER,Google Travel sample only
+18,HOTEL,BOD007,Kefaluka Resort,Akyarlar,"mean_rating=4.066666666666666, high_share=0.733",n_reviews,60,60,STRONGER,Google Travel sample only
+19,HOTEL,BOD032,Paloma Family Club Bitez,Bitez,"mean_rating=4.583333333333333, high_share=0.917",n_reviews,60,60,STRONGER,Google Travel sample only
+20,HOTEL,BOD067,Sami Beach Hotel,Gümbet,"mean_rating=3.8135593220338975, high_share=0.695",n_reviews,59,59,STRONGER,Google Travel sample only

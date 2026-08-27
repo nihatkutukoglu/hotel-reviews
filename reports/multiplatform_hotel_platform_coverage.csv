@@ -1,0 +1,193 @@
+﻿hotel_id,hotel_name,area,has_google_travel_verified,has_trip_verified,has_tripadvisor_verified,platform_coverage_count
+BOD001,Aksoy Taş Ev,Akyarlar,False,False,False,0
+BOD002,Armonia Holiday Village & Spa,Akyarlar,False,True,True,2
+BOD003,ASPAT HOTEL BODRUM Beach Restaurant,Akyarlar,False,False,True,1
+BOD004,Bendis Beach Hotel,Akyarlar,False,True,True,2
+BOD005,ByAkkan,Akyarlar,False,False,False,0
+BOD006,Club Marma Hotel,Akyarlar,False,False,False,0
+BOD007,Kefaluka Resort,Akyarlar,True,True,True,3
+BOD008,LA BREZZA SUITE &HOTEL,Akyarlar,True,False,False,1
+BOD009,LİV OTEL,Akyarlar,False,False,False,0
+BOD010,Mare Garden Hotel,Akyarlar,False,True,True,2
+BOD011,"Radisson Collection Hotel, Bodrum",Akyarlar,False,True,True,2
+BOD012,Selectum Collection Bodrum,Akyarlar,True,True,True,3
+BOD013,"Sentido Bellazure - Akyarlar, Bodrum / Turkey",Akyarlar,True,True,True,3
+BOD014,Suum Bodrum Hotel & Beach,Akyarlar,False,True,True,2
+BOD015,The Ni Villas Akyarlar,Akyarlar,False,False,False,0
+BOD016,Xanadu Island,Akyarlar,False,True,True,2
+BOD017,Ambrosia Otel Beach & Spa,Bitez,False,False,False,0
+BOD018,Bitez Deniz Hotel - Restaurant - Beach,Bitez,False,False,False,0
+BOD019,Bitez Garden Life Hotel&Suites,Bitez,False,False,False,0
+BOD020,Bitez Risa Hotel,Bitez,False,False,False,0
+BOD021,"Caresse, a Luxury Collection Resort & Spa, Bodrum",Bitez,False,False,False,0
+BOD022,Dolce Vita Luxury Bungalows,Bitez,False,False,False,0
+BOD023,Doria Hotel Bodrum,Bitez,False,False,False,0
+BOD024,HAKAN OTEL,Bitez,False,False,False,0
+BOD025,Halikarya Hotel & Restaurant Beach,Bitez,False,False,False,0
+BOD026,Manuela Otel Bitez,Bitez,False,False,False,0
+BOD027,Meis Apart Hotel,Bitez,False,False,False,0
+BOD028,Mira Beach Resort Bodrum,Bitez,False,False,False,0
+BOD029,Mumu Bodrum Hotel,Bitez,False,False,False,0
+BOD030,Natur Garden Hotel Bitez Bodrum,Bitez,False,False,False,0
+BOD031,Okaliptus Otel,Bitez,False,False,False,0
+BOD032,Paloma Family Club Bitez,Bitez,False,False,False,0
+BOD033,Ramada Resort by Wyndham Bodrum,Bitez,False,False,False,0
+BOD034,Çınar Butik Otel Bodrum,Bitez,False,False,False,0
+BOD035,Azka Otel - Bardakçı Koyu,Bodrum Merkez,False,False,True,1
+BOD036,Bodrium Hotel & SPA,Bodrum Merkez,True,False,True,2
+BOD037,Bodrum Bay Resort,Bodrum Merkez,False,False,False,0
+BOD038,Casa Mare Bodrum,Bodrum Merkez,False,False,False,0
+BOD039,Casa Nonna Bodrum,Bodrum Merkez,False,False,False,0
+BOD040,Diamond of Bodrum Hotel,Bodrum Merkez,False,False,False,0
+BOD041,La Quinta by Wyndham Bodrum,Bodrum Merkez,False,False,False,0
+BOD042,Mandarin Resort Hotel,Bodrum Merkez,False,False,False,0
+BOD043,METT Hotel & Beach Resort Bodrum,Bodrum Merkez,True,False,False,1
+BOD044,Noa Suite Hotel,Bodrum Merkez,False,False,False,0
+BOD045,Salmakis Resort & Spa,Bodrum Merkez,True,False,False,1
+BOD046,Senses Hotel,Bodrum Merkez,False,False,False,0
+BOD047,The Marmara Bodrum,Bodrum Merkez,False,False,False,0
+BOD048,Babana Hotel,Göltürkbükü,False,False,False,0
+BOD049,Casa Del Mar Bodrum,Göltürkbükü,False,False,False,0
+BOD050,Daphnis Hotel Gölköy,Göltürkbükü,False,False,False,0
+BOD051,Faros Bodrum Hotel Göltürkbükü,Göltürkbükü,True,True,True,3
+BOD052,Flamm Bodrum,Göltürkbükü,False,False,True,1
+BOD053,Gölköy Suites,Göltürkbükü,False,False,True,1
+BOD054,Lavinya Maison,Göltürkbükü,False,False,False,0
+BOD055,Lavinya Otel Göltürkbükü,Göltürkbükü,True,True,True,3
+BOD056,"Mandarin Oriental, Bodrum",Göltürkbükü,True,True,True,3
+BOD057,Selvi Bodrum,Göltürkbükü,False,False,True,1
+BOD058,Bodrum Beach Resort,Gümbet,True,True,True,3
+BOD059,Bodrum Hotel Baba,Gümbet,True,True,False,2
+BOD060,Club Shark Hotel,Gümbet,False,False,False,0
+BOD061,Gümbet Anıl Beach,Gümbet,False,False,False,0
+BOD062,"Gümbet Cove Hotel, Muğla Türkiye",Gümbet,False,False,False,0
+BOD063,Jasmin Beach Hotel,Gümbet,False,False,False,0
+BOD064,Jasmin Elite Residence & Spa,Gümbet,False,False,False,0
+BOD065,Mirada Exclusive Bodrum,Gümbet,True,False,False,1
+BOD066,Royal Asarlik Beach Hotel & Spa,Gümbet,True,False,False,1
+BOD067,Sami Beach Hotel,Gümbet,False,False,False,0
+BOD068,Selectum Colours Bodrum,Gümbet,False,False,False,0
+BOD069,Siesta Beach Apart,Gümbet,False,False,False,0
+BOD070,The Luvi Hotel,Gümbet,True,False,False,1
+BOD071,Tropicana Beach Hotel,Gümbet,False,True,True,2
+BOD072,VERY CHIC BODRUM,Gümbet,False,True,True,2
+BOD073,Arriba Apartment & Restaurant & Bungalows,Gümüşlük,False,True,True,2
+BOD074,Begonvil Gümüşlük,Gümüşlük,False,True,True,2
+BOD075,Benjamin Otel,Gümüşlük,False,False,True,1
+BOD076,Gümüşlük No3,Gümüşlük,False,True,True,2
+BOD077,Ladonia Hotels Zemda,Gümüşlük,False,False,False,0
+BOD078,Liman Hotel Gümüslük (Adult only),Gümüşlük,False,True,True,2
+BOD079,Metin's Gümüşlük - Hotel & Restaurant,Gümüşlük,False,False,False,0
+BOD080,Myndos Oda & kahvalti,Gümüşlük,False,False,False,0
+BOD081,Oda Bodrum Gümüşlük,Gümüşlük,False,False,False,0
+BOD082,Otel Gümüşlük,Gümüşlük,False,False,False,0
+BOD083,Oza butik hotel,Gümüşlük,False,False,False,0
+BOD084,Paradise Garden Apartments,Gümüşlük,False,False,False,0
+BOD085,Paradise Gümüşlük,Gümüşlük,False,False,False,0
+BOD086,Vega Aparts,Gümüşlük,False,False,False,0
+BOD087,Wanderheaven Camping & Tiny House Bodrum,Gümüşlük,False,False,False,0
+BOD088,Baia Bodrum Hotel,Gündoğan,False,False,False,0
+BOD089,Cape Bodrum Luxury Hotel & Beach,Gündoğan,False,False,True,1
+BOD090,Costa Farilya Special Class Hotel Bodrum,Gündoğan,False,False,False,0
+BOD091,Gündoğan Suites,Gündoğan,False,False,True,1
+BOD092,Liona Hotel,Gündoğan,False,False,True,1
+BOD093,Malta Bodrum Hotel,Gündoğan,False,False,True,1
+BOD094,Marje Villas,Gündoğan,False,False,True,1
+BOD095,Mivara Luxury Bodrum,Gündoğan,False,False,True,1
+BOD096,Olira Boutique Hotel&SPA,Gündoğan,False,False,True,1
+BOD097,OLİVE TREE HOTEL,Gündoğan,False,False,True,1
+BOD098,Swissôtel Living Bodrum,Gündoğan,False,False,True,1
+BOD099,Villa Oliva Butik Otel,Gündoğan,False,False,False,0
+BOD100,Villa Rustica Hotel,Gündoğan,False,False,False,0
+BOD101,Vita Bella Hotel Resort & Spa,Gündoğan,False,False,False,0
+BOD102,Akyalı Butik Hotel,Güvercinlik,False,False,False,0
+BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,False,False,False,0
+BOD104,Greenport Bodrum,Güvercinlik,False,False,False,0
+BOD105,İsolina Hotel,Güvercinlik,False,False,False,0
+BOD106,La Blanche Island Bodrum,Güvercinlik,False,False,False,0
+BOD107,Le Méridien Bodrum Beach Resort,Güvercinlik,False,False,True,1
+BOD108,Lujo Hotel Bodrum,Güvercinlik,False,False,True,1
+BOD109,Oscar Seaside Hotel & Spa,Güvercinlik,False,False,False,0
+BOD110,Titanic Luxury Collection Bodrum,Güvercinlik,False,False,False,0
+BOD111,Zena Hotel Bodrum,Güvercinlik,False,False,False,0
+BOD112,Azure By Yelken Hotel,Kadıkalesi,False,False,False,0
+BOD113,Kadıkale Resort,Kadıkalesi,True,False,False,1
+BOD114,Sianji Well-Being Resort Thermal & Spa,Kadıkalesi,False,False,False,0
+BOD115,Yasmin Bodrum Resort,Kadıkalesi,False,False,False,0
+BOD116,Acropol Of Bodrum Beach Hotel - Restaurant,Ortakent-Yahşi,False,False,False,0
+BOD117,Altınkaya Hotel,Ortakent-Yahşi,False,False,False,0
+BOD118,Amfora Hotel,Ortakent-Yahşi,False,False,False,0
+BOD119,"Bodrum Suites Apart Otel, Ortakent - Yahşi",Ortakent-Yahşi,False,False,False,0
+BOD120,Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,False,False,False,0
+BOD121,Eskiyalı Otel,Ortakent-Yahşi,False,False,False,0
+BOD122,Florida Otel,Ortakent-Yahşi,False,False,False,0
+BOD123,Hotel Marma Beach,Ortakent-Yahşi,False,False,False,0
+BOD124,Irmak Boutique Hotel,Ortakent-Yahşi,False,False,False,0
+BOD125,Kefi Beach Bodrum,Ortakent-Yahşi,False,False,False,0
+BOD126,Khai Hotel Bodrum,Ortakent-Yahşi,False,False,False,0
+BOD127,Kriss Hotel,Ortakent-Yahşi,False,False,False,0
+BOD128,Lugga Boutique Hotel & Beach,Ortakent-Yahşi,False,False,False,0
+BOD129,Meggs Bodrum,Ortakent-Yahşi,False,False,False,0
+BOD130,Petunya Beach Resort,Ortakent-Yahşi,False,False,False,0
+BOD131,Regia Mare Beach Hotel Bodrum,Ortakent-Yahşi,False,False,False,0
+BOD132,Viras Hotel & Beach,Ortakent-Yahşi,False,False,False,0
+BOD133,Yahşi Beach Hotel & Restaurant,Ortakent-Yahşi,False,False,False,0
+BOD134,Yakamoz Otel,Ortakent-Yahşi,False,False,False,0
+BOD135,Yılmaz Hotel | Bodrum Ortakent Otelleri,Ortakent-Yahşi,False,False,False,0
+BOD136,Zest Exclusive Hotel and Spa,Ortakent-Yahşi,False,False,False,0
+BOD137,Armagan Apart Hotel,Torba,False,False,False,0
+BOD138,Bodrum Blue Bay Otel,Torba,False,False,False,0
+BOD139,Casa Dell'arte Otel,Torba,False,False,False,0
+BOD140,DoubleTree by Hilton Bodrum Işıl Club All-Inclusive Resort,Torba,False,False,False,0
+BOD141,DUJA BODRUM,Torba,False,False,False,0
+BOD142,Hotel Torbahan,Torba,False,False,False,0
+BOD143,Hotel Zeytinada,Torba,False,False,False,0
+BOD144,Mira Suites,Torba,False,False,False,0
+BOD145,Moyo Luxury Hotel & Beach,Torba,False,False,False,0
+BOD146,Olivia Hotel,Torba,False,False,False,0
+BOD147,Omar Hotel & Suites,Torba,False,False,False,0
+BOD148,Rixos Premium Bodrum,Torba,False,False,False,0
+BOD149,Roota Bodrum,Torba,False,False,False,0
+BOD150,Samara Hotel,Torba,False,False,False,0
+BOD151,Sarpedor Boutique Hotel & SPA,Torba,False,False,False,0
+BOD152,"Susona Bodrum, LXR Hotels & Resorts",Torba,False,False,False,0
+BOD153,The Oba Hotel,Torba,False,False,False,0
+BOD154,Toka Bodrum Hotel & Beach Club,Torba,False,False,False,0
+BOD155,Trend Life | Trendlife Hotels & Beach Club Bodrum Torba,Torba,False,False,False,0
+BOD156,Voyage Torba,Torba,False,False,False,0
+BOD157,Voyage Torba Private,Torba,False,False,False,0
+BOD158,Arin Resort Bodrum,Turgutreis,False,False,False,0
+BOD159,Bodrum Ada Otel Turgutreis,Turgutreis,False,False,False,0
+BOD160,La Blanche Resort Bodrum,Turgutreis,False,False,False,0
+BOD161,MyElla Hotel Resort & Spa,Turgutreis,False,False,False,0
+BOD162,Rammos Managed by Dedeman,Turgutreis,False,False,True,1
+BOD163,Sundance Resort,Turgutreis,False,False,False,0
+BOD164,Swissôtel Resort Bodrum Sahili,Turgutreis,False,False,False,0
+BOD165,Caja by Maxx Royal,Türkbükü,False,False,False,0
+BOD166,Divan Bodrum,Türkbükü,False,False,False,0
+BOD167,Elista Hotel & Spa,Türkbükü,False,False,False,0
+BOD168,Kuum Hotel & SPA Bodrum,Türkbükü,False,False,False,0
+BOD169,MACAKIZI BODRUM,Türkbükü,False,False,False,0
+BOD170,No:81 Hotel,Türkbükü,False,False,False,0
+BOD171,4 reasons Hotel Yalikavak,Yalıkavak,False,False,False,0
+BOD172,Ailla Yalıkavak,Yalıkavak,False,False,False,0
+BOD173,Allium Bodrum Resort & Spa,Yalıkavak,False,False,False,0
+BOD174,Arts Hotel Bodrum Yalıkavak,Yalıkavak,False,False,False,0
+BOD175,Avantgarde Refined Hotel | Yalıkavak,Yalıkavak,False,False,False,0
+BOD176,Blue Point Yalikavak,Yalıkavak,False,False,False,0
+BOD177,Delta Hotels By Marriott Bodrum,Yalıkavak,False,False,False,0
+BOD178,Highlight Hotel Yalıkavak,Yalıkavak,False,False,False,0
+BOD179,Lizbonia Otel Yalikavak,Yalıkavak,False,False,False,0
+BOD180,MGallery The Bodrum Hotel Yalıkavak,Yalıkavak,False,False,False,0
+BOD181,Palmalife Bodrum Resort & Spa,Yalıkavak,False,False,False,0
+BOD182,Root Redrock Villas Yalıkavak - Bodrum,Yalıkavak,False,False,False,0
+BOD183,Ruins Luxury Resort,Yalıkavak,False,False,False,0
+BOD184,Sea Palm Otel -YALIKAVAK,Yalıkavak,False,False,False,0
+BOD185,Sezz Hotels Spa Wellness Yalıkavak,Yalıkavak,False,False,False,0
+BOD186,Sirene Luxury Hotel Bodrum,Yalıkavak,False,False,False,0
+BOD187,Spektr Boutique Hotel Yalikavak,Yalıkavak,False,False,False,0
+BOD188,Tangiers Hotel Yalıkavak,Yalıkavak,False,False,False,0
+BOD189,The Bodrum EDITION,Yalıkavak,False,False,False,0
+BOD190,The Sign Highlight Hotel,Yalıkavak,False,False,False,0
+BOD191,Yalıkavak Marina Hotel by METT Collection,Yalıkavak,False,False,False,0
+BOD192,Yalıpark Beach Hotel,Yalıkavak,False,False,False,0

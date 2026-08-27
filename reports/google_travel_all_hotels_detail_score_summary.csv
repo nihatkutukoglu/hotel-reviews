@@ -1,0 +1,4 @@
+,count,mean,median,coverage_pct
+rooms_score,1514.0,4.140686922060766,5.0,64.8
+service_score,1514.0,4.19550858652576,5.0,64.8
+location_score,1514.0,4.487450462351387,5.0,64.8
